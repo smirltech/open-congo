@@ -1,0 +1,2 @@
+# o-congo
+Voici une #API qui permet aux programmeurs d'avoir accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo.  Elle a été développée par Francis Nduba Numbi pour SmirlTech et en daté d’aujourd’hui elle serra disponible à tous et au bénéfice de tous, gratuitement.  L’objectif reste d'associer à chaque province, ville et commune, des coordonnées permettant la géolocalisation et bien d'autres information.  Voici la documentation 👇

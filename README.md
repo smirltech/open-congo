@@ -10,7 +10,7 @@ Elle a été développée par Francis Nduba Numbi pour SmirlTech et en daté d�
 
 ## Installation
 
-après avoir cloné le projet, vous devez installer les dépendances requises en exécutant la commande suivante dans le dossier du projet:
+Après avoir cloné le projet, vous devez installer les dépendances requises en exécutant la commande suivante dans le dossier du projet:
 ```bash
 composer install
 ```
@@ -19,7 +19,7 @@ Vous pouvez ensuite lancer l'application avec 👇🏾.
 php artisan serve
 ```
 
-## How do I contribute to
+## Comment puis-je contribuer
 
 Contribution are encouraged and may be submitted by forking this project and submitting a pull request. Since this project is still in its very early stages, if your change is substantial, please raise an issue first to discuss it.
 

@@ -8,16 +8,15 @@ Elle a été développée par Francis Nduba Numbi pour SmirlTech et en daté d�
 
 ### Pour plus d'information dur les fonctionnalitées et l'architecure visitez [wiki page](https://github.com/devscast/devscast.org/wiki)
 
-## Installation & Running
+## Installation
 
-after cloning the project, you need to install the required dependencies by running the following command in the project folder
-
+après avoir cloné le projet, vous devez installer les dépendances requises en exécutant la commande suivante dans le dossier du projet:
 ```bash
-make install
+composer install
 ```
-You can then launch the application with 👇🏾.
+Vous pouvez ensuite lancer l'application avec 👇🏾.
 ```bash
-make dev
+php artisan serve
 ```
 
 ## How do I contribute to

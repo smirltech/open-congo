@@ -9,7 +9,8 @@ Elle a été développée par Francis Nduba Numbi pour SmirlTech et en 2021 elle
 L’objectif reste d'associer à chaque province, ville et commune, des coordonnées permettant la géolocalisation et bien d'autres information utiles.
 
 
-#### Refer to the [wiki page](https://github.com/smirtech/o-congo/wiki) for more information and features.
+#### You can find the online documentation in the wiki page.
+[wiki page](https://github.com/smirtech/o-congo/wiki) for more information and features.
 
 ## Installation & Running
 
@@ -24,6 +25,14 @@ Use this command in your terminal to run the application
 ```bash
 php artisan serve
 ``````
+
+
+You can also use the command below to generate the documentation
+
+```bash
+php artisan scribe:generate
+``````
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

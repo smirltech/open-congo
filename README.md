@@ -2,7 +2,7 @@
 
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 
-[FR] Une API qui permet aux programmeurs d'avoir accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo.
+[FR] Un projet qui donne accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo 🇨🇩.
 
 Elle a été développée par Francis Nduba Numbi pour SmirlTech et en 2021 elle a éte disponibilisée à tous et au bénéfice de tous. 
 

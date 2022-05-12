@@ -1,16 +1,16 @@
 # o-congo
 
-[![License: MIT](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![Lint](https://github.com/devscast/devscast.org/actions/workflows/lint.yaml/badge.svg)](https://github.com/devscast/devscast.org/actions/workflows/lint.yaml)
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 
-Voici une #API qui permet aux programmeurs d'avoir accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo.
+Une API qui permet aux programmeurs d'avoir accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo.
 
-Elle a été développée par Francis Nduba Numbi pour SmirlTech et en daté d’aujourd’hui elle serra disponible à tous et au bénéfice de tous, gratuitement. 
+Elle a été développée par Francis Nduba Numbi pour SmirlTech et en 2021 elle a éte disponibilisée à tous et au bénéfice de tous. 
 
-L’objectif reste d'associer à chaque province, ville et commune, des coordonnées permettant la géolocalisation et bien d'autres information.
+L’objectif reste d'associer à chaque province, ville et commune, des coordonnées permettant la géolocalisation et bien d'autres information utiles.
 
 Voici la documentation 👇
 
-#### Refer to the [wiki page](https://github.com/devscast/devscast.org/wiki) for more information and features.
+#### Refer to the [wiki page](https://github.com/smirtech/o-congo/wiki) for more information and features.
 
 ## Installation
 

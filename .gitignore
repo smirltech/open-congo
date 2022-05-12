@@ -15,6 +15,7 @@ npm-debug.log
 yarn-error.log
 /.idea
 /.vscode
+/.scribe
 envoy
 /storage/*
 envoy.blade.php

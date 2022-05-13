@@ -16,12 +16,12 @@ use Illuminate\Support\Str;
 class ProvinceController extends Controller
 {
     /**
-     * Display a listing of provinces.
+     * Afficher toutes les provinces.
 
-     * @queryParam nom The keyword to search for. No-example
-     * @queryParam page int The page number. No-example
-     * @queryParam per_page int The number of provinces on a page. No-example
-     * @queryParam sort_by string The order to sort by, asc or desc. No-example
+     * @queryParam nom Le nom de la province. No-example
+     * @queryParam page int Le numéro de la page à afficher. No-example
+     * @queryParam per_page int Le nombre de résultats par page. No-example
+     * @queryParam sort_by string L'ordre de tri. No-example
      *
      * @return PageableResource
      */
@@ -57,7 +57,7 @@ class ProvinceController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Afficher une province.
      *
      * @param Province $province
      * @return Response

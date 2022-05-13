@@ -258,7 +258,7 @@ O-CONGO est un projet open source qui donne accès à la liste complète et offi
 
 
 <strong>
-L'objectif de ce projet est de doter le monde ansi que la population locale, d'un accès libre et centralisé aux données et informations detaillées avec précision sur le pays, susceptibles de déclencher l'innovation parmi les entrepreneurs mais surtout d'eclairer nos choix au quotidient.
+L'objectif de ce projet est de doter le monde ansi que la population locale, d'un accès libre et centralisé aux données et informations detaillées avec précision sur le pays, susceptibles de déclencher l'innovation parmi les entrepreneurs mais surtout d'eclairer nos choix au quotidien.
 </strong>
 
 Cette documentation vise à fournir toutes les informations dont vous avez besoin pour consommer notre API.

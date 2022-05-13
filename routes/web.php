@@ -14,3 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::redirect('/', 'docs');
+
+Route::get('git-deploy', function () {
+    exec('git pull origin master');
+    return 'Deployed successfully';
+});

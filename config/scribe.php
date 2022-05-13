@@ -254,10 +254,16 @@ return [
      * Text to place in the "Introduction" section, right after the `description`. Markdown and HTML are supported.
      */
     'intro_text' => <<<INTRO
-This documentation aims to provide all the information you need to work with our API.
+O-congo est un projet qui donne accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo.
 
-<aside>As you scroll, you'll see code examples for working with the API in different programming languages in the dark area to the right (or as part of the content on mobile).
-You can switch the language used with the tabs at the top right (or from the nav menu at the top left on mobile).</aside>
+Cette documentation vise à fournir toutes les informations dont vous avez besoin pour travailler avec notre API.
+
+Vous pouvez contribuer à notre projet en envoyant vos suggestions à <a about="contact@smirltech.com">contact@smirltech.com</a> ou sur <a href="https://github.com/smirltech/o-congo">GitHub</a>.
+Ce projet est soutenu par la communauté de SmirlTech et rendu disponible sous la licence MIT.
+
+<aside>
+Au fur et à mesure que vous faites défiler, vous verrez des exemples de code pour travailler avec l'API dans différents langages de programmation dans la zone sombre à droite (ou dans le cadre du contenu sur mobile).
+Vous pouvez changer le langage utilisé avec les onglets en haut à droite (ou depuis le menu de navigation en haut à gauche sur mobile).</aside>
 INTRO
     ,
 
@@ -268,10 +274,10 @@ INTRO
      *
      */
     'example_languages' => [
+        'bash',
         'javascript',
         'php',
         'python',
-        'bash',
 
     ],
 

@@ -8,6 +8,7 @@ use App\Http\Resources\ProvinceResource;
 use App\Models\Province;
 use App\Http\Requests\StoreProvinceRequest;
 use App\Http\Requests\UpdateProvinceRequest;
+use Illuminate\Http\Request;
 use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Schema;
@@ -17,22 +18,26 @@ class ProvinceController extends Controller
 {
     /**
      * Display a listing of provinces.
-     *
+
+     * @queryParam nom The keyword to search for. No-example
+     * @queryParam page int The page number. No-example
+     * @queryParam per_page int The number of provinces on a page. No-example
+     * @queryParam sort_by string The order to sort by, asc or desc. No-example
      *
      * @return PageableResource
      */
-    public function index(ProvinceRequest $request)
+    public function index(Request $request)
     {
         $provinces = Province::query();
 
-        foreach ($request->validated() as $column => $value) {
+        foreach ($request->all() as $column => $value) {
             $op = "LIKE";
             if (Schema::hasColumn('provinces', $column)) {
                 $provinces->where($column, $op, "%{$value}%");
             }
         }
 
-        $provinces->orderBy('nom', $request->order_by ?? 'asc');
+        $provinces->orderBy('nom', $request->sort_by ?? 'asc');
         $provinces = $provinces->paginate($request->per_page ?? 26);
 
         return new PageableResource(ProvinceResource::collection($provinces));

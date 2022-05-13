@@ -9,7 +9,7 @@ O-CONGO est un projet open source qui donne accès à la liste complète et offi
 Pour toute information sur comment consommer l'API, rendez-vous sur [la page de documentation](https://o-congo.smirltech.com/docs).
 
 
-## Installation & Running
+### Installation
 
 Afrter clonnig the repositorry, use the command below to install dependencies
 
@@ -24,7 +24,7 @@ php artisan serve
 ``````
 
 
-## Contributing
+### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.

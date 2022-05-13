@@ -15,4 +15,10 @@ class Ville extends Model
         return $this->belongsTo(Province::class);
     }
 
+    // communes
+    public function communes()
+    {
+        return $this->hasMany(Commune::class);
+    }
+
 }

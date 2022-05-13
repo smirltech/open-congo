@@ -15,4 +15,4 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::apiResource('provinces',ProvinceController::class);
+Route::apiResource('provinces',ProvinceController::class)->only('index','show');

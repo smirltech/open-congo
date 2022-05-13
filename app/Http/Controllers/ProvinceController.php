@@ -2,27 +2,47 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Requests\ProvinceRequest;
+use App\Http\Resources\PageableResource;
+use App\Http\Resources\ProvinceResource;
 use App\Models\Province;
 use App\Http\Requests\StoreProvinceRequest;
 use App\Http\Requests\UpdateProvinceRequest;
+use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
+use Illuminate\Http\Response;
+use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Str;
 
 class ProvinceController extends Controller
 {
     /**
-     * Display a listing of the resource.
+     * Display a listing of provinces.
      *
-     * @return \Illuminate\Http\Response
+     *
+     * @return PageableResource
      */
-    public function index()
+    public function index(ProvinceRequest $request)
     {
-        //
+        $provinces = Province::query();
+
+        foreach ($request->validated() as $column => $value) {
+            $op = "LIKE";
+            if (Schema::hasColumn('provinces', $column)) {
+                $provinces->where($column, $op, "%{$value}%");
+            }
+        }
+
+        $provinces->orderBy('nom', $request->order_by ?? 'asc');
+        $provinces = $provinces->paginate($request->per_page ?? 26);
+
+        return new PageableResource(ProvinceResource::collection($provinces));
     }
 
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StoreProvinceRequest  $request
-     * @return \Illuminate\Http\Response
+     * @param StoreProvinceRequest $request
+     * @return Response
      */
     public function store(StoreProvinceRequest $request)
     {
@@ -32,20 +52,20 @@ class ProvinceController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Province  $province
-     * @return \Illuminate\Http\Response
+     * @param Province $province
+     * @return Response
      */
     public function show(Province $province)
     {
-        //
+        return ProvinceResource::make($province);
     }
 
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdateProvinceRequest  $request
-     * @param  \App\Models\Province  $province
-     * @return \Illuminate\Http\Response
+     * @param UpdateProvinceRequest $request
+     * @param Province $province
+     * @return Response
      */
     public function update(UpdateProvinceRequest $request, Province $province)
     {
@@ -55,8 +75,8 @@ class ProvinceController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Province  $province
-     * @return \Illuminate\Http\Response
+     * @param Province $province
+     * @return Response
      */
     public function destroy(Province $province)
     {

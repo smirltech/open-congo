@@ -20,7 +20,7 @@ class VilleController extends Controller
      * Afficher toutes les villes.
      * @queryParam nom Le nom de la ville. No-example
      * @queryParam page int Le numéro de la page. No-example
-     * @queryParam per_page int Le nombre de résultats par page. No-example
+     * @queryParam per_page int Le nombre de résultats par page. Example: 5
      * @queryParam sort_by string L'ordre de tri. No-example
      *
      * @return PageableResource

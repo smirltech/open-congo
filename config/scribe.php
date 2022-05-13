@@ -254,15 +254,16 @@ return [
      * Text to place in the "Introduction" section, right after the `description`. Markdown and HTML are supported.
      */
     'intro_text' => <<<INTRO
-O-congo est un projet qui donne accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo.
+O-congo est un projet open source qui donne accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo (RDC).
 
-Cette documentation vise à fournir toutes les informations dont vous avez besoin pour travailler avec notre API.
+Cette documentation vise à fournir toutes les informations dont vous avez besoin pour consommer notre API.
 
-Vous pouvez contribuer à notre projet en envoyant vos suggestions à <a about="contact@smirltech.com">contact@smirltech.com</a> ou sur <a href="https://github.com/smirltech/o-congo">GitHub</a>.
-Ce projet est soutenu par la communauté de SmirlTech et rendu disponible sous la licence MIT.
+Vous pouvez contribuer à notre projet en envoyant vos suggestions à <a href="mailto:contact@smirltech.com">contact@smirltech.com</a> ou sur <a href="https://github.com/smirltech/o-congo">GitHub</a>.
+
+Ce projet est maintenu par <a href="https://smirltech.com">SmirlTech</a> et rendu disponible sous licence MIT.
 
 <aside>
-Au fur et à mesure que vous faites défiler, vous verrez des exemples de code pour travailler avec l'API dans différents langages de programmation dans la zone sombre à droite (ou dans le cadre du contenu sur mobile).
+Au fur et à mesure que vous faites défiler, vous verrez des exemples de code pour vous permettre de consommer l'API dans différents langages de programmation dans la zone sombre à droite (ou dans le cadre du contenu sur mobile).
 Vous pouvez changer le langage utilisé avec les onglets en haut à droite (ou depuis le menu de navigation en haut à gauche sur mobile).</aside>
 INTRO
     ,
@@ -274,7 +275,6 @@ INTRO
      *
      */
     'example_languages' => [
-        'bash',
         'javascript',
         'php',
         'python',

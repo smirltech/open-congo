@@ -15,8 +15,8 @@ class SearchController extends Controller
 {
     /**
      * Rechercher une province, ville, commune par son nom.
-     * @queryParam q Le mot clé de recherche. Example: "Lubu"
-     * @queryParam Le nombre de résultats à retourner. Example: 10
+     * @queryParam q Le mot clé de recherche. Example:Lubu
+     * @queryParam limit in Le nombre de résultats à retourner. Example: 3
      * @return JsonResponse
      */
     public function search(Request $request)

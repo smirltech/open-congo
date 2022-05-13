@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProvinceController;
+use App\Http\Controllers\VilleController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -16,3 +17,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::apiResource('provinces',ProvinceController::class)->only('index','show');
+Route::apiResource('villes',VilleController::class)->only('index','show');

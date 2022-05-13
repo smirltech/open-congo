@@ -38,7 +38,7 @@ class ProvinceController extends Controller
         }
 
         $provinces->orderBy('nom', $request->sort_by ?? 'asc');
-        $provinces = $provinces->paginate($request->per_page ?? 26);
+        $provinces = $provinces->paginate($request->per_page ?? Province::count());
 
         return new PageableResource(ProvinceResource::collection($provinces));
     }

@@ -3,6 +3,7 @@
 namespace App\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
+use Illuminate\Support\Str;
 
 class ProvinceResource extends JsonResource
 {
@@ -14,6 +15,9 @@ class ProvinceResource extends JsonResource
      */
     public function toArray($request)
     {
-        return parent::toArray($request);
+        return [
+            'id' => $this->id,
+            'nom' => Str::title($this->nom),
+        ];
     }
 }

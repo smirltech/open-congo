@@ -4,6 +4,7 @@
 /public/docs
 /storage/*.key
 /vendor
+/database
 /data
 .env
 .env.backup

@@ -19,10 +19,7 @@ class CommuneResource extends JsonResource
             'id' => $this->id,
             'nom' => Str::title($this->nom),
             'habitants' => $this->nombre_habitants,
-            'hotels' => $this->nombre_hotels,
-            'restaurants' => $this->nombre_restaurants,
-            'maps' => $this->maps,
-            'quartiers' => $this->quartiers->count(),
+            'quartiers' =>null,
             'ville' => Str::title($this->ville->nom),
         ];
     }

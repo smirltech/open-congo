@@ -41,7 +41,7 @@ class CommuneController extends Controller
         }
 
         $communes->orderBy('nom', $request->sort_by ?? 'asc');
-        $communes = $communes->paginate($request->per_page ?? Ville::count());
+        $communes = $communes->paginate($request->per_page ?? Commune::count());
 
         return new PageableResource(CommuneResource::collection($communes));
     }

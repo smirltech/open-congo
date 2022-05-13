@@ -11,12 +11,12 @@ use App\Http\Requests\StoreVilleRequest;
 use App\Http\Requests\UpdateVilleRequest;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Schema;
+use Illuminate\Support\Str;
 
 class VilleController extends Controller
 {
     /**
      * Display a listing of villes.
-
      * @queryParam nom The keyword to search for. No-example
      * @queryParam page int The page number. No-example
      * @queryParam per_page int The number of villes on a page. No-example
@@ -28,10 +28,13 @@ class VilleController extends Controller
     {
         $villes = Ville::query();
 
-        foreach ($request->all() as $column => $value) {
-            $op = "LIKE";
-            if (Schema::hasColumn('villes', $column)) {
-                $villes->where($column, $op, "%{$value}%");
+        foreach ($request->all() as $key => $value) {
+
+            if (Schema::hasColumn('villes', $key)) {
+                if (Str::contains($key, '_id')) {
+                    $villes->where($key, $value);
+                }
+                $villes->where($key, 'LIKE', "%{$value}%");
             }
         }
 
@@ -44,7 +47,7 @@ class VilleController extends Controller
     /**
      * Store a newly created resource in storage.
      *
-     * @param  \App\Http\Requests\StoreVilleRequest  $request
+     * @param \App\Http\Requests\StoreVilleRequest $request
      * @return \Illuminate\Http\Response
      */
     public function store(StoreVilleRequest $request)
@@ -55,7 +58,7 @@ class VilleController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\Ville  $ville
+     * @param \App\Models\Ville $ville
      * @return VilleResource
      */
     public function show(Ville $ville)
@@ -66,8 +69,8 @@ class VilleController extends Controller
     /**
      * Update the specified resource in storage.
      *
-     * @param  \App\Http\Requests\UpdateVilleRequest  $request
-     * @param  \App\Models\Ville  $ville
+     * @param \App\Http\Requests\UpdateVilleRequest $request
+     * @param \App\Models\Ville $ville
      * @return \Illuminate\Http\Response
      */
     public function update(UpdateVilleRequest $request, Ville $ville)
@@ -78,7 +81,7 @@ class VilleController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\Ville  $ville
+     * @param \App\Models\Ville $ville
      * @return \Illuminate\Http\Response
      */
     public function destroy(Ville $ville)

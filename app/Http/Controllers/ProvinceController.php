@@ -9,7 +9,6 @@ use App\Models\Province;
 use App\Http\Requests\StoreProvinceRequest;
 use App\Http\Requests\UpdateProvinceRequest;
 use Illuminate\Http\Request;
-use Illuminate\Http\Resources\Json\AnonymousResourceCollection;
 use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Str;
@@ -30,10 +29,13 @@ class ProvinceController extends Controller
     {
         $provinces = Province::query();
 
-        foreach ($request->all() as $column => $value) {
-            $op = "LIKE";
-            if (Schema::hasColumn('provinces', $column)) {
-                $provinces->where($column, $op, "%{$value}%");
+        foreach ($request->all() as $key => $value) {
+
+            if (Schema::hasColumn('provinces', $key)) {
+                if (Str::contains($key, '_id')) {
+                    $provinces->where($key, $value);
+                }
+                $provinces->where($key, 'LIKE', "%{$value}%");
             }
         }
 

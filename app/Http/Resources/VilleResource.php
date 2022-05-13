@@ -26,6 +26,7 @@ class VilleResource extends JsonResource
             'hotels' => $this->nombre_hotels,
             'restaurants' => $this->nombre_restaurants,
             'maps' => $this->maps,
+            'communes' => $this->communes->count(),
             'province' =>Str::title($this->province->nom),
         ];
     }

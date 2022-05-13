@@ -18,6 +18,7 @@ class ProvinceResource extends JsonResource
         return [
             'id' => $this->id,
             'nom' => Str::title($this->nom),
+            'villes' => $this->villes->count(),
         ];
     }
 }

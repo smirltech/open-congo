@@ -18,11 +18,11 @@ use JetBrains\PhpStorm\Pure;
 class CommuneController extends Controller
 {
     /**
-     * Display a listing of communes.
-     * @queryParam nom The keyword to search for. No-example
-     * @queryParam page int The page number. No-example
-     * @queryParam per_page int The number of communes on a page. No-example
-     * @queryParam sort_by string The order to sort by, asc or desc. No-example
+     * Afficher toutes les communes.
+     * @queryParam nom Le nom de la commune. No-Example
+     * @queryParam page int Le numéro de page. No-Example
+     * @queryParam per_page int Le nombre de résultats par page. No-Example
+     * @queryParam sort_by string L'ordre de tri. No-Example
      *
      * @return PageableResource
      */
@@ -58,9 +58,9 @@ class CommuneController extends Controller
     }
 
     /**
-     * Display the specified resource.
+     * Afficher une commune.
      *
-     * @param Commune $commune
+     * @param Commune $commune The commune to show.
      * @return CommuneResource
      */
     #[Pure] public function show(Commune $commune)

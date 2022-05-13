@@ -6,11 +6,10 @@
 
 Elle a été développée par Francis Nduba Numbi pour SmirlTech et en 2021 elle a éte disponibilisée à tous et au bénéfice de tous. 
 
-L’objectif reste d'associer à chaque province, ville et commune, des coordonnées permettant la géolocalisation et bien d'autres information utiles.
+**L'objectif de ce projet est de doter le monde ansi que la population locale, d'un accès libre et centralisé aux données et informations detaillées avec précision sur le pays, susceptibles de déclencher l'innovation parmi les entrepreneurs mais surtout d'eclairer nos choix au quotidient.**
 
+Pour toute information sur comment consommer l'API, rendez-vous sur [la page de documentation](https://o-congo.smirltech.com/docs).
 
-#### You can find the online documentation in the wiki page.
-[wiki page](https://github.com/smirtech/o-congo/wiki) for more information and features.
 
 ## Installation & Running
 

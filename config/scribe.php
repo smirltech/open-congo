@@ -254,7 +254,12 @@ return [
      * Text to place in the "Introduction" section, right after the `description`. Markdown and HTML are supported.
      */
     'intro_text' => <<<INTRO
-O-congo est un projet open source qui donne accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo (RDC).
+O-CONGO est un projet open source qui donne accès à la liste complète et officielle des toutes les provinces, villes et communes de la République Démocratique du Congo (RDC), dans un premier temps.
+
+
+<strong>
+L'objectif de ce projet est de doter le monde ansi que la population locale, d'un accès libre et centralisé aux données et informations detaillées avec précision sur le pays, susceptibles de déclencher l'innovation parmi les entrepreneurs mais surtout d'eclairer nos choix au quotidient.
+</strong>
 
 Cette documentation vise à fournir toutes les informations dont vous avez besoin pour consommer notre API.
 

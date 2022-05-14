@@ -1,0 +1,922 @@
+[
+  {
+    "id": "1",
+    "nom": "kinshasa",
+    "province_id": "1"
+  },
+  {
+    "id": "2",
+    "nom": "mbanza ngungu",
+    "province_id": "2"
+  },
+  {
+    "id": "3",
+    "nom": "kasangulu",
+    "province_id": "2"
+  },
+  {
+    "id": "4",
+    "nom": "madimba",
+    "province_id": "2"
+  },
+  {
+    "id": "5",
+    "nom": "kimvula",
+    "province_id": "2"
+  },
+  {
+    "id": "6",
+    "nom": "matadi",
+    "province_id": "2"
+  },
+  {
+    "id": "7",
+    "nom": "boma",
+    "province_id": "2"
+  },
+  {
+    "id": "8",
+    "nom": "moanda",
+    "province_id": "2"
+  },
+  {
+    "id": "9",
+    "nom": "lukula",
+    "province_id": "2"
+  },
+  {
+    "id": "10",
+    "nom": "tshela",
+    "province_id": "2"
+  },
+  {
+    "id": "11",
+    "nom": "seke-banza",
+    "province_id": "2"
+  },
+  {
+    "id": "12",
+    "nom": "luozi",
+    "province_id": "2"
+  },
+  {
+    "id": "13",
+    "nom": "songololo",
+    "province_id": "2"
+  },
+  {
+    "id": "14",
+    "nom": "ville de kenge",
+    "province_id": "3"
+  },
+  {
+    "id": "15",
+    "nom": "kenge",
+    "province_id": "3"
+  },
+  {
+    "id": "16",
+    "nom": "feshi",
+    "province_id": "3"
+  },
+  {
+    "id": "17",
+    "nom": "kahemba",
+    "province_id": "3"
+  },
+  {
+    "id": "18",
+    "nom": "kasongo lunda",
+    "province_id": "3"
+  },
+  {
+    "id": "19",
+    "nom": "popokabaka",
+    "province_id": "3"
+  },
+  {
+    "id": "20",
+    "nom": "bandundu",
+    "province_id": "4"
+  },
+  {
+    "id": "21",
+    "nom": "bagata",
+    "province_id": "4"
+  },
+  {
+    "id": "22",
+    "nom": "kikwit",
+    "province_id": "4"
+  },
+  {
+    "id": "23",
+    "nom": "bulungu",
+    "province_id": "4"
+  },
+  {
+    "id": "24",
+    "nom": "idiofa",
+    "province_id": "4"
+  },
+  {
+    "id": "25",
+    "nom": "mangai",
+    "province_id": "4"
+  },
+  {
+    "id": "26",
+    "nom": "dibaya-lubwe",
+    "province_id": "4"
+  },
+  {
+    "id": "27",
+    "nom": "gungu",
+    "province_id": "4"
+  },
+  {
+    "id": "28",
+    "nom": "masi-manimba",
+    "province_id": "4"
+  },
+  {
+    "id": "29",
+    "nom": "ville d'inongo",
+    "province_id": "5"
+  },
+  {
+    "id": "30",
+    "nom": "inongo",
+    "province_id": "5"
+  },
+  {
+    "id": "31",
+    "nom": "kiri",
+    "province_id": "5"
+  },
+  {
+    "id": "32",
+    "nom": "oshwe",
+    "province_id": "5"
+  },
+  {
+    "id": "33",
+    "nom": "kutu",
+    "province_id": "5"
+  },
+  {
+    "id": "34",
+    "nom": "kwamouth",
+    "province_id": "5"
+  },
+  {
+    "id": "35",
+    "nom": "bolobo",
+    "province_id": "5"
+  },
+  {
+    "id": "36",
+    "nom": "yumbi",
+    "province_id": "5"
+  },
+  {
+    "id": "37",
+    "nom": "mushie",
+    "province_id": "5"
+  },
+  {
+    "id": "38",
+    "nom": "ville de mbandaka",
+    "province_id": "6"
+  },
+  {
+    "id": "39",
+    "nom": "bikoro",
+    "province_id": "6"
+  },
+  {
+    "id": "40",
+    "nom": "lukolela",
+    "province_id": "6"
+  },
+  {
+    "id": "41",
+    "nom": "bomongo",
+    "province_id": "6"
+  },
+  {
+    "id": "42",
+    "nom": "makanza",
+    "province_id": "6"
+  },
+  {
+    "id": "43",
+    "nom": "basankusu",
+    "province_id": "6"
+  },
+  {
+    "id": "44",
+    "nom": "bolomba",
+    "province_id": "6"
+  },
+  {
+    "id": "45",
+    "nom": "ingende",
+    "province_id": "6"
+  },
+  {
+    "id": "46",
+    "nom": "ville de gemena",
+    "province_id": "7"
+  },
+  {
+    "id": "47",
+    "nom": "gemena",
+    "province_id": "7"
+  },
+  {
+    "id": "48",
+    "nom": "budjala",
+    "province_id": "7"
+  },
+  {
+    "id": "49",
+    "nom": "kungu",
+    "province_id": "7"
+  },
+  {
+    "id": "50",
+    "nom": "libenge",
+    "province_id": "7"
+  },
+  {
+    "id": "51",
+    "nom": "ville de zongo",
+    "province_id": "7"
+  },
+  {
+    "id": "52",
+    "nom": "ville de gbadolite",
+    "province_id": "8"
+  },
+  {
+    "id": "53",
+    "nom": "mobayi-mbongo",
+    "province_id": "8"
+  },
+  {
+    "id": "54",
+    "nom": "yakoma",
+    "province_id": "8"
+  },
+  {
+    "id": "55",
+    "nom": "businga",
+    "province_id": "8"
+  },
+  {
+    "id": "56",
+    "nom": "bosobolo",
+    "province_id": "8"
+  },
+  {
+    "id": "57",
+    "nom": "ville de lisala",
+    "province_id": "9"
+  },
+  {
+    "id": "58",
+    "nom": "lisala",
+    "province_id": "9"
+  },
+  {
+    "id": "59",
+    "nom": "bumba",
+    "province_id": "9"
+  },
+  {
+    "id": "60",
+    "nom": "bongandanga",
+    "province_id": "9"
+  },
+  {
+    "id": "61",
+    "nom": "ville de boende",
+    "province_id": "10"
+  },
+  {
+    "id": "62",
+    "nom": "boende",
+    "province_id": "10"
+  },
+  {
+    "id": "63",
+    "nom": "befale",
+    "province_id": "10"
+  },
+  {
+    "id": "64",
+    "nom": "djolu",
+    "province_id": "10"
+  },
+  {
+    "id": "65",
+    "nom": "ikela",
+    "province_id": "10"
+  },
+  {
+    "id": "66",
+    "nom": "bokungu",
+    "province_id": "10"
+  },
+  {
+    "id": "67",
+    "nom": "monkoto",
+    "province_id": "10"
+  },
+  {
+    "id": "68",
+    "nom": "kisangani",
+    "province_id": "11"
+  },
+  {
+    "id": "69",
+    "nom": "ubundu",
+    "province_id": "11"
+  },
+  {
+    "id": "70",
+    "nom": "opala",
+    "province_id": "11"
+  },
+  {
+    "id": "71",
+    "nom": "isangi",
+    "province_id": "11"
+  },
+  {
+    "id": "72",
+    "nom": "yangambi",
+    "province_id": "11"
+  },
+  {
+    "id": "73",
+    "nom": "yahuma",
+    "province_id": "11"
+  },
+  {
+    "id": "74",
+    "nom": "basoko",
+    "province_id": "11"
+  },
+  {
+    "id": "75",
+    "nom": "banalia",
+    "province_id": "11"
+  },
+  {
+    "id": "76",
+    "nom": "bafwasende",
+    "province_id": "11"
+  },
+  {
+    "id": "77",
+    "nom": "ville de buta",
+    "province_id": "12"
+  },
+  {
+    "id": "78",
+    "nom": "buta",
+    "province_id": "12"
+  },
+  {
+    "id": "79",
+    "nom": "aketi",
+    "province_id": "12"
+  },
+  {
+    "id": "80",
+    "nom": "bondo",
+    "province_id": "12"
+  },
+  {
+    "id": "81",
+    "nom": "ango",
+    "province_id": "12"
+  },
+  {
+    "id": "82",
+    "nom": "poko",
+    "province_id": "12"
+  },
+  {
+    "id": "83",
+    "nom": "bambesa",
+    "province_id": "12"
+  },
+  {
+    "id": "84",
+    "nom": "dingila",
+    "province_id": "12"
+  },
+  {
+    "id": "85",
+    "nom": "ville d'isiro",
+    "province_id": "13"
+  },
+  {
+    "id": "86",
+    "nom": "rungu",
+    "province_id": "13"
+  },
+  {
+    "id": "87",
+    "nom": "niangara",
+    "province_id": "13"
+  },
+  {
+    "id": "88",
+    "nom": "dungu",
+    "province_id": "13"
+  },
+  {
+    "id": "89",
+    "nom": "faradje",
+    "province_id": "13"
+  },
+  {
+    "id": "90",
+    "nom": "watsa",
+    "province_id": "13"
+  },
+  {
+    "id": "91",
+    "nom": "wamba",
+    "province_id": "13"
+  },
+  {
+    "id": "92",
+    "nom": "ville de bunia",
+    "province_id": "14"
+  },
+  {
+    "id": "93",
+    "nom": "irumu",
+    "province_id": "14"
+  },
+  {
+    "id": "94",
+    "nom": "mambasa",
+    "province_id": "14"
+  },
+  {
+    "id": "95",
+    "nom": "mongwalu",
+    "province_id": "14"
+  },
+  {
+    "id": "96",
+    "nom": "djugu",
+    "province_id": "14"
+  },
+  {
+    "id": "97",
+    "nom": "mahagi",
+    "province_id": "14"
+  },
+  {
+    "id": "98",
+    "nom": "aru",
+    "province_id": "14"
+  },
+  {
+    "id": "99",
+    "nom": "ville de goma",
+    "province_id": "15"
+  },
+  {
+    "id": "100",
+    "nom": "nyiragongo",
+    "province_id": "15"
+  },
+  {
+    "id": "101",
+    "nom": "masisi",
+    "province_id": "15"
+  },
+  {
+    "id": "102",
+    "nom": "walikale",
+    "province_id": "15"
+  },
+  {
+    "id": "103",
+    "nom": "lubero",
+    "province_id": "15"
+  },
+  {
+    "id": "104",
+    "nom": "oicha",
+    "province_id": "15"
+  },
+  {
+    "id": "105",
+    "nom": "ville de beni",
+    "province_id": "15"
+  },
+  {
+    "id": "106",
+    "nom": "ville de butembo",
+    "province_id": "15"
+  },
+  {
+    "id": "107",
+    "nom": "rutshuru",
+    "province_id": "15"
+  },
+  {
+    "id": "108",
+    "nom": "ville de bukavu",
+    "province_id": "16"
+  },
+  {
+    "id": "109",
+    "nom": "kabare",
+    "province_id": "16"
+  },
+  {
+    "id": "110",
+    "nom": "shabunda",
+    "province_id": "16"
+  },
+  {
+    "id": "111",
+    "nom": "kalehe",
+    "province_id": "16"
+  },
+  {
+    "id": "112",
+    "nom": "idjwi",
+    "province_id": "16"
+  },
+  {
+    "id": "113",
+    "nom": "walungu",
+    "province_id": "16"
+  },
+  {
+    "id": "114",
+    "nom": "uvira",
+    "province_id": "16"
+  },
+  {
+    "id": "115",
+    "nom": "fizi",
+    "province_id": "16"
+  },
+  {
+    "id": "116",
+    "nom": "baraka",
+    "province_id": "16"
+  },
+  {
+    "id": "117",
+    "nom": "mwenga",
+    "province_id": "16"
+  },
+  {
+    "id": "118",
+    "nom": "ville de kindu",
+    "province_id": "17"
+  },
+  {
+    "id": "119",
+    "nom": "kailo",
+    "province_id": "17"
+  },
+  {
+    "id": "120",
+    "nom": "punia",
+    "province_id": "17"
+  },
+  {
+    "id": "121",
+    "nom": "lubutu",
+    "province_id": "17"
+  },
+  {
+    "id": "122",
+    "nom": "pangi",
+    "province_id": "17"
+  },
+  {
+    "id": "123",
+    "nom": "kabambare",
+    "province_id": "17"
+  },
+  {
+    "id": "124",
+    "nom": "kasongo",
+    "province_id": "17"
+  },
+  {
+    "id": "125",
+    "nom": "kibombo",
+    "province_id": "17"
+  },
+  {
+    "id": "126",
+    "nom": "ville de lubumbashi",
+    "province_id": "18"
+  },
+  {
+    "id": "127",
+    "nom": "kipushi",
+    "province_id": "18"
+  },
+  {
+    "id": "128",
+    "nom": "sakania",
+    "province_id": "18"
+  },
+  {
+    "id": "129",
+    "nom": "kambove",
+    "province_id": "18"
+  },
+  {
+    "id": "130",
+    "nom": "ville de likasi",
+    "province_id": "18"
+  },
+  {
+    "id": "131",
+    "nom": "kasenga",
+    "province_id": "18"
+  },
+  {
+    "id": "132",
+    "nom": "mitwaba",
+    "province_id": "18"
+  },
+  {
+    "id": "133",
+    "nom": "pweto",
+    "province_id": "18"
+  },
+  {
+    "id": "134",
+    "nom": "ville de kolwezi",
+    "province_id": "19"
+  },
+  {
+    "id": "135",
+    "nom": "mutshatsha",
+    "province_id": "19"
+  },
+  {
+    "id": "136",
+    "nom": "lubudi",
+    "province_id": "19"
+  },
+  {
+    "id": "137",
+    "nom": "kasaji",
+    "province_id": "19"
+  },
+  {
+    "id": "138",
+    "nom": "dilolo",
+    "province_id": "19"
+  },
+  {
+    "id": "139",
+    "nom": "sandoa",
+    "province_id": "19"
+  },
+  {
+    "id": "140",
+    "nom": "ville de kamina",
+    "province_id": "20"
+  },
+  {
+    "id": "141",
+    "nom": "kamina",
+    "province_id": "20"
+  },
+  {
+    "id": "142",
+    "nom": "kaniama",
+    "province_id": "20"
+  },
+  {
+    "id": "143",
+    "nom": "kabongo",
+    "province_id": "20"
+  },
+  {
+    "id": "144",
+    "nom": "malemba-nkulu",
+    "province_id": "20"
+  },
+  {
+    "id": "145",
+    "nom": "bukama",
+    "province_id": "20"
+  },
+  {
+    "id": "146",
+    "nom": "ville de kalemie",
+    "province_id": "21"
+  },
+  {
+    "id": "147",
+    "nom": "kalemie",
+    "province_id": "21"
+  },
+  {
+    "id": "148",
+    "nom": "moba",
+    "province_id": "21"
+  },
+  {
+    "id": "149",
+    "nom": "manono",
+    "province_id": "21"
+  },
+  {
+    "id": "150",
+    "nom": "kabalo",
+    "province_id": "21"
+  },
+  {
+    "id": "151",
+    "nom": "kongolo",
+    "province_id": "21"
+  },
+  {
+    "id": "152",
+    "nom": "nyunzu",
+    "province_id": "21"
+  },
+  {
+    "id": "153",
+    "nom": "ville de mbuji-mayi",
+    "province_id": "22"
+  },
+  {
+    "id": "154",
+    "nom": "tshilenge",
+    "province_id": "22"
+  },
+  {
+    "id": "155",
+    "nom": "miabi",
+    "province_id": "22"
+  },
+  {
+    "id": "156",
+    "nom": "kabeya-kamuanga",
+    "province_id": "22"
+  },
+  {
+    "id": "157",
+    "nom": "lupatapata",
+    "province_id": "22"
+  },
+  {
+    "id": "158",
+    "nom": "katanda",
+    "province_id": "22"
+  },
+  {
+    "id": "159",
+    "nom": "ville de lusambo",
+    "province_id": "23"
+  },
+  {
+    "id": "160",
+    "nom": "lusambo",
+    "province_id": "23"
+  },
+  {
+    "id": "161",
+    "nom": "lodja",
+    "province_id": "23"
+  },
+  {
+    "id": "162",
+    "nom": "kole",
+    "province_id": "23"
+  },
+  {
+    "id": "163",
+    "nom": "lomela",
+    "province_id": "23"
+  },
+  {
+    "id": "164",
+    "nom": "katako-kombe",
+    "province_id": "23"
+  },
+  {
+    "id": "165",
+    "nom": "lubefu",
+    "province_id": "23"
+  },
+  {
+    "id": "166",
+    "nom": "ville de kabinda",
+    "province_id": "24"
+  },
+  {
+    "id": "167",
+    "nom": "kabinda",
+    "province_id": "24"
+  },
+  {
+    "id": "168",
+    "nom": "ville de mwene-ditu",
+    "province_id": "24"
+  },
+  {
+    "id": "169",
+    "nom": "luilu",
+    "province_id": "24"
+  },
+  {
+    "id": "170",
+    "nom": "kamiji",
+    "province_id": "24"
+  },
+  {
+    "id": "171",
+    "nom": "ngandajika",
+    "province_id": "24"
+  },
+  {
+    "id": "172",
+    "nom": "lubao",
+    "province_id": "24"
+  },
+  {
+    "id": "173",
+    "nom": "ville de kananga",
+    "province_id": "25"
+  },
+  {
+    "id": "174",
+    "nom": "dibaya",
+    "province_id": "25"
+  },
+  {
+    "id": "175",
+    "nom": "luiza",
+    "province_id": "25"
+  },
+  {
+    "id": "176",
+    "nom": "kazumba",
+    "province_id": "25"
+  },
+  {
+    "id": "177",
+    "nom": "demba",
+    "province_id": "25"
+  },
+  {
+    "id": "178",
+    "nom": "dimbelenge",
+    "province_id": "25"
+  },
+  {
+    "id": "179",
+    "nom": "ville de tshikapa",
+    "province_id": "26"
+  },
+  {
+    "id": "180",
+    "nom": "kamonia",
+    "province_id": "26"
+  },
+  {
+    "id": "181",
+    "nom": "luebo",
+    "province_id": "26"
+  },
+  {
+    "id": "182",
+    "nom": "ilebo",
+    "province_id": "26"
+  },
+  {
+    "id": "183",
+    "nom": "mweka",
+    "province_id": "26"
+  },
+  {
+    "id": "184",
+    "nom": "dekese",
+    "province_id": "26"
+  }
+]

@@ -1,0 +1,6397 @@
+[
+  {
+    "id": "1",
+    "nom": "mont ngafula",
+    "ville_id": "1"
+  },
+  {
+    "id": "2",
+    "nom": "ngaliema",
+    "ville_id": "1"
+  },
+  {
+    "id": "3",
+    "nom": "gombe",
+    "ville_id": "1"
+  },
+  {
+    "id": "4",
+    "nom": "limete",
+    "ville_id": "1"
+  },
+  {
+    "id": "5",
+    "nom": "masina",
+    "ville_id": "1"
+  },
+  {
+    "id": "6",
+    "nom": "nsele",
+    "ville_id": "1"
+  },
+  {
+    "id": "7",
+    "nom": "maluku",
+    "ville_id": "1"
+  },
+  {
+    "id": "8",
+    "nom": "kimbanseke",
+    "ville_id": "1"
+  },
+  {
+    "id": "9",
+    "nom": "ndjili",
+    "ville_id": "1"
+  },
+  {
+    "id": "10",
+    "nom": "matete",
+    "ville_id": "1"
+  },
+  {
+    "id": "11",
+    "nom": "kisenso",
+    "ville_id": "1"
+  },
+  {
+    "id": "12",
+    "nom": "lemba",
+    "ville_id": "1"
+  },
+  {
+    "id": "13",
+    "nom": "ngaba",
+    "ville_id": "1"
+  },
+  {
+    "id": "14",
+    "nom": "makala",
+    "ville_id": "1"
+  },
+  {
+    "id": "15",
+    "nom": "bumbu",
+    "ville_id": "1"
+  },
+  {
+    "id": "16",
+    "nom": "selembao",
+    "ville_id": "1"
+  },
+  {
+    "id": "17",
+    "nom": "kintambo",
+    "ville_id": "1"
+  },
+  {
+    "id": "18",
+    "nom": "bandalunga",
+    "ville_id": "1"
+  },
+  {
+    "id": "19",
+    "nom": "lingwala",
+    "ville_id": "1"
+  },
+  {
+    "id": "20",
+    "nom": "kinshasa",
+    "ville_id": "1"
+  },
+  {
+    "id": "21",
+    "nom": "barumbu",
+    "ville_id": "1"
+  },
+  {
+    "id": "22",
+    "nom": "kalamu",
+    "ville_id": "1"
+  },
+  {
+    "id": "23",
+    "nom": "ngiri-ngiri",
+    "ville_id": "1"
+  },
+  {
+    "id": "24",
+    "nom": "kasa-vubu",
+    "ville_id": "1"
+  },
+  {
+    "id": "25",
+    "nom": "boko",
+    "ville_id": "2"
+  },
+  {
+    "id": "26",
+    "nom": "kivulu",
+    "ville_id": "2"
+  },
+  {
+    "id": "27",
+    "nom": "sele",
+    "ville_id": "2"
+  },
+  {
+    "id": "28",
+    "nom": "gombe-sud",
+    "ville_id": "2"
+  },
+  {
+    "id": "29",
+    "nom": "kwilu-ngongo 1",
+    "ville_id": "2"
+  },
+  {
+    "id": "30",
+    "nom": "ntimansi",
+    "ville_id": "2"
+  },
+  {
+    "id": "31",
+    "nom": "gombe-matadi",
+    "ville_id": "2"
+  },
+  {
+    "id": "32",
+    "nom": "lunzadi",
+    "ville_id": "2"
+  },
+  {
+    "id": "33",
+    "nom": "ngungu",
+    "ville_id": "2"
+  },
+  {
+    "id": "34",
+    "nom": "noki",
+    "ville_id": "2"
+  },
+  {
+    "id": "35",
+    "nom": "kasangulu",
+    "ville_id": "3"
+  },
+  {
+    "id": "36",
+    "nom": "lukunga-mputu",
+    "ville_id": "3"
+  },
+  {
+    "id": "37",
+    "nom": "luila",
+    "ville_id": "3"
+  },
+  {
+    "id": "38",
+    "nom": "madimba",
+    "ville_id": "4"
+  },
+  {
+    "id": "39",
+    "nom": "ngufu",
+    "ville_id": "4"
+  },
+  {
+    "id": "40",
+    "nom": "mfidi malele",
+    "ville_id": "4"
+  },
+  {
+    "id": "41",
+    "nom": "wungu",
+    "ville_id": "4"
+  },
+  {
+    "id": "42",
+    "nom": "ngeba",
+    "ville_id": "4"
+  },
+  {
+    "id": "43",
+    "nom": "mfuma-kibambi",
+    "ville_id": "4"
+  },
+  {
+    "id": "44",
+    "nom": "luidi (kinkosi)",
+    "ville_id": "4"
+  },
+  {
+    "id": "45",
+    "nom": "nkandu",
+    "ville_id": "4"
+  },
+  {
+    "id": "46",
+    "nom": "kikonka",
+    "ville_id": "4"
+  },
+  {
+    "id": "47",
+    "nom": "kimvula",
+    "ville_id": "5"
+  },
+  {
+    "id": "48",
+    "nom": "benga",
+    "ville_id": "5"
+  },
+  {
+    "id": "49",
+    "nom": "luila-lumene",
+    "ville_id": "5"
+  },
+  {
+    "id": "50",
+    "nom": "lubisi",
+    "ville_id": "5"
+  },
+  {
+    "id": "51",
+    "nom": "benga",
+    "ville_id": "5"
+  },
+  {
+    "id": "52",
+    "nom": "matadi",
+    "ville_id": "6"
+  },
+  {
+    "id": "53",
+    "nom": "nzaza",
+    "ville_id": "6"
+  },
+  {
+    "id": "54",
+    "nom": "mvuzi",
+    "ville_id": "6"
+  },
+  {
+    "id": "55",
+    "nom": "kabondo",
+    "ville_id": "7"
+  },
+  {
+    "id": "56",
+    "nom": "kalamu",
+    "ville_id": "7"
+  },
+  {
+    "id": "57",
+    "nom": "nzadi",
+    "ville_id": "7"
+  },
+  {
+    "id": "58",
+    "nom": "assolongo",
+    "ville_id": "8"
+  },
+  {
+    "id": "59",
+    "nom": "la mer",
+    "ville_id": "8"
+  },
+  {
+    "id": "60",
+    "nom": "boma-bungu",
+    "ville_id": "8"
+  },
+  {
+    "id": "61",
+    "nom": "mamputu",
+    "ville_id": "8"
+  },
+  {
+    "id": "62",
+    "nom": "muanda",
+    "ville_id": "8"
+  },
+  {
+    "id": "63",
+    "nom": "kakongo",
+    "ville_id": "9"
+  },
+  {
+    "id": "64",
+    "nom": "tsundi-sud",
+    "ville_id": "9"
+  },
+  {
+    "id": "65",
+    "nom": "fubu",
+    "ville_id": "9"
+  },
+  {
+    "id": "66",
+    "nom": "tsanga-sud",
+    "ville_id": "9"
+  },
+  {
+    "id": "67",
+    "nom": "patu",
+    "ville_id": "9"
+  },
+  {
+    "id": "68",
+    "nom": "lemba kinsudi",
+    "ville_id": "9"
+  },
+  {
+    "id": "69",
+    "nom": "nsioni 1",
+    "ville_id": "9"
+  },
+  {
+    "id": "70",
+    "nom": "lukula",
+    "ville_id": "9"
+  },
+  {
+    "id": "71",
+    "nom": "nsioni 2",
+    "ville_id": "9"
+  },
+  {
+    "id": "72",
+    "nom": "kwilu-ngongo 2",
+    "ville_id": "2"
+  },
+  {
+    "id": "73",
+    "nom": "tshela banga",
+    "ville_id": "10"
+  },
+  {
+    "id": "74",
+    "nom": "loango",
+    "ville_id": "10"
+  },
+  {
+    "id": "75",
+    "nom": "bula naku",
+    "ville_id": "10"
+  },
+  {
+    "id": "76",
+    "nom": "nzobe-luzi",
+    "ville_id": "10"
+  },
+  {
+    "id": "77",
+    "nom": "lubolo",
+    "ville_id": "10"
+  },
+  {
+    "id": "78",
+    "nom": "lubuzi",
+    "ville_id": "10"
+  },
+  {
+    "id": "79",
+    "nom": "nganda sundi",
+    "ville_id": "10"
+  },
+  {
+    "id": "80",
+    "nom": "maduda",
+    "ville_id": "10"
+  },
+  {
+    "id": "81",
+    "nom": "kasa-vubu",
+    "ville_id": "10"
+  },
+  {
+    "id": "82",
+    "nom": "luvu",
+    "ville_id": "10"
+  },
+  {
+    "id": "83",
+    "nom": "tshela",
+    "ville_id": "10"
+  },
+  {
+    "id": "84",
+    "nom": "seka-banza",
+    "ville_id": "11"
+  },
+  {
+    "id": "85",
+    "nom": "bundi",
+    "ville_id": "11"
+  },
+  {
+    "id": "86",
+    "nom": "mbavu",
+    "ville_id": "11"
+  },
+  {
+    "id": "87",
+    "nom": "sumbi",
+    "ville_id": "11"
+  },
+  {
+    "id": "88",
+    "nom": "isangila",
+    "ville_id": "11"
+  },
+  {
+    "id": "89",
+    "nom": "cit\u00e9 d'inga",
+    "ville_id": "11"
+  },
+  {
+    "id": "90",
+    "nom": "lufu",
+    "ville_id": "11"
+  },
+  {
+    "id": "91",
+    "nom": "kinzau-mvuete",
+    "ville_id": "11"
+  },
+  {
+    "id": "92",
+    "nom": "luozi",
+    "ville_id": "12"
+  },
+  {
+    "id": "93",
+    "nom": "mbanza ngoyo",
+    "ville_id": "12"
+  },
+  {
+    "id": "94",
+    "nom": "mbanza mona",
+    "ville_id": "12"
+  },
+  {
+    "id": "95",
+    "nom": "mbanza mwembe",
+    "ville_id": "12"
+  },
+  {
+    "id": "96",
+    "nom": "kinkenge",
+    "ville_id": "12"
+  },
+  {
+    "id": "97",
+    "nom": "mongo luala",
+    "ville_id": "12"
+  },
+  {
+    "id": "98",
+    "nom": "kimumba",
+    "ville_id": "12"
+  },
+  {
+    "id": "99",
+    "nom": "kenge",
+    "ville_id": "12"
+  },
+  {
+    "id": "100",
+    "nom": "balari",
+    "ville_id": "12"
+  },
+  {
+    "id": "101",
+    "nom": "kivunda",
+    "ville_id": "12"
+  },
+  {
+    "id": "102",
+    "nom": "kimbanza",
+    "ville_id": "12"
+  },
+  {
+    "id": "103",
+    "nom": "songololo",
+    "ville_id": "13"
+  },
+  {
+    "id": "104",
+    "nom": "luima",
+    "ville_id": "13"
+  },
+  {
+    "id": "105",
+    "nom": "palabala",
+    "ville_id": "13"
+  },
+  {
+    "id": "106",
+    "nom": "bamboma",
+    "ville_id": "13"
+  },
+  {
+    "id": "107",
+    "nom": "wombo",
+    "ville_id": "13"
+  },
+  {
+    "id": "108",
+    "nom": "kimpese",
+    "ville_id": "13"
+  },
+  {
+    "id": "109",
+    "nom": "vampa",
+    "ville_id": "13"
+  },
+  {
+    "id": "110",
+    "nom": "lukala",
+    "ville_id": "13"
+  },
+  {
+    "id": "111",
+    "nom": "cinq mai",
+    "ville_id": "14"
+  },
+  {
+    "id": "112",
+    "nom": "laurent d\u00e9sir\u00e9 kabila",
+    "ville_id": "14"
+  },
+  {
+    "id": "113",
+    "nom": "manonga",
+    "ville_id": "14"
+  },
+  {
+    "id": "114",
+    "nom": "masikita",
+    "ville_id": "14"
+  },
+  {
+    "id": "115",
+    "nom": "mavula",
+    "ville_id": "14"
+  },
+  {
+    "id": "116",
+    "nom": "kenge 2",
+    "ville_id": "15"
+  },
+  {
+    "id": "117",
+    "nom": "pelende-nord",
+    "ville_id": "15"
+  },
+  {
+    "id": "118",
+    "nom": "mosamba",
+    "ville_id": "15"
+  },
+  {
+    "id": "119",
+    "nom": "dinga",
+    "ville_id": "15"
+  },
+  {
+    "id": "120",
+    "nom": "bukanga-lonzo",
+    "ville_id": "15"
+  },
+  {
+    "id": "121",
+    "nom": "pont kwango",
+    "ville_id": "15"
+  },
+  {
+    "id": "122",
+    "nom": "kolokoso",
+    "ville_id": "15"
+  },
+  {
+    "id": "123",
+    "nom": "misele",
+    "ville_id": "15"
+  },
+  {
+    "id": "124",
+    "nom": "feshi 1",
+    "ville_id": "16"
+  },
+  {
+    "id": "125",
+    "nom": "ganaketi",
+    "ville_id": "16"
+  },
+  {
+    "id": "126",
+    "nom": "lobo",
+    "ville_id": "16"
+  },
+  {
+    "id": "127",
+    "nom": "feshi 2",
+    "ville_id": "16"
+  },
+  {
+    "id": "128",
+    "nom": "mukoso",
+    "ville_id": "16"
+  },
+  {
+    "id": "129",
+    "nom": "kwilu",
+    "ville_id": "17"
+  },
+  {
+    "id": "130",
+    "nom": "lutshima",
+    "ville_id": "17"
+  },
+  {
+    "id": "131",
+    "nom": "ntshakal",
+    "ville_id": "17"
+  },
+  {
+    "id": "132",
+    "nom": "kulinji",
+    "ville_id": "17"
+  },
+  {
+    "id": "133",
+    "nom": "tfundwale",
+    "ville_id": "17"
+  },
+  {
+    "id": "134",
+    "nom": "mwendjila",
+    "ville_id": "17"
+  },
+  {
+    "id": "135",
+    "nom": "muloshi",
+    "ville_id": "17"
+  },
+  {
+    "id": "136",
+    "nom": "bangu",
+    "ville_id": "17"
+  },
+  {
+    "id": "137",
+    "nom": "mwa-mushiko",
+    "ville_id": "17"
+  },
+  {
+    "id": "138",
+    "nom": "bindu",
+    "ville_id": "17"
+  },
+  {
+    "id": "139",
+    "nom": "imona",
+    "ville_id": "18"
+  },
+  {
+    "id": "140",
+    "nom": "kituadi",
+    "ville_id": "18"
+  },
+  {
+    "id": "141",
+    "nom": "kumbila",
+    "ville_id": "18"
+  },
+  {
+    "id": "142",
+    "nom": "kasongo-lunda",
+    "ville_id": "18"
+  },
+  {
+    "id": "143",
+    "nom": "kizamba",
+    "ville_id": "18"
+  },
+  {
+    "id": "144",
+    "nom": "tembo",
+    "ville_id": "18"
+  },
+  {
+    "id": "145",
+    "nom": "swa tenda",
+    "ville_id": "18"
+  },
+  {
+    "id": "146",
+    "nom": "kasa",
+    "ville_id": "18"
+  },
+  {
+    "id": "147",
+    "nom": "kingulu",
+    "ville_id": "18"
+  },
+  {
+    "id": "148",
+    "nom": "pelende",
+    "ville_id": "18"
+  },
+  {
+    "id": "149",
+    "nom": "mawanga",
+    "ville_id": "18"
+  },
+  {
+    "id": "150",
+    "nom": "kibunda",
+    "ville_id": "18"
+  },
+  {
+    "id": "151",
+    "nom": "panzi",
+    "ville_id": "18"
+  },
+  {
+    "id": "152",
+    "nom": "kahungula",
+    "ville_id": "18"
+  },
+  {
+    "id": "153",
+    "nom": "kingwangala",
+    "ville_id": "18"
+  },
+  {
+    "id": "154",
+    "nom": "popokabaka 1",
+    "ville_id": "19"
+  },
+  {
+    "id": "155",
+    "nom": "popokabaka 2",
+    "ville_id": "19"
+  },
+  {
+    "id": "156",
+    "nom": "yonso",
+    "ville_id": "19"
+  },
+  {
+    "id": "157",
+    "nom": "lufuma",
+    "ville_id": "19"
+  },
+  {
+    "id": "158",
+    "nom": "kabama",
+    "ville_id": "19"
+  },
+  {
+    "id": "159",
+    "nom": "kisoma",
+    "ville_id": "19"
+  },
+  {
+    "id": "160",
+    "nom": "disasi",
+    "ville_id": "20"
+  },
+  {
+    "id": "161",
+    "nom": "bosoko",
+    "ville_id": "20"
+  },
+  {
+    "id": "162",
+    "nom": "mayoyo",
+    "ville_id": "20"
+  },
+  {
+    "id": "163",
+    "nom": "bagata",
+    "ville_id": "21"
+  },
+  {
+    "id": "164",
+    "nom": "manzasay",
+    "ville_id": "21"
+  },
+  {
+    "id": "165",
+    "nom": "wamba-fatundu",
+    "ville_id": "21"
+  },
+  {
+    "id": "166",
+    "nom": "misay",
+    "ville_id": "21"
+  },
+  {
+    "id": "167",
+    "nom": "kwango-kasay",
+    "ville_id": "21"
+  },
+  {
+    "id": "168",
+    "nom": "kwilu-ntobere",
+    "ville_id": "21"
+  },
+  {
+    "id": "169",
+    "nom": "kidzueme",
+    "ville_id": "21"
+  },
+  {
+    "id": "170",
+    "nom": "mabenga",
+    "ville_id": "21"
+  },
+  {
+    "id": "171",
+    "nom": "panu pay pay",
+    "ville_id": "21"
+  },
+  {
+    "id": "172",
+    "nom": "kazamba",
+    "ville_id": "22"
+  },
+  {
+    "id": "173",
+    "nom": "nzinda",
+    "ville_id": "22"
+  },
+  {
+    "id": "174",
+    "nom": "lukolela",
+    "ville_id": "22"
+  },
+  {
+    "id": "175",
+    "nom": "lukemi",
+    "ville_id": "22"
+  },
+  {
+    "id": "176",
+    "nom": "luniungu",
+    "ville_id": "23"
+  },
+  {
+    "id": "177",
+    "nom": "kilunda",
+    "ville_id": "23"
+  },
+  {
+    "id": "178",
+    "nom": "mikwi",
+    "ville_id": "23"
+  },
+  {
+    "id": "179",
+    "nom": "djuma",
+    "ville_id": "23"
+  },
+  {
+    "id": "180",
+    "nom": "kwilu-kimbata",
+    "ville_id": "23"
+  },
+  {
+    "id": "181",
+    "nom": "dwe",
+    "ville_id": "23"
+  },
+  {
+    "id": "182",
+    "nom": "nyadi nkara",
+    "ville_id": "23"
+  },
+  {
+    "id": "183",
+    "nom": "imbongo",
+    "ville_id": "23"
+  },
+  {
+    "id": "184",
+    "nom": "kipuka",
+    "ville_id": "23"
+  },
+  {
+    "id": "185",
+    "nom": "kwenge",
+    "ville_id": "23"
+  },
+  {
+    "id": "186",
+    "nom": "bukiombo-lusanga",
+    "ville_id": "23"
+  },
+  {
+    "id": "187",
+    "nom": "nko",
+    "ville_id": "23"
+  },
+  {
+    "id": "188",
+    "nom": "kabangu",
+    "ville_id": "23"
+  },
+  {
+    "id": "189",
+    "nom": "kwilu",
+    "ville_id": "23"
+  },
+  {
+    "id": "190",
+    "nom": "lukonzi",
+    "ville_id": "23"
+  },
+  {
+    "id": "191",
+    "nom": "musanga-idiofa",
+    "ville_id": "24"
+  },
+  {
+    "id": "192",
+    "nom": "yasa-lokwa",
+    "ville_id": "24"
+  },
+  {
+    "id": "193",
+    "nom": "kanga",
+    "ville_id": "24"
+  },
+  {
+    "id": "194",
+    "nom": "kalanganda",
+    "ville_id": "24"
+  },
+  {
+    "id": "195",
+    "nom": "bulwem",
+    "ville_id": "24"
+  },
+  {
+    "id": "196",
+    "nom": "sedzo",
+    "ville_id": "24"
+  },
+  {
+    "id": "197",
+    "nom": "piopio",
+    "ville_id": "24"
+  },
+  {
+    "id": "198",
+    "nom": "mateko",
+    "ville_id": "24"
+  },
+  {
+    "id": "199",
+    "nom": "yolo\/eolo",
+    "ville_id": "24"
+  },
+  {
+    "id": "200",
+    "nom": "kapia",
+    "ville_id": "24"
+  },
+  {
+    "id": "201",
+    "nom": "banga",
+    "ville_id": "24"
+  },
+  {
+    "id": "202",
+    "nom": "kipuku",
+    "ville_id": "24"
+  },
+  {
+    "id": "203",
+    "nom": "belo",
+    "ville_id": "24"
+  },
+  {
+    "id": "204",
+    "nom": "madimbi",
+    "ville_id": "24"
+  },
+  {
+    "id": "205",
+    "nom": "panu",
+    "ville_id": "24"
+  },
+  {
+    "id": "206",
+    "nom": "kalo",
+    "ville_id": "24"
+  },
+  {
+    "id": "207",
+    "nom": "mulasa",
+    "ville_id": "24"
+  },
+  {
+    "id": "208",
+    "nom": "idiofa",
+    "ville_id": "24"
+  },
+  {
+    "id": "209",
+    "nom": "manding",
+    "ville_id": "24"
+  },
+  {
+    "id": "210",
+    "nom": "musanga",
+    "ville_id": "24"
+  },
+  {
+    "id": "211",
+    "nom": "isabo",
+    "ville_id": "25"
+  },
+  {
+    "id": "212",
+    "nom": "menki",
+    "ville_id": "25"
+  },
+  {
+    "id": "213",
+    "nom": "ipala",
+    "ville_id": "26"
+  },
+  {
+    "id": "214",
+    "nom": "tshenza",
+    "ville_id": "26"
+  },
+  {
+    "id": "215",
+    "nom": "ndambu",
+    "ville_id": "26"
+  },
+  {
+    "id": "216",
+    "nom": "gungu",
+    "ville_id": "27"
+  },
+  {
+    "id": "217",
+    "nom": "kandale",
+    "ville_id": "27"
+  },
+  {
+    "id": "218",
+    "nom": "kobo",
+    "ville_id": "27"
+  },
+  {
+    "id": "219",
+    "nom": "mudikalunga",
+    "ville_id": "27"
+  },
+  {
+    "id": "220",
+    "nom": "kisunzu",
+    "ville_id": "27"
+  },
+  {
+    "id": "221",
+    "nom": "mungindu",
+    "ville_id": "27"
+  },
+  {
+    "id": "222",
+    "nom": "kilamba",
+    "ville_id": "27"
+  },
+  {
+    "id": "223",
+    "nom": "lukamba",
+    "ville_id": "27"
+  },
+  {
+    "id": "224",
+    "nom": "lozo",
+    "ville_id": "27"
+  },
+  {
+    "id": "225",
+    "nom": "ngudi",
+    "ville_id": "27"
+  },
+  {
+    "id": "226",
+    "nom": "mukedi",
+    "ville_id": "27"
+  },
+  {
+    "id": "227",
+    "nom": "kilembe",
+    "ville_id": "27"
+  },
+  {
+    "id": "228",
+    "nom": "kondo",
+    "ville_id": "27"
+  },
+  {
+    "id": "229",
+    "nom": "congo",
+    "ville_id": "27"
+  },
+  {
+    "id": "230",
+    "nom": "kakobola",
+    "ville_id": "27"
+  },
+  {
+    "id": "231",
+    "nom": "kwilu",
+    "ville_id": "27"
+  },
+  {
+    "id": "232",
+    "nom": "lukwila",
+    "ville_id": "27"
+  },
+  {
+    "id": "233",
+    "nom": "masi-manimba",
+    "ville_id": "28"
+  },
+  {
+    "id": "234",
+    "nom": "kibolo",
+    "ville_id": "28"
+  },
+  {
+    "id": "235",
+    "nom": "kinzenzengo",
+    "ville_id": "28"
+  },
+  {
+    "id": "236",
+    "nom": "bindungi",
+    "ville_id": "28"
+  },
+  {
+    "id": "237",
+    "nom": "kinzenga",
+    "ville_id": "28"
+  },
+  {
+    "id": "238",
+    "nom": "masamuna",
+    "ville_id": "28"
+  },
+  {
+    "id": "239",
+    "nom": "kitoy",
+    "ville_id": "28"
+  },
+  {
+    "id": "240",
+    "nom": "mokamo",
+    "ville_id": "28"
+  },
+  {
+    "id": "241",
+    "nom": "bwalayulu",
+    "ville_id": "28"
+  },
+  {
+    "id": "242",
+    "nom": "mosango",
+    "ville_id": "28"
+  },
+  {
+    "id": "243",
+    "nom": "pay-kongila 1",
+    "ville_id": "28"
+  },
+  {
+    "id": "244",
+    "nom": "pay-kongila 2",
+    "ville_id": "28"
+  },
+  {
+    "id": "245",
+    "nom": "sungu",
+    "ville_id": "28"
+  },
+  {
+    "id": "246",
+    "nom": "bibembo",
+    "ville_id": "28"
+  },
+  {
+    "id": "247",
+    "nom": "kangamiese",
+    "ville_id": "28"
+  },
+  {
+    "id": "248",
+    "nom": "lukuala",
+    "ville_id": "28"
+  },
+  {
+    "id": "249",
+    "nom": "bonse",
+    "ville_id": "29"
+  },
+  {
+    "id": "250",
+    "nom": "mpolo",
+    "ville_id": "29"
+  },
+  {
+    "id": "251",
+    "nom": "mpongonzoli",
+    "ville_id": "29"
+  },
+  {
+    "id": "252",
+    "nom": "inongo",
+    "ville_id": "30"
+  },
+  {
+    "id": "253",
+    "nom": "basengele",
+    "ville_id": "30"
+  },
+  {
+    "id": "254",
+    "nom": "bolia",
+    "ville_id": "30"
+  },
+  {
+    "id": "255",
+    "nom": "embelo",
+    "ville_id": "30"
+  },
+  {
+    "id": "256",
+    "nom": "kiri",
+    "ville_id": "31"
+  },
+  {
+    "id": "257",
+    "nom": "lutoy",
+    "ville_id": "31"
+  },
+  {
+    "id": "258",
+    "nom": "pendjwa",
+    "ville_id": "31"
+  },
+  {
+    "id": "259",
+    "nom": "ikongo",
+    "ville_id": "31"
+  },
+  {
+    "id": "260",
+    "nom": "beronge",
+    "ville_id": "31"
+  },
+  {
+    "id": "261",
+    "nom": "oshwe",
+    "ville_id": "32"
+  },
+  {
+    "id": "262",
+    "nom": "lukenie",
+    "ville_id": "32"
+  },
+  {
+    "id": "263",
+    "nom": "entre lukenie-lokoro nkaw",
+    "ville_id": "32"
+  },
+  {
+    "id": "264",
+    "nom": "lokolama",
+    "ville_id": "32"
+  },
+  {
+    "id": "265",
+    "nom": "kangara",
+    "ville_id": "32"
+  },
+  {
+    "id": "266",
+    "nom": "nioki",
+    "ville_id": "33"
+  },
+  {
+    "id": "267",
+    "nom": "kutu",
+    "ville_id": "33"
+  },
+  {
+    "id": "268",
+    "nom": "badia",
+    "ville_id": "33"
+  },
+  {
+    "id": "269",
+    "nom": "luabu",
+    "ville_id": "33"
+  },
+  {
+    "id": "270",
+    "nom": "batere",
+    "ville_id": "33"
+  },
+  {
+    "id": "271",
+    "nom": "mbien",
+    "ville_id": "33"
+  },
+  {
+    "id": "272",
+    "nom": "dungu",
+    "ville_id": "33"
+  },
+  {
+    "id": "273",
+    "nom": "kemba",
+    "ville_id": "33"
+  },
+  {
+    "id": "274",
+    "nom": "semondane",
+    "ville_id": "33"
+  },
+  {
+    "id": "275",
+    "nom": "mfimi",
+    "ville_id": "33"
+  },
+  {
+    "id": "276",
+    "nom": "semendua",
+    "ville_id": "33"
+  },
+  {
+    "id": "277",
+    "nom": "bokoro",
+    "ville_id": "33"
+  },
+  {
+    "id": "278",
+    "nom": "toolo",
+    "ville_id": "33"
+  },
+  {
+    "id": "279",
+    "nom": "kwamouth",
+    "ville_id": "34"
+  },
+  {
+    "id": "280",
+    "nom": "bateke-sud\/twa",
+    "ville_id": "34"
+  },
+  {
+    "id": "281",
+    "nom": "bateke-nord",
+    "ville_id": "35"
+  },
+  {
+    "id": "282",
+    "nom": "bolobo",
+    "ville_id": "35"
+  },
+  {
+    "id": "283",
+    "nom": "yumbi",
+    "ville_id": "36"
+  },
+  {
+    "id": "284",
+    "nom": "mongala",
+    "ville_id": "36"
+  },
+  {
+    "id": "285",
+    "nom": "mushie",
+    "ville_id": "37"
+  },
+  {
+    "id": "286",
+    "nom": "baboma-nord",
+    "ville_id": "37"
+  },
+  {
+    "id": "287",
+    "nom": "wangata",
+    "ville_id": "38"
+  },
+  {
+    "id": "288",
+    "nom": "mbandaka",
+    "ville_id": "38"
+  },
+  {
+    "id": "289",
+    "nom": "bikoro",
+    "ville_id": "39"
+  },
+  {
+    "id": "290",
+    "nom": "lac ntomba",
+    "ville_id": "39"
+  },
+  {
+    "id": "291",
+    "nom": "elanga",
+    "ville_id": "39"
+  },
+  {
+    "id": "292",
+    "nom": "ekonda",
+    "ville_id": "39"
+  },
+  {
+    "id": "293",
+    "nom": "lukolela",
+    "ville_id": "40"
+  },
+  {
+    "id": "294",
+    "nom": "banunu",
+    "ville_id": "40"
+  },
+  {
+    "id": "295",
+    "nom": "mpama",
+    "ville_id": "40"
+  },
+  {
+    "id": "296",
+    "nom": "lusakani",
+    "ville_id": "40"
+  },
+  {
+    "id": "297",
+    "nom": "bomongo",
+    "ville_id": "41"
+  },
+  {
+    "id": "298",
+    "nom": "djamba",
+    "ville_id": "41"
+  },
+  {
+    "id": "299",
+    "nom": "ngiri",
+    "ville_id": "41"
+  },
+  {
+    "id": "300",
+    "nom": "makanza",
+    "ville_id": "42"
+  },
+  {
+    "id": "301",
+    "nom": "ndobo",
+    "ville_id": "42"
+  },
+  {
+    "id": "302",
+    "nom": "bangala",
+    "ville_id": "42"
+  },
+  {
+    "id": "303",
+    "nom": "mweko (moeko)",
+    "ville_id": "42"
+  },
+  {
+    "id": "304",
+    "nom": "baenga",
+    "ville_id": "43"
+  },
+  {
+    "id": "305",
+    "nom": "basankusu 1",
+    "ville_id": "43"
+  },
+  {
+    "id": "306",
+    "nom": "basankusu 2",
+    "ville_id": "43"
+  },
+  {
+    "id": "307",
+    "nom": "gombalo",
+    "ville_id": "43"
+  },
+  {
+    "id": "308",
+    "nom": "waka-bokeka",
+    "ville_id": "43"
+  },
+  {
+    "id": "309",
+    "nom": "bolomba 1",
+    "ville_id": "44"
+  },
+  {
+    "id": "310",
+    "nom": "dianga",
+    "ville_id": "44"
+  },
+  {
+    "id": "311",
+    "nom": "mampoko",
+    "ville_id": "44"
+  },
+  {
+    "id": "312",
+    "nom": "bolomba 2",
+    "ville_id": "44"
+  },
+  {
+    "id": "313",
+    "nom": "lusanganya",
+    "ville_id": "44"
+  },
+  {
+    "id": "314",
+    "nom": "busira",
+    "ville_id": "44"
+  },
+  {
+    "id": "315",
+    "nom": "ingende",
+    "ville_id": "45"
+  },
+  {
+    "id": "316",
+    "nom": "duali",
+    "ville_id": "45"
+  },
+  {
+    "id": "317",
+    "nom": "bokatola",
+    "ville_id": "45"
+  },
+  {
+    "id": "318",
+    "nom": "eungu",
+    "ville_id": "45"
+  },
+  {
+    "id": "319",
+    "nom": "mont gila",
+    "ville_id": "46"
+  },
+  {
+    "id": "320",
+    "nom": "gbazulu",
+    "ville_id": "46"
+  },
+  {
+    "id": "321",
+    "nom": "labo",
+    "ville_id": "46"
+  },
+  {
+    "id": "322",
+    "nom": "lac-ntumba",
+    "ville_id": "46"
+  },
+  {
+    "id": "323",
+    "nom": "banga-kungu",
+    "ville_id": "47"
+  },
+  {
+    "id": "324",
+    "nom": "bowase",
+    "ville_id": "47"
+  },
+  {
+    "id": "325",
+    "nom": "mbari",
+    "ville_id": "47"
+  },
+  {
+    "id": "326",
+    "nom": "nguya",
+    "ville_id": "47"
+  },
+  {
+    "id": "327",
+    "nom": "budjala",
+    "ville_id": "48"
+  },
+  {
+    "id": "328",
+    "nom": "ndolo-liboko",
+    "ville_id": "48"
+  },
+  {
+    "id": "329",
+    "nom": "bolingo",
+    "ville_id": "48"
+  },
+  {
+    "id": "330",
+    "nom": "banza",
+    "ville_id": "48"
+  },
+  {
+    "id": "331",
+    "nom": "kungu",
+    "ville_id": "49"
+  },
+  {
+    "id": "332",
+    "nom": "mwanda",
+    "ville_id": "49"
+  },
+  {
+    "id": "333",
+    "nom": "dongo",
+    "ville_id": "49"
+  },
+  {
+    "id": "334",
+    "nom": "bamboma",
+    "ville_id": "49"
+  },
+  {
+    "id": "335",
+    "nom": "songo",
+    "ville_id": "49"
+  },
+  {
+    "id": "336",
+    "nom": "lwa",
+    "ville_id": "49"
+  },
+  {
+    "id": "337",
+    "nom": "libenge",
+    "ville_id": "50"
+  },
+  {
+    "id": "338",
+    "nom": "libenge sud",
+    "ville_id": "50"
+  },
+  {
+    "id": "339",
+    "nom": "libenge centre",
+    "ville_id": "50"
+  },
+  {
+    "id": "340",
+    "nom": "libenge nord",
+    "ville_id": "50"
+  },
+  {
+    "id": "341",
+    "nom": "nzulu",
+    "ville_id": "51"
+  },
+  {
+    "id": "342",
+    "nom": "wango",
+    "ville_id": "51"
+  },
+  {
+    "id": "343",
+    "nom": "commune de gbadolite",
+    "ville_id": "52"
+  },
+  {
+    "id": "344",
+    "nom": "commune de molegbe",
+    "ville_id": "52"
+  },
+  {
+    "id": "345",
+    "nom": "commune de nganza",
+    "ville_id": "52"
+  },
+  {
+    "id": "346",
+    "nom": "mobayi-mbongo",
+    "ville_id": "53"
+  },
+  {
+    "id": "347",
+    "nom": "oto-mbanza",
+    "ville_id": "53"
+  },
+  {
+    "id": "348",
+    "nom": "mobayi-mbongo (ville)",
+    "ville_id": "53"
+  },
+  {
+    "id": "349",
+    "nom": "commune de nwange",
+    "ville_id": "53"
+  },
+  {
+    "id": "350",
+    "nom": "commune de ngogbe",
+    "ville_id": "53"
+  },
+  {
+    "id": "351",
+    "nom": "yakoma (commune rurale)",
+    "ville_id": "53"
+  },
+  {
+    "id": "352",
+    "nom": "yakoma",
+    "ville_id": "54"
+  },
+  {
+    "id": "353",
+    "nom": "wapinda",
+    "ville_id": "54"
+  },
+  {
+    "id": "354",
+    "nom": "abumombazi",
+    "ville_id": "54"
+  },
+  {
+    "id": "355",
+    "nom": "businga (commune rurale)",
+    "ville_id": "55"
+  },
+  {
+    "id": "356",
+    "nom": "businga",
+    "ville_id": "55"
+  },
+  {
+    "id": "357",
+    "nom": "karawa",
+    "ville_id": "55"
+  },
+  {
+    "id": "358",
+    "nom": "bodangabo",
+    "ville_id": "55"
+  },
+  {
+    "id": "359",
+    "nom": "bosobolo (commune rurale)",
+    "ville_id": "56"
+  },
+  {
+    "id": "360",
+    "nom": "bosobolo",
+    "ville_id": "56"
+  },
+  {
+    "id": "361",
+    "nom": "bandas",
+    "ville_id": "56"
+  },
+  {
+    "id": "362",
+    "nom": "bili",
+    "ville_id": "56"
+  },
+  {
+    "id": "363",
+    "nom": "mongala",
+    "ville_id": "57"
+  },
+  {
+    "id": "364",
+    "nom": "bolikango",
+    "ville_id": "57"
+  },
+  {
+    "id": "365",
+    "nom": "ngombe doko",
+    "ville_id": "58"
+  },
+  {
+    "id": "366",
+    "nom": "mondongo",
+    "ville_id": "58"
+  },
+  {
+    "id": "367",
+    "nom": "ngombe mobangi",
+    "ville_id": "58"
+  },
+  {
+    "id": "368",
+    "nom": "binga",
+    "ville_id": "58"
+  },
+  {
+    "id": "369",
+    "nom": "mongala motima",
+    "ville_id": "58"
+  },
+  {
+    "id": "370",
+    "nom": "budja",
+    "ville_id": "59"
+  },
+  {
+    "id": "371",
+    "nom": "ebonda",
+    "ville_id": "59"
+  },
+  {
+    "id": "372",
+    "nom": "lokole",
+    "ville_id": "59"
+  },
+  {
+    "id": "373",
+    "nom": "molua",
+    "ville_id": "59"
+  },
+  {
+    "id": "374",
+    "nom": "monama",
+    "ville_id": "59"
+  },
+  {
+    "id": "375",
+    "nom": "molwa",
+    "ville_id": "59"
+  },
+  {
+    "id": "376",
+    "nom": "modjamboli",
+    "ville_id": "59"
+  },
+  {
+    "id": "377",
+    "nom": "banda yoka",
+    "ville_id": "59"
+  },
+  {
+    "id": "378",
+    "nom": "yondangi",
+    "ville_id": "59"
+  },
+  {
+    "id": "379",
+    "nom": "loeka",
+    "ville_id": "59"
+  },
+  {
+    "id": "380",
+    "nom": "itimbiri",
+    "ville_id": "59"
+  },
+  {
+    "id": "381",
+    "nom": "bondanganda 1",
+    "ville_id": "60"
+  },
+  {
+    "id": "382",
+    "nom": "bondanganda 2",
+    "ville_id": "60"
+  },
+  {
+    "id": "383",
+    "nom": "boso-melo",
+    "ville_id": "60"
+  },
+  {
+    "id": "384",
+    "nom": "boso-djano",
+    "ville_id": "60"
+  },
+  {
+    "id": "385",
+    "nom": "boso-simba",
+    "ville_id": "60"
+  },
+  {
+    "id": "386",
+    "nom": "boende",
+    "ville_id": "61"
+  },
+  {
+    "id": "387",
+    "nom": "tshuapa",
+    "ville_id": "61"
+  },
+  {
+    "id": "388",
+    "nom": "bolua",
+    "ville_id": "62"
+  },
+  {
+    "id": "389",
+    "nom": "wini",
+    "ville_id": "62"
+  },
+  {
+    "id": "390",
+    "nom": "djera",
+    "ville_id": "62"
+  },
+  {
+    "id": "391",
+    "nom": "lofoy",
+    "ville_id": "62"
+  },
+  {
+    "id": "392",
+    "nom": "befale",
+    "ville_id": "63"
+  },
+  {
+    "id": "393",
+    "nom": "befumbo",
+    "ville_id": "63"
+  },
+  {
+    "id": "394",
+    "nom": "lomaka",
+    "ville_id": "63"
+  },
+  {
+    "id": "395",
+    "nom": "duale",
+    "ville_id": "63"
+  },
+  {
+    "id": "396",
+    "nom": "djolu 1",
+    "ville_id": "64"
+  },
+  {
+    "id": "397",
+    "nom": "djolu 2",
+    "ville_id": "64"
+  },
+  {
+    "id": "398",
+    "nom": "luo",
+    "ville_id": "64"
+  },
+  {
+    "id": "399",
+    "nom": "lingomo",
+    "ville_id": "64"
+  },
+  {
+    "id": "400",
+    "nom": "yala",
+    "ville_id": "64"
+  },
+  {
+    "id": "401",
+    "nom": "bokakata",
+    "ville_id": "64"
+  },
+  {
+    "id": "402",
+    "nom": "ikela",
+    "ville_id": "65"
+  },
+  {
+    "id": "403",
+    "nom": "tumbenga",
+    "ville_id": "65"
+  },
+  {
+    "id": "404",
+    "nom": "lokina",
+    "ville_id": "65"
+  },
+  {
+    "id": "405",
+    "nom": "loile",
+    "ville_id": "65"
+  },
+  {
+    "id": "406",
+    "nom": "lofome",
+    "ville_id": "65"
+  },
+  {
+    "id": "407",
+    "nom": "tshuapa",
+    "ville_id": "65"
+  },
+  {
+    "id": "408",
+    "nom": "bokungu",
+    "ville_id": "66"
+  },
+  {
+    "id": "409",
+    "nom": "loombo",
+    "ville_id": "66"
+  },
+  {
+    "id": "410",
+    "nom": "luay",
+    "ville_id": "66"
+  },
+  {
+    "id": "411",
+    "nom": "luando",
+    "ville_id": "66"
+  },
+  {
+    "id": "412",
+    "nom": "lolaka",
+    "ville_id": "66"
+  },
+  {
+    "id": "413",
+    "nom": "chefferie nkole",
+    "ville_id": "66"
+  },
+  {
+    "id": "414",
+    "nom": "monkoto 1",
+    "ville_id": "67"
+  },
+  {
+    "id": "415",
+    "nom": "monkoto 2",
+    "ville_id": "67"
+  },
+  {
+    "id": "416",
+    "nom": "bianga",
+    "ville_id": "67"
+  },
+  {
+    "id": "417",
+    "nom": "nongo",
+    "ville_id": "67"
+  },
+  {
+    "id": "418",
+    "nom": "lubunga",
+    "ville_id": "68"
+  },
+  {
+    "id": "419",
+    "nom": "makiso",
+    "ville_id": "68"
+  },
+  {
+    "id": "420",
+    "nom": "mangobo",
+    "ville_id": "68"
+  },
+  {
+    "id": "421",
+    "nom": "tshopo",
+    "ville_id": "68"
+  },
+  {
+    "id": "422",
+    "nom": "kabondo",
+    "ville_id": "68"
+  },
+  {
+    "id": "423",
+    "nom": "kisangani",
+    "ville_id": "68"
+  },
+  {
+    "id": "424",
+    "nom": "ubundu",
+    "ville_id": "69"
+  },
+  {
+    "id": "425",
+    "nom": "mituku-basikate",
+    "ville_id": "69"
+  },
+  {
+    "id": "426",
+    "nom": "mituku-bamoya",
+    "ville_id": "69"
+  },
+  {
+    "id": "427",
+    "nom": "walengola-babira",
+    "ville_id": "69"
+  },
+  {
+    "id": "428",
+    "nom": "walengola-baleka",
+    "ville_id": "69"
+  },
+  {
+    "id": "429",
+    "nom": "bakumu-mangongo",
+    "ville_id": "69"
+  },
+  {
+    "id": "430",
+    "nom": "bakumu-mandombe",
+    "ville_id": "69"
+  },
+  {
+    "id": "431",
+    "nom": "wanie rukula",
+    "ville_id": "69"
+  },
+  {
+    "id": "432",
+    "nom": "bakumu-kilinga",
+    "ville_id": "69"
+  },
+  {
+    "id": "433",
+    "nom": "bakumu-obiatuku",
+    "ville_id": "69"
+  },
+  {
+    "id": "434",
+    "nom": "walengola-lilo",
+    "ville_id": "69"
+  },
+  {
+    "id": "435",
+    "nom": "chefferie kirundu",
+    "ville_id": "69"
+  },
+  {
+    "id": "436",
+    "nom": "walengola-lowa",
+    "ville_id": "69"
+  },
+  {
+    "id": "437",
+    "nom": "lowa",
+    "ville_id": "69"
+  },
+  {
+    "id": "438",
+    "nom": "opala",
+    "ville_id": "70"
+  },
+  {
+    "id": "439",
+    "nom": "yawende loolo",
+    "ville_id": "70"
+  },
+  {
+    "id": "440",
+    "nom": "yalingo",
+    "ville_id": "70"
+  },
+  {
+    "id": "441",
+    "nom": "yayengo",
+    "ville_id": "70"
+  },
+  {
+    "id": "442",
+    "nom": "yomaie",
+    "ville_id": "70"
+  },
+  {
+    "id": "443",
+    "nom": "iye",
+    "ville_id": "70"
+  },
+  {
+    "id": "444",
+    "nom": "yapandu",
+    "ville_id": "70"
+  },
+  {
+    "id": "445",
+    "nom": "mongo",
+    "ville_id": "70"
+  },
+  {
+    "id": "446",
+    "nom": "kembe",
+    "ville_id": "70"
+  },
+  {
+    "id": "447",
+    "nom": "balinga-lindja",
+    "ville_id": "70"
+  },
+  {
+    "id": "448",
+    "nom": "tooli",
+    "ville_id": "70"
+  },
+  {
+    "id": "449",
+    "nom": "yaleko",
+    "ville_id": "70"
+  },
+  {
+    "id": "450",
+    "nom": "lobaie",
+    "ville_id": "70"
+  },
+  {
+    "id": "451",
+    "nom": "yatolema",
+    "ville_id": "70"
+  },
+  {
+    "id": "452",
+    "nom": "fleuve",
+    "ville_id": "71"
+  },
+  {
+    "id": "453",
+    "nom": "isangi",
+    "ville_id": "71"
+  },
+  {
+    "id": "454",
+    "nom": "lomami",
+    "ville_id": "71"
+  },
+  {
+    "id": "455",
+    "nom": "loolo",
+    "ville_id": "71"
+  },
+  {
+    "id": "456",
+    "nom": "bolomboki",
+    "ville_id": "71"
+  },
+  {
+    "id": "457",
+    "nom": "baluolambila",
+    "ville_id": "71"
+  },
+  {
+    "id": "458",
+    "nom": "bambelota",
+    "ville_id": "71"
+  },
+  {
+    "id": "459",
+    "nom": "yabaondo",
+    "ville_id": "71"
+  },
+  {
+    "id": "460",
+    "nom": "lukombe",
+    "ville_id": "71"
+  },
+  {
+    "id": "461",
+    "nom": "lueta",
+    "ville_id": "71"
+  },
+  {
+    "id": "462",
+    "nom": "liutua",
+    "ville_id": "71"
+  },
+  {
+    "id": "463",
+    "nom": "kombe",
+    "ville_id": "71"
+  },
+  {
+    "id": "464",
+    "nom": "yawembe basoa",
+    "ville_id": "71"
+  },
+  {
+    "id": "465",
+    "nom": "turumbu",
+    "ville_id": "71"
+  },
+  {
+    "id": "466",
+    "nom": "yaokandja",
+    "ville_id": "71"
+  },
+  {
+    "id": "467",
+    "nom": "yalikandja yanongo",
+    "ville_id": "71"
+  },
+  {
+    "id": "468",
+    "nom": "yalikila",
+    "ville_id": "71"
+  },
+  {
+    "id": "469",
+    "nom": "yalikoka-mboso",
+    "ville_id": "71"
+  },
+  {
+    "id": "470",
+    "nom": "lotokila",
+    "ville_id": "71"
+  },
+  {
+    "id": "471",
+    "nom": "ekutsu",
+    "ville_id": "71"
+  },
+  {
+    "id": "472",
+    "nom": "lusambila",
+    "ville_id": "72"
+  },
+  {
+    "id": "473",
+    "nom": "manzikala",
+    "ville_id": "72"
+  },
+  {
+    "id": "474",
+    "nom": "yahuma",
+    "ville_id": "73"
+  },
+  {
+    "id": "475",
+    "nom": "bosoko",
+    "ville_id": "73"
+  },
+  {
+    "id": "476",
+    "nom": "bolinga",
+    "ville_id": "73"
+  },
+  {
+    "id": "477",
+    "nom": "buma",
+    "ville_id": "73"
+  },
+  {
+    "id": "478",
+    "nom": "mombesa",
+    "ville_id": "73"
+  },
+  {
+    "id": "479",
+    "nom": "mosite",
+    "ville_id": "73"
+  },
+  {
+    "id": "480",
+    "nom": "bandole",
+    "ville_id": "74"
+  },
+  {
+    "id": "481",
+    "nom": "bandu-lokutu",
+    "ville_id": "74"
+  },
+  {
+    "id": "482",
+    "nom": "lokumete",
+    "ville_id": "74"
+  },
+  {
+    "id": "483",
+    "nom": "nzombo",
+    "ville_id": "74"
+  },
+  {
+    "id": "484",
+    "nom": "bomenge",
+    "ville_id": "74"
+  },
+  {
+    "id": "485",
+    "nom": "turumbu",
+    "ville_id": "74"
+  },
+  {
+    "id": "486",
+    "nom": "lukutu",
+    "ville_id": "74"
+  },
+  {
+    "id": "487",
+    "nom": "lokutu",
+    "ville_id": "74"
+  },
+  {
+    "id": "488",
+    "nom": "bandu",
+    "ville_id": "74"
+  },
+  {
+    "id": "489",
+    "nom": "chefferie yaliwasa",
+    "ville_id": "74"
+  },
+  {
+    "id": "490",
+    "nom": "mobango itimbiri",
+    "ville_id": "74"
+  },
+  {
+    "id": "491",
+    "nom": "moenge",
+    "ville_id": "74"
+  },
+  {
+    "id": "492",
+    "nom": "yamandundu",
+    "ville_id": "74"
+  },
+  {
+    "id": "493",
+    "nom": "wahanga",
+    "ville_id": "74"
+  },
+  {
+    "id": "494",
+    "nom": "bangelema",
+    "ville_id": "74"
+  },
+  {
+    "id": "495",
+    "nom": "banalia",
+    "ville_id": "75"
+  },
+  {
+    "id": "496",
+    "nom": "banalia-bangba",
+    "ville_id": "75"
+  },
+  {
+    "id": "497",
+    "nom": "bamanga",
+    "ville_id": "75"
+  },
+  {
+    "id": "498",
+    "nom": "baboro",
+    "ville_id": "75"
+  },
+  {
+    "id": "499",
+    "nom": "baboa de kole",
+    "ville_id": "75"
+  },
+  {
+    "id": "500",
+    "nom": "popoy",
+    "ville_id": "75"
+  },
+  {
+    "id": "501",
+    "nom": "panga",
+    "ville_id": "75"
+  },
+  {
+    "id": "502",
+    "nom": "bafwasende",
+    "ville_id": "76"
+  },
+  {
+    "id": "503",
+    "nom": "bokumu d'angumu",
+    "ville_id": "76"
+  },
+  {
+    "id": "504",
+    "nom": "barumbi-opienge",
+    "ville_id": "76"
+  },
+  {
+    "id": "505",
+    "nom": "opienge",
+    "ville_id": "76"
+  },
+  {
+    "id": "506",
+    "nom": "bakundumu",
+    "ville_id": "76"
+  },
+  {
+    "id": "507",
+    "nom": "bakeni-kondolole",
+    "ville_id": "76"
+  },
+  {
+    "id": "508",
+    "nom": "bafwandaka",
+    "ville_id": "76"
+  },
+  {
+    "id": "509",
+    "nom": "bemili",
+    "ville_id": "76"
+  },
+  {
+    "id": "510",
+    "nom": "babade",
+    "ville_id": "77"
+  },
+  {
+    "id": "511",
+    "nom": "dobeya",
+    "ville_id": "77"
+  },
+  {
+    "id": "512",
+    "nom": "finant",
+    "ville_id": "77"
+  },
+  {
+    "id": "513",
+    "nom": "tepatondele",
+    "ville_id": "77"
+  },
+  {
+    "id": "514",
+    "nom": "mongazolo (mongazulu)",
+    "ville_id": "78"
+  },
+  {
+    "id": "515",
+    "nom": "nguru",
+    "ville_id": "78"
+  },
+  {
+    "id": "516",
+    "nom": "mobati",
+    "ville_id": "78"
+  },
+  {
+    "id": "517",
+    "nom": "barisi",
+    "ville_id": "78"
+  },
+  {
+    "id": "518",
+    "nom": "bayeu bogongea",
+    "ville_id": "78"
+  },
+  {
+    "id": "519",
+    "nom": "bayeu bogbama",
+    "ville_id": "78"
+  },
+  {
+    "id": "520",
+    "nom": "itimbiri",
+    "ville_id": "79"
+  },
+  {
+    "id": "521",
+    "nom": "ngbongade",
+    "ville_id": "79"
+  },
+  {
+    "id": "522",
+    "nom": "tinda",
+    "ville_id": "79"
+  },
+  {
+    "id": "523",
+    "nom": "yoko",
+    "ville_id": "79"
+  },
+  {
+    "id": "524",
+    "nom": "chefferie bondongola",
+    "ville_id": "79"
+  },
+  {
+    "id": "525",
+    "nom": "bgongi",
+    "ville_id": "79"
+  },
+  {
+    "id": "526",
+    "nom": "kolongwandi (mongwandi)",
+    "ville_id": "79"
+  },
+  {
+    "id": "527",
+    "nom": "avuru duma",
+    "ville_id": "79"
+  },
+  {
+    "id": "528",
+    "nom": "mobati boyele",
+    "ville_id": "79"
+  },
+  {
+    "id": "529",
+    "nom": "avuru gatanga",
+    "ville_id": "79"
+  },
+  {
+    "id": "530",
+    "nom": "likati",
+    "ville_id": "79"
+  },
+  {
+    "id": "531",
+    "nom": "mabinza",
+    "ville_id": "79"
+  },
+  {
+    "id": "532",
+    "nom": "uele",
+    "ville_id": "80"
+  },
+  {
+    "id": "533",
+    "nom": "bondo",
+    "ville_id": "80"
+  },
+  {
+    "id": "534",
+    "nom": "zagili",
+    "ville_id": "80"
+  },
+  {
+    "id": "535",
+    "nom": "mobenge mundila",
+    "ville_id": "80"
+  },
+  {
+    "id": "536",
+    "nom": "duaru",
+    "ville_id": "80"
+  },
+  {
+    "id": "537",
+    "nom": "kasa",
+    "ville_id": "80"
+  },
+  {
+    "id": "538",
+    "nom": "monga",
+    "ville_id": "80"
+  },
+  {
+    "id": "539",
+    "nom": "soa",
+    "ville_id": "80"
+  },
+  {
+    "id": "540",
+    "nom": "ndu",
+    "ville_id": "80"
+  },
+  {
+    "id": "541",
+    "nom": "deni",
+    "ville_id": "80"
+  },
+  {
+    "id": "542",
+    "nom": "gaya",
+    "ville_id": "80"
+  },
+  {
+    "id": "543",
+    "nom": "goya",
+    "ville_id": "80"
+  },
+  {
+    "id": "544",
+    "nom": "baye",
+    "ville_id": "80"
+  },
+  {
+    "id": "545",
+    "nom": "biamange (gbamange)",
+    "ville_id": "80"
+  },
+  {
+    "id": "546",
+    "nom": "boso",
+    "ville_id": "80"
+  },
+  {
+    "id": "547",
+    "nom": "bili (commune rurale)",
+    "ville_id": "80"
+  },
+  {
+    "id": "548",
+    "nom": "gama",
+    "ville_id": "80"
+  },
+  {
+    "id": "549",
+    "nom": "ango",
+    "ville_id": "81"
+  },
+  {
+    "id": "550",
+    "nom": "ngindo",
+    "ville_id": "81"
+  },
+  {
+    "id": "551",
+    "nom": "sasa",
+    "ville_id": "81"
+  },
+  {
+    "id": "552",
+    "nom": "mopay",
+    "ville_id": "81"
+  },
+  {
+    "id": "553",
+    "nom": "ezo",
+    "ville_id": "81"
+  },
+  {
+    "id": "554",
+    "nom": "dakwa",
+    "ville_id": "81"
+  },
+  {
+    "id": "555",
+    "nom": "poko",
+    "ville_id": "82"
+  },
+  {
+    "id": "556",
+    "nom": "malele",
+    "ville_id": "82"
+  },
+  {
+    "id": "557",
+    "nom": "bakangaie-avuru",
+    "ville_id": "82"
+  },
+  {
+    "id": "558",
+    "nom": "kembisa",
+    "ville_id": "82"
+  },
+  {
+    "id": "559",
+    "nom": "abarambo",
+    "ville_id": "82"
+  },
+  {
+    "id": "560",
+    "nom": "madi",
+    "ville_id": "82"
+  },
+  {
+    "id": "561",
+    "nom": "soronga",
+    "ville_id": "82"
+  },
+  {
+    "id": "562",
+    "nom": "mabanga",
+    "ville_id": "82"
+  },
+  {
+    "id": "563",
+    "nom": "ngbarandi",
+    "ville_id": "82"
+  },
+  {
+    "id": "564",
+    "nom": "babena",
+    "ville_id": "82"
+  },
+  {
+    "id": "565",
+    "nom": "gamu",
+    "ville_id": "82"
+  },
+  {
+    "id": "566",
+    "nom": "kamandeni (komendeni)",
+    "ville_id": "82"
+  },
+  {
+    "id": "567",
+    "nom": "kipata",
+    "ville_id": "82"
+  },
+  {
+    "id": "568",
+    "nom": "zune",
+    "ville_id": "82"
+  },
+  {
+    "id": "569",
+    "nom": "bambesa",
+    "ville_id": "83"
+  },
+  {
+    "id": "570",
+    "nom": "makere 2",
+    "ville_id": "83"
+  },
+  {
+    "id": "571",
+    "nom": "makere 1",
+    "ville_id": "83"
+  },
+  {
+    "id": "572",
+    "nom": "zobia",
+    "ville_id": "83"
+  },
+  {
+    "id": "573",
+    "nom": "bokiba",
+    "ville_id": "83"
+  },
+  {
+    "id": "574",
+    "nom": "mondongwali",
+    "ville_id": "83"
+  },
+  {
+    "id": "575",
+    "nom": "titule",
+    "ville_id": "83"
+  },
+  {
+    "id": "576",
+    "nom": "mange",
+    "ville_id": "83"
+  },
+  {
+    "id": "577",
+    "nom": "bulungua",
+    "ville_id": "83"
+  },
+  {
+    "id": "578",
+    "nom": "bakete (bateke)",
+    "ville_id": "83"
+  },
+  {
+    "id": "579",
+    "nom": "bokapo",
+    "ville_id": "83"
+  },
+  {
+    "id": "580",
+    "nom": "bakere bakete",
+    "ville_id": "83"
+  },
+  {
+    "id": "581",
+    "nom": "bambili",
+    "ville_id": "84"
+  },
+  {
+    "id": "582",
+    "nom": "dingila",
+    "ville_id": "84"
+  },
+  {
+    "id": "583",
+    "nom": "tobola",
+    "ville_id": "84"
+  },
+  {
+    "id": "584",
+    "nom": "kupa",
+    "ville_id": "85"
+  },
+  {
+    "id": "585",
+    "nom": "mambaya",
+    "ville_id": "85"
+  },
+  {
+    "id": "586",
+    "nom": "mendambo",
+    "ville_id": "85"
+  },
+  {
+    "id": "587",
+    "nom": "rungu",
+    "ville_id": "86"
+  },
+  {
+    "id": "588",
+    "nom": "medje mongo",
+    "ville_id": "86"
+  },
+  {
+    "id": "589",
+    "nom": "mengo mosi",
+    "ville_id": "86"
+  },
+  {
+    "id": "590",
+    "nom": "ndey",
+    "ville_id": "86"
+  },
+  {
+    "id": "591",
+    "nom": "azanga",
+    "ville_id": "86"
+  },
+  {
+    "id": "592",
+    "nom": "mboli",
+    "ville_id": "86"
+  },
+  {
+    "id": "593",
+    "nom": "mayoyo magbele",
+    "ville_id": "86"
+  },
+  {
+    "id": "594",
+    "nom": "mayogo-mabozo",
+    "ville_id": "86"
+  },
+  {
+    "id": "595",
+    "nom": "niangara",
+    "ville_id": "87"
+  },
+  {
+    "id": "596",
+    "nom": "okoda",
+    "ville_id": "87"
+  },
+  {
+    "id": "597",
+    "nom": "boemi",
+    "ville_id": "87"
+  },
+  {
+    "id": "598",
+    "nom": "mangbetu mabisanga",
+    "ville_id": "87"
+  },
+  {
+    "id": "599",
+    "nom": "mangbele",
+    "ville_id": "87"
+  },
+  {
+    "id": "600",
+    "nom": "manzinga",
+    "ville_id": "87"
+  },
+  {
+    "id": "601",
+    "nom": "kopa",
+    "ville_id": "87"
+  },
+  {
+    "id": "602",
+    "nom": "kereboro",
+    "ville_id": "87"
+  },
+  {
+    "id": "603",
+    "nom": "bamokandi",
+    "ville_id": "88"
+  },
+  {
+    "id": "604",
+    "nom": "dungu-uye",
+    "ville_id": "88"
+  },
+  {
+    "id": "605",
+    "nom": "ngilima",
+    "ville_id": "88"
+  },
+  {
+    "id": "606",
+    "nom": "wando",
+    "ville_id": "88"
+  },
+  {
+    "id": "607",
+    "nom": "malingindu",
+    "ville_id": "88"
+  },
+  {
+    "id": "608",
+    "nom": "ndolomo",
+    "ville_id": "88"
+  },
+  {
+    "id": "609",
+    "nom": "laskuri",
+    "ville_id": "89"
+  },
+  {
+    "id": "610",
+    "nom": "sambali",
+    "ville_id": "89"
+  },
+  {
+    "id": "611",
+    "nom": "zungbi",
+    "ville_id": "89"
+  },
+  {
+    "id": "612",
+    "nom": "faradje",
+    "ville_id": "89"
+  },
+  {
+    "id": "613",
+    "nom": "dongo",
+    "ville_id": "89"
+  },
+  {
+    "id": "614",
+    "nom": "logo-doka",
+    "ville_id": "89"
+  },
+  {
+    "id": "615",
+    "nom": "makaro",
+    "ville_id": "89"
+  },
+  {
+    "id": "616",
+    "nom": "logo-ogambi",
+    "ville_id": "89"
+  },
+  {
+    "id": "617",
+    "nom": "tadu",
+    "ville_id": "89"
+  },
+  {
+    "id": "618",
+    "nom": "mondo",
+    "ville_id": "89"
+  },
+  {
+    "id": "619",
+    "nom": "kakwa-lamada",
+    "ville_id": "89"
+  },
+  {
+    "id": "620",
+    "nom": "logo-bagela",
+    "ville_id": "89"
+  },
+  {
+    "id": "621",
+    "nom": "logo-lolia",
+    "ville_id": "89"
+  },
+  {
+    "id": "622",
+    "nom": "logo-obeleba",
+    "ville_id": "89"
+  },
+  {
+    "id": "623",
+    "nom": "gandza",
+    "ville_id": "90"
+  },
+  {
+    "id": "624",
+    "nom": "kibali 1",
+    "ville_id": "90"
+  },
+  {
+    "id": "625",
+    "nom": "mongali",
+    "ville_id": "90"
+  },
+  {
+    "id": "626",
+    "nom": "mangoro",
+    "ville_id": "90"
+  },
+  {
+    "id": "627",
+    "nom": "andikofa",
+    "ville_id": "90"
+  },
+  {
+    "id": "628",
+    "nom": "mari-minza",
+    "ville_id": "90"
+  },
+  {
+    "id": "629",
+    "nom": "kibali 2",
+    "ville_id": "90"
+  },
+  {
+    "id": "630",
+    "nom": "mangbutu",
+    "ville_id": "90"
+  },
+  {
+    "id": "631",
+    "nom": "walesa",
+    "ville_id": "90"
+  },
+  {
+    "id": "632",
+    "nom": "gombari",
+    "ville_id": "90"
+  },
+  {
+    "id": "633",
+    "nom": "ateru",
+    "ville_id": "90"
+  },
+  {
+    "id": "634",
+    "nom": "kebo",
+    "ville_id": "90"
+  },
+  {
+    "id": "635",
+    "nom": "andobi",
+    "ville_id": "90"
+  },
+  {
+    "id": "636",
+    "nom": "anoalite",
+    "ville_id": "91"
+  },
+  {
+    "id": "637",
+    "nom": "nepoko",
+    "ville_id": "91"
+  },
+  {
+    "id": "638",
+    "nom": "wamba",
+    "ville_id": "91"
+  },
+  {
+    "id": "639",
+    "nom": "timoniko",
+    "ville_id": "91"
+  },
+  {
+    "id": "640",
+    "nom": "ibambi",
+    "ville_id": "91"
+  },
+  {
+    "id": "641",
+    "nom": "wadimbisa",
+    "ville_id": "91"
+  },
+  {
+    "id": "642",
+    "nom": "makoda",
+    "ville_id": "91"
+  },
+  {
+    "id": "643",
+    "nom": "bafwangada",
+    "ville_id": "91"
+  },
+  {
+    "id": "644",
+    "nom": "malikala",
+    "ville_id": "91"
+  },
+  {
+    "id": "645",
+    "nom": "mangbele",
+    "ville_id": "91"
+  },
+  {
+    "id": "646",
+    "nom": "malamba",
+    "ville_id": "91"
+  },
+  {
+    "id": "647",
+    "nom": "maha",
+    "ville_id": "91"
+  },
+  {
+    "id": "648",
+    "nom": "bafwakoy",
+    "ville_id": "91"
+  },
+  {
+    "id": "649",
+    "nom": "mabudu malika babero",
+    "ville_id": "91"
+  },
+  {
+    "id": "650",
+    "nom": "malika toriko",
+    "ville_id": "91"
+  },
+  {
+    "id": "651",
+    "nom": "durunga",
+    "ville_id": "91"
+  },
+  {
+    "id": "652",
+    "nom": "nyakasanza",
+    "ville_id": "92"
+  },
+  {
+    "id": "653",
+    "nom": "mbunya",
+    "ville_id": "92"
+  },
+  {
+    "id": "654",
+    "nom": "shari",
+    "ville_id": "92"
+  },
+  {
+    "id": "655",
+    "nom": "irumu",
+    "ville_id": "93"
+  },
+  {
+    "id": "656",
+    "nom": "bahema boga",
+    "ville_id": "93"
+  },
+  {
+    "id": "657",
+    "nom": "baniari-tchiabi",
+    "ville_id": "93"
+  },
+  {
+    "id": "658",
+    "nom": "walese vonkutu",
+    "ville_id": "93"
+  },
+  {
+    "id": "659",
+    "nom": "basili",
+    "ville_id": "93"
+  },
+  {
+    "id": "660",
+    "nom": "mobala",
+    "ville_id": "93"
+  },
+  {
+    "id": "661",
+    "nom": "babelebe",
+    "ville_id": "93"
+  },
+  {
+    "id": "662",
+    "nom": "baboa-bakoe",
+    "ville_id": "93"
+  },
+  {
+    "id": "663",
+    "nom": "bahema d'irumu",
+    "ville_id": "93"
+  },
+  {
+    "id": "664",
+    "nom": "bahema-sud",
+    "ville_id": "93"
+  },
+  {
+    "id": "665",
+    "nom": "chefferie walema bindi",
+    "ville_id": "93"
+  },
+  {
+    "id": "666",
+    "nom": "andisoma",
+    "ville_id": "93"
+  },
+  {
+    "id": "667",
+    "nom": "bahema mitega",
+    "ville_id": "93"
+  },
+  {
+    "id": "668",
+    "nom": "mambasa 1",
+    "ville_id": "94"
+  },
+  {
+    "id": "669",
+    "nom": "mambasa 2",
+    "ville_id": "94"
+  },
+  {
+    "id": "670",
+    "nom": "babila babombi",
+    "ville_id": "94"
+  },
+  {
+    "id": "671",
+    "nom": "biakato",
+    "ville_id": "94"
+  },
+  {
+    "id": "672",
+    "nom": "bombo",
+    "ville_id": "94"
+  },
+  {
+    "id": "673",
+    "nom": "bandaka",
+    "ville_id": "94"
+  },
+  {
+    "id": "674",
+    "nom": "nia-nia",
+    "ville_id": "94"
+  },
+  {
+    "id": "675",
+    "nom": "walese dese",
+    "ville_id": "94"
+  },
+  {
+    "id": "676",
+    "nom": "walese koro",
+    "ville_id": "94"
+  },
+  {
+    "id": "677",
+    "nom": "bakwanza",
+    "ville_id": "94"
+  },
+  {
+    "id": "678",
+    "nom": "mongwalu",
+    "ville_id": "95"
+  },
+  {
+    "id": "679",
+    "nom": "musaba",
+    "ville_id": "95"
+  },
+  {
+    "id": "680",
+    "nom": "plito-yalala",
+    "ville_id": "95"
+  },
+  {
+    "id": "681",
+    "nom": "djugu",
+    "ville_id": "96"
+  },
+  {
+    "id": "682",
+    "nom": "banyali-kilo (baniari-tchabi)",
+    "ville_id": "96"
+  },
+  {
+    "id": "683",
+    "nom": "mabisa (mambisa)",
+    "ville_id": "96"
+  },
+  {
+    "id": "684",
+    "nom": "mabendi (mabengi)",
+    "ville_id": "96"
+  },
+  {
+    "id": "685",
+    "nom": "ndo-ekebo",
+    "ville_id": "96"
+  },
+  {
+    "id": "686",
+    "nom": "walendu djatshi",
+    "ville_id": "96"
+  },
+  {
+    "id": "687",
+    "nom": "fataki (com. rurale)",
+    "ville_id": "96"
+  },
+  {
+    "id": "688",
+    "nom": "bahema badjere",
+    "ville_id": "96"
+  },
+  {
+    "id": "689",
+    "nom": "walendu pitshi",
+    "ville_id": "96"
+  },
+  {
+    "id": "690",
+    "nom": "kpandruma (com. rurale)",
+    "ville_id": "96"
+  },
+  {
+    "id": "691",
+    "nom": "bahema nord",
+    "ville_id": "96"
+  },
+  {
+    "id": "692",
+    "nom": "walendu tatsi",
+    "ville_id": "96"
+  },
+  {
+    "id": "693",
+    "nom": "bahema-banywagi",
+    "ville_id": "96"
+  },
+  {
+    "id": "694",
+    "nom": "doruma",
+    "ville_id": "96"
+  },
+  {
+    "id": "695",
+    "nom": "ndedu",
+    "ville_id": "96"
+  },
+  {
+    "id": "696",
+    "nom": "mahagi",
+    "ville_id": "97"
+  },
+  {
+    "id": "697",
+    "nom": "walendu watshi",
+    "ville_id": "97"
+  },
+  {
+    "id": "698",
+    "nom": "alur djuganda",
+    "ville_id": "97"
+  },
+  {
+    "id": "699",
+    "nom": "pandoro",
+    "ville_id": "97"
+  },
+  {
+    "id": "700",
+    "nom": "nioka",
+    "ville_id": "97"
+  },
+  {
+    "id": "701",
+    "nom": "war-palara",
+    "ville_id": "97"
+  },
+  {
+    "id": "702",
+    "nom": "anghal I & II",
+    "ville_id": "97"
+  },
+  {
+    "id": "703",
+    "nom": "djegu",
+    "ville_id": "97"
+  },
+  {
+    "id": "704",
+    "nom": "wangongo",
+    "ville_id": "97"
+  },
+  {
+    "id": "705",
+    "nom": "mokambo",
+    "ville_id": "97"
+  },
+  {
+    "id": "706",
+    "nom": "djukoth I & II",
+    "ville_id": "97"
+  },
+  {
+    "id": "707",
+    "nom": "ndrele",
+    "ville_id": "97"
+  },
+  {
+    "id": "708",
+    "nom": "aru",
+    "ville_id": "98"
+  },
+  {
+    "id": "709",
+    "nom": "aluru",
+    "ville_id": "98"
+  },
+  {
+    "id": "710",
+    "nom": "ndo-kebo",
+    "ville_id": "98"
+  },
+  {
+    "id": "711",
+    "nom": "kaliko omi",
+    "ville_id": "98"
+  },
+  {
+    "id": "712",
+    "nom": "kakwa",
+    "ville_id": "98"
+  },
+  {
+    "id": "713",
+    "nom": "zaki",
+    "ville_id": "98"
+  },
+  {
+    "id": "714",
+    "nom": "nio-kamule",
+    "ville_id": "98"
+  },
+  {
+    "id": "715",
+    "nom": "otso",
+    "ville_id": "98"
+  },
+  {
+    "id": "716",
+    "nom": "lu",
+    "ville_id": "98"
+  },
+  {
+    "id": "717",
+    "nom": "goma",
+    "ville_id": "99"
+  },
+  {
+    "id": "718",
+    "nom": "karisimbi",
+    "ville_id": "99"
+  },
+  {
+    "id": "719",
+    "nom": "bukumu",
+    "ville_id": "100"
+  },
+  {
+    "id": "720",
+    "nom": "kibumba",
+    "ville_id": "100"
+  },
+  {
+    "id": "721",
+    "nom": "masisi",
+    "ville_id": "101"
+  },
+  {
+    "id": "722",
+    "nom": "katoy",
+    "ville_id": "101"
+  },
+  {
+    "id": "723",
+    "nom": "osso",
+    "ville_id": "101"
+  },
+  {
+    "id": "724",
+    "nom": "bashali",
+    "ville_id": "101"
+  },
+  {
+    "id": "725",
+    "nom": "kirumbu",
+    "ville_id": "101"
+  },
+  {
+    "id": "726",
+    "nom": "pinga-bushimbo",
+    "ville_id": "101"
+  },
+  {
+    "id": "727",
+    "nom": "bahunde",
+    "ville_id": "101"
+  },
+  {
+    "id": "728",
+    "nom": "sake",
+    "ville_id": "101"
+  },
+  {
+    "id": "729",
+    "nom": "ngungu",
+    "ville_id": "101"
+  },
+  {
+    "id": "730",
+    "nom": "hombo nord",
+    "ville_id": "101"
+  },
+  {
+    "id": "731",
+    "nom": "walikale",
+    "ville_id": "102"
+  },
+  {
+    "id": "732",
+    "nom": "bakano",
+    "ville_id": "102"
+  },
+  {
+    "id": "733",
+    "nom": "wanianga",
+    "ville_id": "102"
+  },
+  {
+    "id": "734",
+    "nom": "mubi",
+    "ville_id": "102"
+  },
+  {
+    "id": "735",
+    "nom": "pinga",
+    "ville_id": "102"
+  },
+  {
+    "id": "736",
+    "nom": "kilambo",
+    "ville_id": "102"
+  },
+  {
+    "id": "737",
+    "nom": "nyamitaba",
+    "ville_id": "102"
+  },
+  {
+    "id": "738",
+    "nom": "ndjingala",
+    "ville_id": "102"
+  },
+  {
+    "id": "739",
+    "nom": "lubero",
+    "ville_id": "103"
+  },
+  {
+    "id": "740",
+    "nom": "chefferie bamate",
+    "ville_id": "103"
+  },
+  {
+    "id": "741",
+    "nom": "kipese",
+    "ville_id": "103"
+  },
+  {
+    "id": "742",
+    "nom": "bapere",
+    "ville_id": "103"
+  },
+  {
+    "id": "743",
+    "nom": "chefferie baswaga",
+    "ville_id": "103"
+  },
+  {
+    "id": "744",
+    "nom": "masereka",
+    "ville_id": "103"
+  },
+  {
+    "id": "745",
+    "nom": "batangi",
+    "ville_id": "103"
+  },
+  {
+    "id": "746",
+    "nom": "kanyabayonga",
+    "ville_id": "103"
+  },
+  {
+    "id": "747",
+    "nom": "kitsombira",
+    "ville_id": "103"
+  },
+  {
+    "id": "748",
+    "nom": "luoto",
+    "ville_id": "103"
+  },
+  {
+    "id": "749",
+    "nom": "cité de katwa",
+    "ville_id": "103"
+  },
+  {
+    "id": "750",
+    "nom": "cit\u00e9 de kayna",
+    "ville_id": "103"
+  },
+  {
+    "id": "751",
+    "nom": "chefferie bashu",
+    "ville_id": "104"
+  },
+  {
+    "id": "752",
+    "nom": "kyondo (rwangoma)",
+    "ville_id": "104"
+  },
+  {
+    "id": "753",
+    "nom": "kaseghe",
+    "ville_id": "104"
+  },
+  {
+    "id": "754",
+    "nom": "beni-mbau",
+    "ville_id": "104"
+  },
+  {
+    "id": "755",
+    "nom": "mangina",
+    "ville_id": "104"
+  },
+  {
+    "id": "756",
+    "nom": "watalinga",
+    "ville_id": "104"
+  },
+  {
+    "id": "757",
+    "nom": "ruwenzori",
+    "ville_id": "104"
+  },
+  {
+    "id": "758",
+    "nom": "bulongo",
+    "ville_id": "104"
+  },
+  {
+    "id": "759",
+    "nom": "lume",
+    "ville_id": "104"
+  },
+  {
+    "id": "760",
+    "nom": "kasindi",
+    "ville_id": "104"
+  },
+  {
+    "id": "761",
+    "nom": "njiapanda",
+    "ville_id": "104"
+  },
+  {
+    "id": "762",
+    "nom": "oicha",
+    "ville_id": "104"
+  },
+  {
+    "id": "763",
+    "nom": "beu",
+    "ville_id": "105"
+  },
+  {
+    "id": "764",
+    "nom": "bungulu",
+    "ville_id": "105"
+  },
+  {
+    "id": "765",
+    "nom": "mulekera",
+    "ville_id": "105"
+  },
+  {
+    "id": "766",
+    "nom": "ruwenzori",
+    "ville_id": "105"
+  },
+  {
+    "id": "767",
+    "nom": "bulengera",
+    "ville_id": "106"
+  },
+  {
+    "id": "768",
+    "nom": "kimeni",
+    "ville_id": "106"
+  },
+  {
+    "id": "769",
+    "nom": "mususa",
+    "ville_id": "106"
+  },
+  {
+    "id": "770",
+    "nom": "vulamba",
+    "ville_id": "106"
+  },
+  {
+    "id": "771",
+    "nom": "bwito",
+    "ville_id": "107"
+  },
+  {
+    "id": "772",
+    "nom": "bambo",
+    "ville_id": "107"
+  },
+  {
+    "id": "773",
+    "nom": "kibirizi",
+    "ville_id": "107"
+  },
+  {
+    "id": "774",
+    "nom": "nyanzale",
+    "ville_id": "107"
+  },
+  {
+    "id": "775",
+    "nom": "bwisha",
+    "ville_id": "107"
+  },
+  {
+    "id": "776",
+    "nom": "nyamilima",
+    "ville_id": "107"
+  },
+  {
+    "id": "777",
+    "nom": "tshengerero",
+    "ville_id": "107"
+  },
+  {
+    "id": "778",
+    "nom": "rubaya (rubara)",
+    "ville_id": "107"
+  },
+  {
+    "id": "779",
+    "nom": "rutshuru",
+    "ville_id": "107"
+  },
+  {
+    "id": "780",
+    "nom": "bagira",
+    "ville_id": "108"
+  },
+  {
+    "id": "781",
+    "nom": "ibanda",
+    "ville_id": "108"
+  },
+  {
+    "id": "782",
+    "nom": "kadutu",
+    "ville_id": "108"
+  },
+  {
+    "id": "783",
+    "nom": "kabare 1",
+    "ville_id": "109"
+  },
+  {
+    "id": "784",
+    "nom": "kabare 2",
+    "ville_id": "109"
+  },
+  {
+    "id": "785",
+    "nom": "kavumu",
+    "ville_id": "109"
+  },
+  {
+    "id": "786",
+    "nom": "nindja",
+    "ville_id": "109"
+  },
+  {
+    "id": "787",
+    "nom": "wakabongo 1",
+    "ville_id": "110"
+  },
+  {
+    "id": "788",
+    "nom": "bakisi",
+    "ville_id": "110"
+  },
+  {
+    "id": "789",
+    "nom": "lulingu",
+    "ville_id": "110"
+  },
+  {
+    "id": "790",
+    "nom": "shabunda",
+    "ville_id": "110"
+  },
+  {
+    "id": "791",
+    "nom": "kalehe",
+    "ville_id": "111"
+  },
+  {
+    "id": "792",
+    "nom": "buhavu",
+    "ville_id": "111"
+  },
+  {
+    "id": "793",
+    "nom": "bulambika",
+    "ville_id": "111"
+  },
+  {
+    "id": "794",
+    "nom": "hombo sud",
+    "ville_id": "111"
+  },
+  {
+    "id": "795",
+    "nom": "nyabibwe",
+    "ville_id": "111"
+  },
+  {
+    "id": "796",
+    "nom": "buloho",
+    "ville_id": "111"
+  },
+  {
+    "id": "797",
+    "nom": "minova",
+    "ville_id": "111"
+  },
+  {
+    "id": "798",
+    "nom": "idjwi / bugarula",
+    "ville_id": "112"
+  },
+  {
+    "id": "799",
+    "nom": "rubenga",
+    "ville_id": "112"
+  },
+  {
+    "id": "800",
+    "nom": "ntambuka",
+    "ville_id": "112"
+  },
+  {
+    "id": "801",
+    "nom": "walungu",
+    "ville_id": "113"
+  },
+  {
+    "id": "802",
+    "nom": "ngweshe",
+    "ville_id": "113"
+  },
+  {
+    "id": "803",
+    "nom": "kamanyola",
+    "ville_id": "113"
+  },
+  {
+    "id": "804",
+    "nom": "nyangezi",
+    "ville_id": "113"
+  },
+  {
+    "id": "805",
+    "nom": "kaziba",
+    "ville_id": "113"
+  },
+  {
+    "id": "806",
+    "nom": "bavira",
+    "ville_id": "114"
+  },
+  {
+    "id": "807",
+    "nom": "bafulero",
+    "ville_id": "114"
+  },
+  {
+    "id": "808",
+    "nom": "lemera",
+    "ville_id": "114"
+  },
+  {
+    "id": "809",
+    "nom": "luvungi",
+    "ville_id": "114"
+  },
+  {
+    "id": "810",
+    "nom": "ruzizi",
+    "ville_id": "114"
+  },
+  {
+    "id": "811",
+    "nom": "sange",
+    "ville_id": "114"
+  },
+  {
+    "id": "812",
+    "nom": "cité de runingu",
+    "ville_id": "114"
+  },
+  {
+    "id": "813",
+    "nom": "kiliba",
+    "ville_id": "114"
+  },
+  {
+    "id": "814",
+    "nom": "cité de kagando",
+    "ville_id": "114"
+  },
+  {
+    "id": "815",
+    "nom": "uvira",
+    "ville_id": "114"
+  },
+  {
+    "id": "816",
+    "nom": "fizi",
+    "ville_id": "115"
+  },
+  {
+    "id": "817",
+    "nom": "ngandja",
+    "ville_id": "115"
+  },
+  {
+    "id": "818",
+    "nom": "lulimba-misisi",
+    "ville_id": "115"
+  },
+  {
+    "id": "819",
+    "nom": "lulenge",
+    "ville_id": "115"
+  },
+  {
+    "id": "820",
+    "nom": "tanganyika",
+    "ville_id": "115"
+  },
+  {
+    "id": "821",
+    "nom": "mutambala",
+    "ville_id": "115"
+  },
+  {
+    "id": "822",
+    "nom": "suima",
+    "ville_id": "115"
+  },
+  {
+    "id": "823",
+    "nom": "kalundja",
+    "ville_id": "116"
+  },
+  {
+    "id": "824",
+    "nom": "baraka centre",
+    "ville_id": "116"
+  },
+  {
+    "id": "825",
+    "nom": "katanga",
+    "ville_id": "116"
+  },
+  {
+    "id": "826",
+    "nom": "mwenga",
+    "ville_id": "117"
+  },
+  {
+    "id": "827",
+    "nom": "wamuzimu",
+    "ville_id": "117"
+  },
+  {
+    "id": "828",
+    "nom": "basile",
+    "ville_id": "117"
+  },
+  {
+    "id": "829",
+    "nom": "luindi",
+    "ville_id": "117"
+  },
+  {
+    "id": "830",
+    "nom": "burhinyi",
+    "ville_id": "117"
+  },
+  {
+    "id": "831",
+    "nom": "luhwindja",
+    "ville_id": "117"
+  },
+  {
+    "id": "832",
+    "nom": "itombwe",
+    "ville_id": "117"
+  },
+  {
+    "id": "833",
+    "nom": "minembwe",
+    "ville_id": "117"
+  },
+  {
+    "id": "834",
+    "nom": "alungili",
+    "ville_id": "118"
+  },
+  {
+    "id": "835",
+    "nom": "kasuku",
+    "ville_id": "118"
+  },
+  {
+    "id": "836",
+    "nom": "mikelenge",
+    "ville_id": "118"
+  },
+  {
+    "id": "837",
+    "nom": "kailo",
+    "ville_id": "119"
+  },
+  {
+    "id": "838",
+    "nom": "bangengele",
+    "ville_id": "119"
+  },
+  {
+    "id": "839",
+    "nom": "lubengengele",
+    "ville_id": "119"
+  },
+  {
+    "id": "840",
+    "nom": "balanga",
+    "ville_id": "119"
+  },
+  {
+    "id": "841",
+    "nom": "ambwe",
+    "ville_id": "119"
+  },
+  {
+    "id": "842",
+    "nom": "wasongola",
+    "ville_id": "119"
+  },
+  {
+    "id": "843",
+    "nom": "misabanga",
+    "ville_id": "119"
+  },
+  {
+    "id": "844",
+    "nom": "ulindi",
+    "ville_id": "120"
+  },
+  {
+    "id": "845",
+    "nom": "kowe",
+    "ville_id": "120"
+  },
+  {
+    "id": "846",
+    "nom": "baleka",
+    "ville_id": "120"
+  },
+  {
+    "id": "847",
+    "nom": "babira-bakwame",
+    "ville_id": "120"
+  },
+  {
+    "id": "848",
+    "nom": "kibeleketa",
+    "ville_id": "120"
+  },
+  {
+    "id": "849",
+    "nom": "punia",
+    "ville_id": "120"
+  },
+  {
+    "id": "850",
+    "nom": "lubutu",
+    "ville_id": "121"
+  },
+  {
+    "id": "851",
+    "nom": "obokote",
+    "ville_id": "121"
+  },
+  {
+    "id": "852",
+    "nom": "tshamaka",
+    "ville_id": "121"
+  },
+  {
+    "id": "853",
+    "nom": "bitule",
+    "ville_id": "121"
+  },
+  {
+    "id": "854",
+    "nom": "mungele",
+    "ville_id": "121"
+  },
+  {
+    "id": "855",
+    "nom": "pangi",
+    "ville_id": "122"
+  },
+  {
+    "id": "856",
+    "nom": "wakabongo",
+    "ville_id": "122"
+  },
+  {
+    "id": "857",
+    "nom": "chefferie babene",
+    "ville_id": "122"
+  },
+  {
+    "id": "858",
+    "nom": "kampene",
+    "ville_id": "122"
+  },
+  {
+    "id": "859",
+    "nom": "beia",
+    "ville_id": "122"
+  },
+  {
+    "id": "860",
+    "nom": "ikama",
+    "ville_id": "122"
+  },
+  {
+    "id": "861",
+    "nom": "kama",
+    "ville_id": "122"
+  },
+  {
+    "id": "862",
+    "nom": "cité kakutya (kalima)",
+    "ville_id": "122"
+  },
+  {
+    "id": "863",
+    "nom": "kabambare",
+    "ville_id": "123"
+  },
+  {
+    "id": "864",
+    "nom": "kabambare-bahombo",
+    "ville_id": "123"
+  },
+  {
+    "id": "865",
+    "nom": "bahemba",
+    "ville_id": "123"
+  },
+  {
+    "id": "866",
+    "nom": "lulindi",
+    "ville_id": "123"
+  },
+  {
+    "id": "867",
+    "nom": "wamaza 1",
+    "ville_id": "123"
+  },
+  {
+    "id": "868",
+    "nom": "wamaza 2",
+    "ville_id": "123"
+  },
+  {
+    "id": "869",
+    "nom": "saramabila (salamabila)",
+    "ville_id": "123"
+  },
+  {
+    "id": "870",
+    "nom": "babuyu",
+    "ville_id": "123"
+  },
+  {
+    "id": "871",
+    "nom": "basonge 1",
+    "ville_id": "124"
+  },
+  {
+    "id": "872",
+    "nom": "benya-samba",
+    "ville_id": "124"
+  },
+  {
+    "id": "873",
+    "nom": "samba",
+    "ville_id": "124"
+  },
+  {
+    "id": "874",
+    "nom": "bakwenge",
+    "ville_id": "124"
+  },
+  {
+    "id": "875",
+    "nom": "wazimba-wa-maringa",
+    "ville_id": "124"
+  },
+  {
+    "id": "876",
+    "nom": "kipaka",
+    "ville_id": "124"
+  },
+  {
+    "id": "877",
+    "nom": "kahonda",
+    "ville_id": "124"
+  },
+  {
+    "id": "878",
+    "nom": "wazimba-wa-mulu",
+    "ville_id": "124"
+  },
+  {
+    "id": "879",
+    "nom": "luekachi",
+    "ville_id": "124"
+  },
+  {
+    "id": "880",
+    "nom": "bikenge",
+    "ville_id": "124"
+  },
+  {
+    "id": "881",
+    "nom": "chefferie nonda",
+    "ville_id": "124"
+  },
+  {
+    "id": "882",
+    "nom": "mamba-kasenga",
+    "ville_id": "124"
+  },
+  {
+    "id": "883",
+    "nom": "wazula",
+    "ville_id": "124"
+  },
+  {
+    "id": "884",
+    "nom": "wagenia",
+    "ville_id": "124"
+  },
+  {
+    "id": "885",
+    "nom": "basonge 2 mweho",
+    "ville_id": "124"
+  },
+  {
+    "id": "886",
+    "nom": "kasongo",
+    "ville_id": "124"
+  },
+  {
+    "id": "887",
+    "nom": "kibombo",
+    "ville_id": "125"
+  },
+  {
+    "id": "888",
+    "nom": "bahina",
+    "ville_id": "125"
+  },
+  {
+    "id": "889",
+    "nom": "ankutshu",
+    "ville_id": "125"
+  },
+  {
+    "id": "890",
+    "nom": "bakongola",
+    "ville_id": "125"
+  },
+  {
+    "id": "891",
+    "nom": "matapa",
+    "ville_id": "125"
+  },
+  {
+    "id": "892",
+    "nom": "aluba",
+    "ville_id": "125"
+  },
+  {
+    "id": "893",
+    "nom": "likeri",
+    "ville_id": "125"
+  },
+  {
+    "id": "894",
+    "nom": "katuba",
+    "ville_id": "126"
+  },
+  {
+    "id": "895",
+    "nom": "lubumbashi",
+    "ville_id": "126"
+  },
+  {
+    "id": "896",
+    "nom": "kampemba",
+    "ville_id": "126"
+  },
+  {
+    "id": "897",
+    "nom": "ruashi",
+    "ville_id": "126"
+  },
+  {
+    "id": "898",
+    "nom": "kenya",
+    "ville_id": "126"
+  },
+  {
+    "id": "899",
+    "nom": "kamalondo",
+    "ville_id": "126"
+  },
+  {
+    "id": "900",
+    "nom": "annexe",
+    "ville_id": "126"
+  },
+  {
+    "id": "901",
+    "nom": "kaponda",
+    "ville_id": "127"
+  },
+  {
+    "id": "902",
+    "nom": "bukanda",
+    "ville_id": "127"
+  },
+  {
+    "id": "903",
+    "nom": "kinyama",
+    "ville_id": "127"
+  },
+  {
+    "id": "904",
+    "nom": "katapula",
+    "ville_id": "127"
+  },
+  {
+    "id": "905",
+    "nom": "kipushi",
+    "ville_id": "127"
+  },
+  {
+    "id": "906",
+    "nom": "sakania",
+    "ville_id": "128"
+  },
+  {
+    "id": "907",
+    "nom": "balamba",
+    "ville_id": "128"
+  },
+  {
+    "id": "908",
+    "nom": "mokambo",
+    "ville_id": "128"
+  },
+  {
+    "id": "909",
+    "nom": "musoshi-kasumbalesa",
+    "ville_id": "128"
+  },
+  {
+    "id": "910",
+    "nom": "baushi-mwenda",
+    "ville_id": "128"
+  },
+  {
+    "id": "911",
+    "nom": "balala",
+    "ville_id": "128"
+  },
+  {
+    "id": "912",
+    "nom": "kambove",
+    "ville_id": "129"
+  },
+  {
+    "id": "913",
+    "nom": "source de fleuve congo",
+    "ville_id": "129"
+  },
+  {
+    "id": "914",
+    "nom": "basanga",
+    "ville_id": "129"
+  },
+  {
+    "id": "915",
+    "nom": "cité de luambo",
+    "ville_id": "129"
+  },
+  {
+    "id": "916",
+    "nom": "lufira",
+    "ville_id": "129"
+  },
+  {
+    "id": "917",
+    "nom": "panda",
+    "ville_id": "130"
+  },
+  {
+    "id": "918",
+    "nom": "kikula",
+    "ville_id": "130"
+  },
+  {
+    "id": "919",
+    "nom": "likasi",
+    "ville_id": "130"
+  },
+  {
+    "id": "920",
+    "nom": "shituru",
+    "ville_id": "130"
+  },
+  {
+    "id": "921",
+    "nom": "kasenga",
+    "ville_id": "131"
+  },
+  {
+    "id": "922",
+    "nom": "kafira",
+    "ville_id": "131"
+  },
+  {
+    "id": "923",
+    "nom": "bakunda",
+    "ville_id": "131"
+  },
+  {
+    "id": "924",
+    "nom": "luapula",
+    "ville_id": "131"
+  },
+  {
+    "id": "925",
+    "nom": "kisamamba",
+    "ville_id": "131"
+  },
+  {
+    "id": "926",
+    "nom": "mitwaba",
+    "ville_id": "132"
+  },
+  {
+    "id": "927",
+    "nom": "bamweshi",
+    "ville_id": "132"
+  },
+  {
+    "id": "928",
+    "nom": "chefferie kiona-ngoie",
+    "ville_id": "132"
+  },
+  {
+    "id": "929",
+    "nom": "balomotwa",
+    "ville_id": "132"
+  },
+  {
+    "id": "930",
+    "nom": "pweto 1",
+    "ville_id": "133"
+  },
+  {
+    "id": "931",
+    "nom": "moero",
+    "ville_id": "133"
+  },
+  {
+    "id": "932",
+    "nom": "kilwa",
+    "ville_id": "133"
+  },
+  {
+    "id": "933",
+    "nom": "kiona-nzini",
+    "ville_id": "133"
+  },
+  {
+    "id": "934",
+    "nom": "mwenge",
+    "ville_id": "133"
+  },
+  {
+    "id": "935",
+    "nom": "pweto 2",
+    "ville_id": "133"
+  },
+  {
+    "id": "936",
+    "nom": "dilala",
+    "ville_id": "134"
+  },
+  {
+    "id": "937",
+    "nom": "manika",
+    "ville_id": "134"
+  },
+  {
+    "id": "938",
+    "nom": "mutshatsha",
+    "ville_id": "135"
+  },
+  {
+    "id": "939",
+    "nom": "lufupa",
+    "ville_id": "135"
+  },
+  {
+    "id": "940",
+    "nom": "mukuleshi",
+    "ville_id": "135"
+  },
+  {
+    "id": "941",
+    "nom": "luilu",
+    "ville_id": "135"
+  },
+  {
+    "id": "942",
+    "nom": "lubudi",
+    "ville_id": "136"
+  },
+  {
+    "id": "943",
+    "nom": "mwana-muadi",
+    "ville_id": "136"
+  },
+  {
+    "id": "944",
+    "nom": "mazangule",
+    "ville_id": "136"
+  },
+  {
+    "id": "945",
+    "nom": "mulumbu",
+    "ville_id": "136"
+  },
+  {
+    "id": "946",
+    "nom": "bayeke",
+    "ville_id": "136"
+  },
+  {
+    "id": "947",
+    "nom": "fungurume",
+    "ville_id": "136"
+  },
+  {
+    "id": "948",
+    "nom": "e lueu",
+    "ville_id": "137"
+  },
+  {
+    "id": "949",
+    "nom": "lukoji",
+    "ville_id": "137"
+  },
+  {
+    "id": "950",
+    "nom": "tsimbundi",
+    "ville_id": "137"
+  },
+  {
+    "id": "951",
+    "nom": "dilolo",
+    "ville_id": "138"
+  },
+  {
+    "id": "952",
+    "nom": "luena",
+    "ville_id": "138"
+  },
+  {
+    "id": "953",
+    "nom": "ndumba",
+    "ville_id": "138"
+  },
+  {
+    "id": "954",
+    "nom": "mwakandala",
+    "ville_id": "138"
+  },
+  {
+    "id": "955",
+    "nom": "mwatshisenge",
+    "ville_id": "138"
+  },
+  {
+    "id": "956",
+    "nom": "saluseke",
+    "ville_id": "138"
+  },
+  {
+    "id": "957",
+    "nom": "muyeye",
+    "ville_id": "138"
+  },
+  {
+    "id": "958",
+    "nom": "lulua-lukoshi",
+    "ville_id": "138"
+  },
+  {
+    "id": "959",
+    "nom": "kisenge",
+    "ville_id": "138"
+  },
+  {
+    "id": "960",
+    "nom": "tshisangama",
+    "ville_id": "138"
+  },
+  {
+    "id": "961",
+    "nom": "mutanda",
+    "ville_id": "138"
+  },
+  {
+    "id": "962",
+    "nom": "sandoa",
+    "ville_id": "139"
+  },
+  {
+    "id": "963",
+    "nom": "chefferie mbako",
+    "ville_id": "139"
+  },
+  {
+    "id": "964",
+    "nom": "samutoma",
+    "ville_id": "139"
+  },
+  {
+    "id": "965",
+    "nom": "tshibamba",
+    "ville_id": "139"
+  },
+  {
+    "id": "966",
+    "nom": "muteba",
+    "ville_id": "139"
+  },
+  {
+    "id": "967",
+    "nom": "lumanga",
+    "ville_id": "139"
+  },
+  {
+    "id": "968",
+    "nom": "kayembe-mukulu",
+    "ville_id": "139"
+  },
+  {
+    "id": "969",
+    "nom": "sakundundu",
+    "ville_id": "139"
+  },
+  {
+    "id": "970",
+    "nom": "tshipao",
+    "ville_id": "139"
+  },
+  {
+    "id": "971",
+    "nom": "kapanga",
+    "ville_id": "139"
+  },
+  {
+    "id": "972",
+    "nom": "mwant-yav",
+    "ville_id": "139"
+  },
+  {
+    "id": "973",
+    "nom": "cité de musumba",
+    "ville_id": "139"
+  },
+  {
+    "id": "974",
+    "nom": "dimayi",
+    "ville_id": "140"
+  },
+  {
+    "id": "975",
+    "nom": "kamina",
+    "ville_id": "140"
+  },
+  {
+    "id": "976",
+    "nom": "sobongo",
+    "ville_id": "140"
+  },
+  {
+    "id": "977",
+    "nom": "kasongo-nyembo",
+    "ville_id": "141"
+  },
+  {
+    "id": "978",
+    "nom": "kinda",
+    "ville_id": "141"
+  },
+  {
+    "id": "979",
+    "nom": "kaniama (com. rurale)",
+    "ville_id": "142"
+  },
+  {
+    "id": "980",
+    "nom": "mutombo-mukulu",
+    "ville_id": "142"
+  },
+  {
+    "id": "981",
+    "nom": "kabongo 1",
+    "ville_id": "143"
+  },
+  {
+    "id": "982",
+    "nom": "kabongo 2",
+    "ville_id": "143"
+  },
+  {
+    "id": "983",
+    "nom": "kayamba",
+    "ville_id": "143"
+  },
+  {
+    "id": "984",
+    "nom": "nord-baluba",
+    "ville_id": "143"
+  },
+  {
+    "id": "985",
+    "nom": "malemba-nkulu",
+    "ville_id": "144"
+  },
+  {
+    "id": "986",
+    "nom": "nkulu",
+    "ville_id": "144"
+  },
+  {
+    "id": "987",
+    "nom": "mwanza",
+    "ville_id": "144"
+  },
+  {
+    "id": "988",
+    "nom": "badia",
+    "ville_id": "144"
+  },
+  {
+    "id": "989",
+    "nom": "mulongo",
+    "ville_id": "144"
+  },
+  {
+    "id": "990",
+    "nom": "cité de mulongo",
+    "ville_id": "144"
+  },
+  {
+    "id": "991",
+    "nom": "museka",
+    "ville_id": "144"
+  },
+  {
+    "id": "992",
+    "nom": "kayumba",
+    "ville_id": "144"
+  },
+  {
+    "id": "993",
+    "nom": "bukama",
+    "ville_id": "145"
+  },
+  {
+    "id": "994",
+    "nom": "kibanda",
+    "ville_id": "145"
+  },
+  {
+    "id": "995",
+    "nom": "luena",
+    "ville_id": "145"
+  },
+  {
+    "id": "996",
+    "nom": "lualaba",
+    "ville_id": "145"
+  },
+  {
+    "id": "997",
+    "nom": "kabondo-dianda",
+    "ville_id": "145"
+  },
+  {
+    "id": "998",
+    "nom": "kapamay",
+    "ville_id": "145"
+  },
+  {
+    "id": "999",
+    "nom": "kinkondja",
+    "ville_id": "145"
+  },
+  {
+    "id": "1000",
+    "nom": "cité de kipamba",
+    "ville_id": "145"
+  },
+  {
+    "id": "1001",
+    "nom": "butumba",
+    "ville_id": "145"
+  },
+  {
+    "id": "1002",
+    "nom": "lac",
+    "ville_id": "146"
+  },
+  {
+    "id": "1003",
+    "nom": "lukuga",
+    "ville_id": "146"
+  },
+  {
+    "id": "1004",
+    "nom": "kalemie",
+    "ville_id": "146"
+  },
+  {
+    "id": "1005",
+    "nom": "rutuku",
+    "ville_id": "147"
+  },
+  {
+    "id": "1006",
+    "nom": "cité de kituku",
+    "ville_id": "147"
+  },
+  {
+    "id": "1007",
+    "nom": "benze",
+    "ville_id": "147"
+  },
+  {
+    "id": "1008",
+    "nom": "tumbwe",
+    "ville_id": "147"
+  },
+  {
+    "id": "1009",
+    "nom": "moba",
+    "ville_id": "148"
+  },
+  {
+    "id": "1010",
+    "nom": "kayabala",
+    "ville_id": "148"
+  },
+  {
+    "id": "1011",
+    "nom": "nganie",
+    "ville_id": "148"
+  },
+  {
+    "id": "1012",
+    "nom": "kansabala",
+    "ville_id": "148"
+  },
+  {
+    "id": "1013",
+    "nom": "bena-kamanya",
+    "ville_id": "148"
+  },
+  {
+    "id": "1014",
+    "nom": "bena-tanga",
+    "ville_id": "148"
+  },
+  {
+    "id": "1015",
+    "nom": "manda",
+    "ville_id": "148"
+  },
+  {
+    "id": "1016",
+    "nom": "manono",
+    "ville_id": "149"
+  },
+  {
+    "id": "1017",
+    "nom": "bakongolo",
+    "ville_id": "149"
+  },
+  {
+    "id": "1018",
+    "nom": "kiluba",
+    "ville_id": "149"
+  },
+  {
+    "id": "1019",
+    "nom": "kiofwe",
+    "ville_id": "149"
+  },
+  {
+    "id": "1020",
+    "nom": "kamalondo",
+    "ville_id": "149"
+  },
+  {
+    "id": "1021",
+    "nom": "niemba",
+    "ville_id": "149"
+  },
+  {
+    "id": "1022",
+    "nom": "luvua",
+    "ville_id": "149"
+  },
+  {
+    "id": "1023",
+    "nom": "kabalo",
+    "ville_id": "150"
+  },
+  {
+    "id": "1024",
+    "nom": "lukuswa",
+    "ville_id": "150"
+  },
+  {
+    "id": "1025",
+    "nom": "luela-luvunguye",
+    "ville_id": "150"
+  },
+  {
+    "id": "1026",
+    "nom": "kongolo",
+    "ville_id": "151"
+  },
+  {
+    "id": "1027",
+    "nom": "chefferie bayashi",
+    "ville_id": "151"
+  },
+  {
+    "id": "1028",
+    "nom": "baluba",
+    "ville_id": "151"
+  },
+  {
+    "id": "1029",
+    "nom": "basonge",
+    "ville_id": "151"
+  },
+  {
+    "id": "1030",
+    "nom": "lubunda",
+    "ville_id": "151"
+  },
+  {
+    "id": "1031",
+    "nom": "munono",
+    "ville_id": "151"
+  },
+  {
+    "id": "1032",
+    "nom": "nkuvu",
+    "ville_id": "151"
+  },
+  {
+    "id": "1033",
+    "nom": "yambula",
+    "ville_id": "151"
+  },
+  {
+    "id": "1034",
+    "nom": "muhona",
+    "ville_id": "151"
+  },
+  {
+    "id": "1035",
+    "nom": "nyembo",
+    "ville_id": "151"
+  },
+  {
+    "id": "1036",
+    "nom": "mambwe",
+    "ville_id": "151"
+  },
+  {
+    "id": "1037",
+    "nom": "nyunzu",
+    "ville_id": "152"
+  },
+  {
+    "id": "1038",
+    "nom": "sud-lukuga",
+    "ville_id": "152"
+  },
+  {
+    "id": "1039",
+    "nom": "nord-lukuga",
+    "ville_id": "152"
+  },
+  {
+    "id": "1040",
+    "nom": "kanshi",
+    "ville_id": "153"
+  },
+  {
+    "id": "1041",
+    "nom": "bipemba",
+    "ville_id": "153"
+  },
+  {
+    "id": "1042",
+    "nom": "diulu",
+    "ville_id": "153"
+  },
+  {
+    "id": "1043",
+    "nom": "muya",
+    "ville_id": "153"
+  },
+  {
+    "id": "1044",
+    "nom": "dibindi",
+    "ville_id": "153"
+  },
+  {
+    "id": "1045",
+    "nom": "kalonji-sud",
+    "ville_id": "154"
+  },
+  {
+    "id": "1046",
+    "nom": "lukalaba 1",
+    "ville_id": "154"
+  },
+  {
+    "id": "1047",
+    "nom": "tshouka / tshipuka",
+    "ville_id": "154"
+  },
+  {
+    "id": "1048",
+    "nom": "kampatshi",
+    "ville_id": "154"
+  },
+  {
+    "id": "1049",
+    "nom": "kalelu",
+    "ville_id": "154"
+  },
+  {
+    "id": "1050",
+    "nom": "kabimba",
+    "ville_id": "154"
+  },
+  {
+    "id": "1051",
+    "nom": "kalenda-kashila",
+    "ville_id": "154"
+  },
+  {
+    "id": "1052",
+    "nom": "lukalaba 2",
+    "ville_id": "154"
+  },
+  {
+    "id": "1053",
+    "nom": "tshilenge",
+    "ville_id": "154"
+  },
+  {
+    "id": "1054",
+    "nom": "tshijiba",
+    "ville_id": "155"
+  },
+  {
+    "id": "1055",
+    "nom": "tshilundu",
+    "ville_id": "155"
+  },
+  {
+    "id": "1056",
+    "nom": "kakangayi",
+    "ville_id": "155"
+  },
+  {
+    "id": "1057",
+    "nom": "katende",
+    "ville_id": "155"
+  },
+  {
+    "id": "1058",
+    "nom": "movo-nkatshia",
+    "ville_id": "155"
+  },
+  {
+    "id": "1059",
+    "nom": "boya",
+    "ville_id": "155"
+  },
+  {
+    "id": "1060",
+    "nom": "miabi",
+    "ville_id": "155"
+  },
+  {
+    "id": "1061",
+    "nom": "kena (bena)-nkuna",
+    "ville_id": "156"
+  },
+  {
+    "id": "1062",
+    "nom": "mpemba",
+    "ville_id": "156"
+  },
+  {
+    "id": "1063",
+    "nom": "lac munkamba",
+    "ville_id": "156"
+  },
+  {
+    "id": "1064",
+    "nom": "munkamba",
+    "ville_id": "156"
+  },
+  {
+    "id": "1065",
+    "nom": "ndomba",
+    "ville_id": "156"
+  },
+  {
+    "id": "1066",
+    "nom": "kalela",
+    "ville_id": "156"
+  },
+  {
+    "id": "1067",
+    "nom": "tshishimbi",
+    "ville_id": "157"
+  },
+  {
+    "id": "1068",
+    "nom": "mudiba",
+    "ville_id": "157"
+  },
+  {
+    "id": "1069",
+    "nom": "kabala",
+    "ville_id": "157"
+  },
+  {
+    "id": "1070",
+    "nom": "mulenda",
+    "ville_id": "157"
+  },
+  {
+    "id": "1071",
+    "nom": "mukumbi",
+    "ville_id": "157"
+  },
+  {
+    "id": "1072",
+    "nom": "katanda",
+    "ville_id": "158"
+  },
+  {
+    "id": "1073",
+    "nom": "baluba-lubilandji",
+    "ville_id": "158"
+  },
+  {
+    "id": "1074",
+    "nom": "mutuayi",
+    "ville_id": "158"
+  },
+  {
+    "id": "1075",
+    "nom": "nsangu",
+    "ville_id": "158"
+  },
+  {
+    "id": "1076",
+    "nom": "cité de dilunga",
+    "ville_id": "158"
+  },
+  {
+    "id": "1077",
+    "nom": "tshitolo",
+    "ville_id": "158"
+  },
+  {
+    "id": "1078",
+    "nom": "lumpembe",
+    "ville_id": "159"
+  },
+  {
+    "id": "1079",
+    "nom": "lusambo",
+    "ville_id": "159"
+  },
+  {
+    "id": "1080",
+    "nom": "kabondo",
+    "ville_id": "159"
+  },
+  {
+    "id": "1081",
+    "nom": "tusuanganyi",
+    "ville_id": "159"
+  },
+  {
+    "id": "1082",
+    "nom": "sankuru",
+    "ville_id": "160"
+  },
+  {
+    "id": "1083",
+    "nom": "entre lubi kunduye (e.l.k.)",
+    "ville_id": "160"
+  },
+  {
+    "id": "1084",
+    "nom": "lubi",
+    "ville_id": "160"
+  },
+  {
+    "id": "1085",
+    "nom": "entre kunduye mal (e.k.m.)",
+    "ville_id": "160"
+  },
+  {
+    "id": "1086",
+    "nom": "batetela",
+    "ville_id": "160"
+  },
+  {
+    "id": "1087",
+    "nom": "basonge",
+    "ville_id": "160"
+  },
+  {
+    "id": "1088",
+    "nom": "pania-mutombo",
+    "ville_id": "160"
+  },
+  {
+    "id": "1089",
+    "nom": "mpanya-mutombo (com. rurale)",
+    "ville_id": "160"
+  },
+  {
+    "id": "1090",
+    "nom": "kashindi",
+    "ville_id": "160"
+  },
+  {
+    "id": "1091",
+    "nom": "batetela-lukenie (cité de lodja)",
+    "ville_id": "161"
+  },
+  {
+    "id": "1092",
+    "nom": "olembe",
+    "ville_id": "161"
+  },
+  {
+    "id": "1093",
+    "nom": "lukfungu",
+    "ville_id": "161"
+  },
+  {
+    "id": "1094",
+    "nom": "lutshimba",
+    "ville_id": "161"
+  },
+  {
+    "id": "1095",
+    "nom": "ahamba-mange",
+    "ville_id": "161"
+  },
+  {
+    "id": "1096",
+    "nom": "vungi",
+    "ville_id": "161"
+  },
+  {
+    "id": "1097",
+    "nom": "kutshiakoyi",
+    "ville_id": "161"
+  },
+  {
+    "id": "1098",
+    "nom": "watambulu",
+    "ville_id": "161"
+  },
+  {
+    "id": "1099",
+    "nom": "nambelu-luhembe",
+    "ville_id": "161"
+  },
+  {
+    "id": "1100",
+    "nom": "kondo-tshumbe",
+    "ville_id": "161"
+  },
+  {
+    "id": "1101",
+    "nom": "lodja (com. rurale)",
+    "ville_id": "161"
+  },
+  {
+    "id": "1102",
+    "nom": "kole",
+    "ville_id": "162"
+  },
+  {
+    "id": "1103",
+    "nom": "ohindo",
+    "ville_id": "162"
+  },
+  {
+    "id": "1104",
+    "nom": "atshuru",
+    "ville_id": "162"
+  },
+  {
+    "id": "1105",
+    "nom": "bankutsu-lukenie",
+    "ville_id": "162"
+  },
+  {
+    "id": "1106",
+    "nom": "bankutsu-dibele",
+    "ville_id": "162"
+  },
+  {
+    "id": "1107",
+    "nom": "batetela-dibele",
+    "ville_id": "162"
+  },
+  {
+    "id": "1108",
+    "nom": "basho",
+    "ville_id": "162"
+  },
+  {
+    "id": "1109",
+    "nom": "lomela olua",
+    "ville_id": "163"
+  },
+  {
+    "id": "1110",
+    "nom": "bahamba 1",
+    "ville_id": "163"
+  },
+  {
+    "id": "1111",
+    "nom": "okutu",
+    "ville_id": "163"
+  },
+  {
+    "id": "1112",
+    "nom": "bakela",
+    "ville_id": "163"
+  },
+  {
+    "id": "1113",
+    "nom": "batetela-lomela",
+    "ville_id": "163"
+  },
+  {
+    "id": "1114",
+    "nom": "bahamba 2",
+    "ville_id": "163"
+  },
+  {
+    "id": "1115",
+    "nom": "djonga",
+    "ville_id": "163"
+  },
+  {
+    "id": "1116",
+    "nom": "katako-kombe",
+    "ville_id": "164"
+  },
+  {
+    "id": "1117",
+    "nom": "ukulungu",
+    "ville_id": "164"
+  },
+  {
+    "id": "1118",
+    "nom": "djalo",
+    "ville_id": "164"
+  },
+  {
+    "id": "1119",
+    "nom": "lonya",
+    "ville_id": "164"
+  },
+  {
+    "id": "1120",
+    "nom": "basambala",
+    "ville_id": "164"
+  },
+  {
+    "id": "1121",
+    "nom": "watambulu-sud",
+    "ville_id": "164"
+  },
+  {
+    "id": "1122",
+    "nom": "ngandu (est / ouest)",
+    "ville_id": "164"
+  },
+  {
+    "id": "1123",
+    "nom": "watambulu-nord",
+    "ville_id": "164"
+  },
+  {
+    "id": "1124",
+    "nom": "lukumbe",
+    "ville_id": "164"
+  },
+  {
+    "id": "1125",
+    "nom": "batetela arabisés (lomami)",
+    "ville_id": "164"
+  },
+  {
+    "id": "1126",
+    "nom": "lubefu (com. rurale)",
+    "ville_id": "165"
+  },
+  {
+    "id": "1127",
+    "nom": "basonge",
+    "ville_id": "165"
+  },
+  {
+    "id": "1128",
+    "nom": "ndjovu",
+    "ville_id": "165"
+  },
+  {
+    "id": "1129",
+    "nom": "mondja-ngandu",
+    "ville_id": "165"
+  },
+  {
+    "id": "1130",
+    "nom": "ngandu-wuma",
+    "ville_id": "165"
+  },
+  {
+    "id": "1131",
+    "nom": "kabondo",
+    "ville_id": "166"
+  },
+  {
+    "id": "1132",
+    "nom": "kabwela-bwela",
+    "ville_id": "166"
+  },
+  {
+    "id": "1133",
+    "nom": "kajiba",
+    "ville_id": "166"
+  },
+  {
+    "id": "1134",
+    "nom": "mudingayi",
+    "ville_id": "166"
+  },
+  {
+    "id": "1135",
+    "nom": "kabinda",
+    "ville_id": "167"
+  },
+  {
+    "id": "1136",
+    "nom": "lukashi-lualu",
+    "ville_id": "167"
+  },
+  {
+    "id": "1137",
+    "nom": "kamende",
+    "ville_id": "167"
+  },
+  {
+    "id": "1138",
+    "nom": "vunayi",
+    "ville_id": "167"
+  },
+  {
+    "id": "1139",
+    "nom": "ludimbi-lukula",
+    "ville_id": "167"
+  },
+  {
+    "id": "1140",
+    "nom": "lufubu-lomami",
+    "ville_id": "167"
+  },
+  {
+    "id": "1141",
+    "nom": "baluba-lubangule",
+    "ville_id": "167"
+  },
+  {
+    "id": "1142",
+    "nom": "kakula",
+    "ville_id": "167"
+  },
+  {
+    "id": "1143",
+    "nom": "munyenge",
+    "ville_id": "167"
+  },
+  {
+    "id": "1144",
+    "nom": "pengie",
+    "ville_id": "167"
+  },
+  {
+    "id": "1145",
+    "nom": "bondoyi",
+    "ville_id": "168"
+  },
+  {
+    "id": "1146",
+    "nom": "musadi",
+    "ville_id": "168"
+  },
+  {
+    "id": "1147",
+    "nom": "mwene-ditu",
+    "ville_id": "168"
+  },
+  {
+    "id": "1148",
+    "nom": "luilu",
+    "ville_id": "169"
+  },
+  {
+    "id": "1149",
+    "nom": "kanutshina (ln-kan)",
+    "ville_id": "169"
+  },
+  {
+    "id": "1150",
+    "nom": "wikong",
+    "ville_id": "169"
+  },
+  {
+    "id": "1151",
+    "nom": "chefferie mulundu",
+    "ville_id": "169"
+  },
+  {
+    "id": "1152",
+    "nom": "kanda-kanda",
+    "ville_id": "169"
+  },
+  {
+    "id": "1153",
+    "nom": "kasekeyi",
+    "ville_id": "169"
+  },
+  {
+    "id": "1154",
+    "nom": "katshisungu",
+    "ville_id": "169"
+  },
+  {
+    "id": "1155",
+    "nom": "cité de luputa",
+    "ville_id": "169"
+  },
+  {
+    "id": "1156",
+    "nom": "lusuku",
+    "ville_id": "169"
+  },
+  {
+    "id": "1157",
+    "nom": "kalenda",
+    "ville_id": "169"
+  },
+  {
+    "id": "1158",
+    "nom": "tshiabut",
+    "ville_id": "169"
+  },
+  {
+    "id": "1159",
+    "nom": "malenge",
+    "ville_id": "170"
+  },
+  {
+    "id": "1160",
+    "nom": "kamiji",
+    "ville_id": "170"
+  },
+  {
+    "id": "1161",
+    "nom": "kamiji-tshisangu",
+    "ville_id": "170"
+  },
+  {
+    "id": "1162",
+    "nom": "luekeshi",
+    "ville_id": "170"
+  },
+  {
+    "id": "1163",
+    "nom": "ngandajika 1",
+    "ville_id": "171"
+  },
+  {
+    "id": "1164",
+    "nom": "bena-tshiyamba",
+    "ville_id": "171"
+  },
+  {
+    "id": "1165",
+    "nom": "chefferie bakwa-mulumba",
+    "ville_id": "171"
+  },
+  {
+    "id": "1166",
+    "nom": "chefferie bena-kalambay",
+    "ville_id": "171"
+  },
+  {
+    "id": "1167",
+    "nom": "kalunda-musoko",
+    "ville_id": "171"
+  },
+  {
+    "id": "1168",
+    "nom": "baluba-shankadi",
+    "ville_id": "171"
+  },
+  {
+    "id": "1169",
+    "nom": "ngandajika 2",
+    "ville_id": "171"
+  },
+  {
+    "id": "1170",
+    "nom": "bekalebwe",
+    "ville_id": "172"
+  },
+  {
+    "id": "1171",
+    "nom": "kamana",
+    "ville_id": "172"
+  },
+  {
+    "id": "1172",
+    "nom": "balungu",
+    "ville_id": "172"
+  },
+  {
+    "id": "1173",
+    "nom": "tshofa",
+    "ville_id": "172"
+  },
+  {
+    "id": "1174",
+    "nom": "lubao",
+    "ville_id": "172"
+  },
+  {
+    "id": "1175",
+    "nom": "kisengwa",
+    "ville_id": "172"
+  },
+  {
+    "id": "1176",
+    "nom": "ebombo",
+    "ville_id": "172"
+  },
+  {
+    "id": "1177",
+    "nom": "mwanuayi",
+    "ville_id": "172"
+  },
+  {
+    "id": "1178",
+    "nom": "nganza",
+    "ville_id": "173"
+  },
+  {
+    "id": "1179",
+    "nom": "katoka",
+    "ville_id": "173"
+  },
+  {
+    "id": "1180",
+    "nom": "ndesha",
+    "ville_id": "173"
+  },
+  {
+    "id": "1181",
+    "nom": "lukonga",
+    "ville_id": "173"
+  },
+  {
+    "id": "1182",
+    "nom": "kananga",
+    "ville_id": "173"
+  },
+  {
+    "id": "1183",
+    "nom": "dibaya",
+    "ville_id": "174"
+  },
+  {
+    "id": "1184",
+    "nom": "tshishilu",
+    "ville_id": "174"
+  },
+  {
+    "id": "1185",
+    "nom": "dibanda",
+    "ville_id": "174"
+  },
+  {
+    "id": "1186",
+    "nom": "kamuandu",
+    "ville_id": "174"
+  },
+  {
+    "id": "1187",
+    "nom": "dibataie",
+    "ville_id": "174"
+  },
+  {
+    "id": "1188",
+    "nom": "tshikula",
+    "ville_id": "174"
+  },
+  {
+    "id": "1189",
+    "nom": "kasangidi",
+    "ville_id": "174"
+  },
+  {
+    "id": "1190",
+    "nom": "luiza",
+    "ville_id": "175"
+  },
+  {
+    "id": "1191",
+    "nom": "kalunga",
+    "ville_id": "175"
+  },
+  {
+    "id": "1192",
+    "nom": "ngadi-a-pemba",
+    "ville_id": "175"
+  },
+  {
+    "id": "1193",
+    "nom": "loatshi",
+    "ville_id": "175"
+  },
+  {
+    "id": "1194",
+    "nom": "masuika",
+    "ville_id": "175"
+  },
+  {
+    "id": "1195",
+    "nom": "lueta",
+    "ville_id": "175"
+  },
+  {
+    "id": "1196",
+    "nom": "samuanda",
+    "ville_id": "175"
+  },
+  {
+    "id": "1197",
+    "nom": "kabelekese",
+    "ville_id": "175"
+  },
+  {
+    "id": "1198",
+    "nom": "luambo",
+    "ville_id": "175"
+  },
+  {
+    "id": "1199",
+    "nom": "bambaie",
+    "ville_id": "175"
+  },
+  {
+    "id": "1200",
+    "nom": "bushimaie",
+    "ville_id": "175"
+  },
+  {
+    "id": "1201",
+    "nom": "yangala",
+    "ville_id": "175"
+  },
+  {
+    "id": "1202",
+    "nom": "lusanza",
+    "ville_id": "175"
+  },
+  {
+    "id": "1203",
+    "nom": "tulume",
+    "ville_id": "175"
+  },
+  {
+    "id": "1204",
+    "nom": "kazumba",
+    "ville_id": "176"
+  },
+  {
+    "id": "1205",
+    "nom": "bashi-mboie",
+    "ville_id": "176"
+  },
+  {
+    "id": "1206",
+    "nom": "tshitadi",
+    "ville_id": "176"
+  },
+  {
+    "id": "1207",
+    "nom": "kafuba",
+    "ville_id": "176"
+  },
+  {
+    "id": "1208",
+    "nom": "bulungu",
+    "ville_id": "176"
+  },
+  {
+    "id": "1209",
+    "nom": "kaluebo",
+    "ville_id": "176"
+  },
+  {
+    "id": "1210",
+    "nom": "matamba",
+    "ville_id": "176"
+  },
+  {
+    "id": "1211",
+    "nom": "muswaswa",
+    "ville_id": "176"
+  },
+  {
+    "id": "1212",
+    "nom": "miao",
+    "ville_id": "176"
+  },
+  {
+    "id": "1213",
+    "nom": "bena-ngoshi",
+    "ville_id": "176"
+  },
+  {
+    "id": "1214",
+    "nom": "bilomba",
+    "ville_id": "176"
+  },
+  {
+    "id": "1215",
+    "nom": "kavula",
+    "ville_id": "176"
+  },
+  {
+    "id": "1216",
+    "nom": "luemba",
+    "ville_id": "176"
+  },
+  {
+    "id": "1217",
+    "nom": "demba",
+    "ville_id": "177"
+  },
+  {
+    "id": "1218",
+    "nom": "tshibungu",
+    "ville_id": "177"
+  },
+  {
+    "id": "1219",
+    "nom": "tshibote",
+    "ville_id": "177"
+  },
+  {
+    "id": "1220",
+    "nom": "lombelo",
+    "ville_id": "177"
+  },
+  {
+    "id": "1221",
+    "nom": "bena mamba",
+    "ville_id": "177"
+  },
+  {
+    "id": "1222",
+    "nom": "bena leka",
+    "ville_id": "177"
+  },
+  {
+    "id": "1223",
+    "nom": "lusonge",
+    "ville_id": "177"
+  },
+  {
+    "id": "1224",
+    "nom": "mwanza-ngoma",
+    "ville_id": "177"
+  },
+  {
+    "id": "1225",
+    "nom": "diofwa",
+    "ville_id": "177"
+  },
+  {
+    "id": "1226",
+    "nom": "dimbelenge",
+    "ville_id": "178"
+  },
+  {
+    "id": "1227",
+    "nom": "lubi",
+    "ville_id": "178"
+  },
+  {
+    "id": "1228",
+    "nom": "bana ba ntumba",
+    "ville_id": "178"
+  },
+  {
+    "id": "1229",
+    "nom": "lubudi",
+    "ville_id": "178"
+  },
+  {
+    "id": "1230",
+    "nom": "munkamba",
+    "ville_id": "178"
+  },
+  {
+    "id": "1231",
+    "nom": "kunduyi",
+    "ville_id": "178"
+  },
+  {
+    "id": "1232",
+    "nom": "katende",
+    "ville_id": "178"
+  },
+  {
+    "id": "1233",
+    "nom": "mashala",
+    "ville_id": "178"
+  },
+  {
+    "id": "1234",
+    "nom": "lukibu",
+    "ville_id": "178"
+  },
+  {
+    "id": "1235",
+    "nom": "lubuinshi",
+    "ville_id": "178"
+  },
+  {
+    "id": "1236",
+    "nom": "dibumba 1",
+    "ville_id": "179"
+  },
+  {
+    "id": "1237",
+    "nom": "dibumba 2",
+    "ville_id": "179"
+  },
+  {
+    "id": "1238",
+    "nom": "kanzala",
+    "ville_id": "179"
+  },
+  {
+    "id": "1239",
+    "nom": "mabondo",
+    "ville_id": "179"
+  },
+  {
+    "id": "1240",
+    "nom": "mbumba",
+    "ville_id": "179"
+  },
+  {
+    "id": "1241",
+    "nom": "kamonia",
+    "ville_id": "180"
+  },
+  {
+    "id": "1242",
+    "nom": "lovua-longatshimo",
+    "ville_id": "180"
+  },
+  {
+    "id": "1243",
+    "nom": "kamako",
+    "ville_id": "180"
+  },
+  {
+    "id": "1244",
+    "nom": "ngombe",
+    "ville_id": "180"
+  },
+  {
+    "id": "1245",
+    "nom": "lovua-lushiku",
+    "ville_id": "180"
+  },
+  {
+    "id": "1246",
+    "nom": "bapende",
+    "ville_id": "180"
+  },
+  {
+    "id": "1247",
+    "nom": "ndjindji",
+    "ville_id": "180"
+  },
+  {
+    "id": "1248",
+    "nom": "nyanga",
+    "ville_id": "180"
+  },
+  {
+    "id": "1249",
+    "nom": "nzadi",
+    "ville_id": "180"
+  },
+  {
+    "id": "1250",
+    "nom": "kasai-kabambaie",
+    "ville_id": "180"
+  },
+  {
+    "id": "1251",
+    "nom": "tshikapa",
+    "ville_id": "180"
+  },
+  {
+    "id": "1252",
+    "nom": "mayi-munene",
+    "ville_id": "180"
+  },
+  {
+    "id": "1253",
+    "nom": "katanga",
+    "ville_id": "180"
+  },
+  {
+    "id": "1254",
+    "nom": "bakwa-nyambi",
+    "ville_id": "180"
+  },
+  {
+    "id": "1255",
+    "nom": "kamuesha",
+    "ville_id": "180"
+  },
+  {
+    "id": "1256",
+    "nom": "lukombo",
+    "ville_id": "180"
+  },
+  {
+    "id": "1257",
+    "nom": "kasai-lunyeka",
+    "ville_id": "180"
+  },
+  {
+    "id": "1258",
+    "nom": "kasai-longatshimo",
+    "ville_id": "180"
+  },
+  {
+    "id": "1259",
+    "nom": "kabunda",
+    "ville_id": "180"
+  },
+  {
+    "id": "1260",
+    "nom": "kasadi-sadi",
+    "ville_id": "180"
+  },
+  {
+    "id": "1261",
+    "nom": "luebo",
+    "ville_id": "181"
+  },
+  {
+    "id": "1262",
+    "nom": "luebo-kabambaie",
+    "ville_id": "181"
+  },
+  {
+    "id": "1263",
+    "nom": "djoko-punda",
+    "ville_id": "181"
+  },
+  {
+    "id": "1264",
+    "nom": "kabemba",
+    "ville_id": "181"
+  },
+  {
+    "id": "1265",
+    "nom": "luebo-wedi",
+    "ville_id": "181"
+  },
+  {
+    "id": "1266",
+    "nom": "luebo-lulengele",
+    "ville_id": "181"
+  },
+  {
+    "id": "1267",
+    "nom": "sud-banga",
+    "ville_id": "182"
+  },
+  {
+    "id": "1268",
+    "nom": "mapangu 1",
+    "ville_id": "182"
+  },
+  {
+    "id": "1269",
+    "nom": "mapangu 2",
+    "ville_id": "182"
+  },
+  {
+    "id": "1270",
+    "nom": "basongo",
+    "ville_id": "182"
+  },
+  {
+    "id": "1271",
+    "nom": "mibilayi",
+    "ville_id": "182"
+  },
+  {
+    "id": "1272",
+    "nom": "malu-malu",
+    "ville_id": "182"
+  },
+  {
+    "id": "1273",
+    "nom": "ilebo",
+    "ville_id": "182"
+  },
+  {
+    "id": "1274",
+    "nom": "mweka",
+    "ville_id": "183"
+  },
+  {
+    "id": "1275",
+    "nom": "bakuba",
+    "ville_id": "183"
+  },
+  {
+    "id": "1276",
+    "nom": "kakenge",
+    "ville_id": "183"
+  },
+  {
+    "id": "1277",
+    "nom": "dekese",
+    "ville_id": "184"
+  },
+  {
+    "id": "1278",
+    "nom": "ndengese ikolombe isolu",
+    "ville_id": "184"
+  },
+  {
+    "id": "1279",
+    "nom": "yaelima",
+    "ville_id": "184"
+  }
+]

@@ -27,7 +27,6 @@ class ProvinceController extends Controller
      */
     public function index(Request $request)
     {
-        return Province::all();
         $provinces = Province::query();
 
         foreach ($request->all() as $key => $value) {

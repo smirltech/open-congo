@@ -1,0 +1,3704 @@
+[
+    {
+        "id": 130,
+        "name": "Afghanistan",
+        "official_name": "République islamique d'Afghanistan",
+        "flag": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/5\/5c\/Flag_of_the_Taliban.svg\/320px-Flag_of_the_Taliban.svg.png",
+        "maps": "https:\/\/goo.gl\/maps\/BXBGw7yUUFknCfva9",
+        "phone_code": "+93",
+        "demonyms": {
+            "f": "Afghane",
+            "m": "Afghan"
+        },
+        "code": "AF",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 45,
+        "name": "Afrique du Sud",
+        "official_name": "République d'Afrique du Sud",
+        "flag": "https:\/\/flagcdn.com\/w320\/za.png",
+        "maps": "https:\/\/goo.gl\/maps\/CLCZ1R8Uz1KpYhRv6",
+        "phone_code": "+27",
+        "demonyms": {
+            "f": "Sud-africaine",
+            "m": "Sud-africain"
+        },
+        "code": "ZA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 64,
+        "name": "Ahvenanmaa",
+        "official_name": "Ahvenanmaa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ax.png",
+        "maps": "https:\/\/goo.gl\/maps\/ewFb3vYsfUmVCoSb8",
+        "phone_code": "+35818",
+        "demonyms": {
+            "f": "Ålandaise",
+            "m": "Ålandais"
+        },
+        "code": "AX",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 181,
+        "name": "Albanie",
+        "official_name": "République d'Albanie",
+        "flag": "https:\/\/flagcdn.com\/w320\/al.png",
+        "maps": "https:\/\/goo.gl\/maps\/BzN9cTuj68ZA8SyZ8",
+        "phone_code": "+355",
+        "demonyms": {
+            "f": "Albanaise",
+            "m": "Albanais"
+        },
+        "code": "AL",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 113,
+        "name": "Algérie",
+        "official_name": "République démocratique et populaire d'Algérie",
+        "flag": "https:\/\/flagcdn.com\/w320\/dz.png",
+        "maps": "https:\/\/goo.gl\/maps\/RsAyAfyaiNVb8DpW8",
+        "phone_code": "+213",
+        "demonyms": {
+            "f": "Algérienne",
+            "m": "Algérien"
+        },
+        "code": "DZ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 86,
+        "name": "Allemagne",
+        "official_name": "République fédérale d'Allemagne",
+        "flag": "https:\/\/flagcdn.com\/w320\/de.png",
+        "maps": "https:\/\/goo.gl\/maps\/mD9FBMq1nvXUBrkv6",
+        "phone_code": "+49",
+        "demonyms": {
+            "f": "Allemande",
+            "m": "Allemand"
+        },
+        "code": "DE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 75,
+        "name": "Andorre",
+        "official_name": "Principauté d'Andorre",
+        "flag": "https:\/\/flagcdn.com\/w320\/ad.png",
+        "maps": "https:\/\/goo.gl\/maps\/JqAnacWE2qEznKgw7",
+        "phone_code": "+376",
+        "demonyms": {
+            "f": "Andorrane",
+            "m": "Andorran"
+        },
+        "code": "AD",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 230,
+        "name": "Angola",
+        "official_name": "République d'Angola",
+        "flag": "https:\/\/flagcdn.com\/w320\/ao.png",
+        "maps": "https:\/\/goo.gl\/maps\/q42Qbf1BmQL3fuZg9",
+        "phone_code": "+244",
+        "demonyms": {
+            "f": "Angolaise",
+            "m": "Angolais"
+        },
+        "code": "AO",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 34,
+        "name": "Anguilla",
+        "official_name": "Anguilla",
+        "flag": "https:\/\/flagcdn.com\/w320\/ai.png",
+        "maps": "https:\/\/goo.gl\/maps\/3KgLnEyN7amdno2p9",
+        "phone_code": "+1264",
+        "demonyms": {
+            "f": "Anguillane",
+            "m": "Anguillan"
+        },
+        "code": "AI",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 26,
+        "name": "Antarctique",
+        "official_name": "Antarctique",
+        "flag": "https:\/\/flagcdn.com\/w320\/aq.png",
+        "maps": "https:\/\/goo.gl\/maps\/kyBuJriu4itiXank7",
+        "phone_code": null,
+        "demonyms": {
+            "f": "Antarcticaine",
+            "m": "Antarcticain"
+        },
+        "code": "AQ",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 49,
+        "name": "Antigua-et-Barbuda",
+        "official_name": "Antigua -et-Barbuda",
+        "flag": "https:\/\/flagcdn.com\/w320\/ag.png",
+        "maps": "https:\/\/goo.gl\/maps\/fnye4wGJ1RzC9jpX9",
+        "phone_code": "+1268",
+        "demonyms": {
+            "f": "Antiguaise et barbudienne",
+            "m": "Antiguaise et barbudien"
+        },
+        "code": "AG",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 12,
+        "name": "Arabie Saoudite",
+        "official_name": "Royaume d'Arabie Saoudite",
+        "flag": "https:\/\/flagcdn.com\/w320\/sa.png",
+        "maps": "https:\/\/goo.gl\/maps\/5PSjvdJ1AyaLFRrG9",
+        "phone_code": "+966",
+        "demonyms": {
+            "f": "Saoudienne",
+            "m": "Saoudien"
+        },
+        "code": "SA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 28,
+        "name": "Argentine",
+        "official_name": "République argentine",
+        "flag": "https:\/\/flagcdn.com\/w320\/ar.png",
+        "maps": "https:\/\/goo.gl\/maps\/Z9DXNxhf2o93kvyc6",
+        "phone_code": "+54",
+        "demonyms": {
+            "f": "Argentine",
+            "m": "Argentin"
+        },
+        "code": "AR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 159,
+        "name": "Arménie",
+        "official_name": "République d'Arménie",
+        "flag": "https:\/\/flagcdn.com\/w320\/am.png",
+        "maps": "https:\/\/goo.gl\/maps\/azWUtK9bUQYEyccbA",
+        "phone_code": "+374",
+        "demonyms": {
+            "f": "Arménienne",
+            "m": "Arménien"
+        },
+        "code": "AM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 212,
+        "name": "Aruba",
+        "official_name": "Aruba",
+        "flag": "https:\/\/flagcdn.com\/w320\/aw.png",
+        "maps": "https:\/\/goo.gl\/maps\/8hopbQqifHAgyZyg8",
+        "phone_code": "+297",
+        "demonyms": {
+            "f": "Arubaise",
+            "m": "Arubais"
+        },
+        "code": "AW",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 192,
+        "name": "Australie",
+        "official_name": "Australie",
+        "flag": "https:\/\/flagcdn.com\/w320\/au.png",
+        "maps": "https:\/\/goo.gl\/maps\/DcjaDa7UbhnZTndH6",
+        "phone_code": "+61",
+        "demonyms": {
+            "f": "Australienne",
+            "m": "Australien"
+        },
+        "code": "AU",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 30,
+        "name": "Autriche",
+        "official_name": "République d'Autriche",
+        "flag": "https:\/\/flagcdn.com\/w320\/at.png",
+        "maps": "https:\/\/goo.gl\/maps\/pCWpWQhznHyRzQcu9",
+        "phone_code": "+43",
+        "demonyms": {
+            "f": "Autrichienne",
+            "m": "Autrichien"
+        },
+        "code": "AT",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 87,
+        "name": "Azerbaïdjan",
+        "official_name": "République d'Azerbaïdjan",
+        "flag": "https:\/\/flagcdn.com\/w320\/az.png",
+        "maps": "https:\/\/goo.gl\/maps\/az3Zz7ar2aoB9AUc6",
+        "phone_code": "+994",
+        "demonyms": {
+            "f": "Azerbaïdjanaise",
+            "m": "Azerbaïdjanais"
+        },
+        "code": "AZ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 100,
+        "name": "Bahamas",
+        "official_name": "Commonwealth des Bahamas",
+        "flag": "https:\/\/flagcdn.com\/w320\/bs.png",
+        "maps": "https:\/\/goo.gl\/maps\/1YzRs1BZrG8p8pmVA",
+        "phone_code": "+1242",
+        "demonyms": {
+            "f": "Bahamienne",
+            "m": "Bahamien"
+        },
+        "code": "BS",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 147,
+        "name": "Bahreïn",
+        "official_name": "Royaume de Bahreïn",
+        "flag": "https:\/\/flagcdn.com\/w320\/bh.png",
+        "maps": "https:\/\/goo.gl\/maps\/5Zue99Zc6vFBHxzJ7",
+        "phone_code": "+973",
+        "demonyms": {
+            "f": "Bahreïnienne",
+            "m": "Bahreïnien"
+        },
+        "code": "BH",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 44,
+        "name": "Bangladesh",
+        "official_name": "La République populaire du Bangladesh",
+        "flag": "https:\/\/flagcdn.com\/w320\/bd.png",
+        "maps": "https:\/\/goo.gl\/maps\/op6gmLbHcvv6rLhH6",
+        "phone_code": "+880",
+        "demonyms": {
+            "f": "Bangladaise",
+            "m": "Bangladais"
+        },
+        "code": "BD",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 91,
+        "name": "Barbade",
+        "official_name": "Barbade",
+        "flag": "https:\/\/flagcdn.com\/w320\/bb.png",
+        "maps": "https:\/\/goo.gl\/maps\/2m36v8STvbGAWd9c7",
+        "phone_code": "+1246",
+        "demonyms": {
+            "f": "Barbadienne",
+            "m": "Barbadien"
+        },
+        "code": "BB",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 177,
+        "name": "Belgique",
+        "official_name": "Royaume de Belgique",
+        "flag": "https:\/\/flagcdn.com\/w320\/be.png",
+        "maps": "https:\/\/goo.gl\/maps\/UQQzat85TCtPRXAL8",
+        "phone_code": "+32",
+        "demonyms": {
+            "f": "Belge",
+            "m": "Belge"
+        },
+        "code": "BE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 9,
+        "name": "Belize",
+        "official_name": "Belize",
+        "flag": "https:\/\/flagcdn.com\/w320\/bz.png",
+        "maps": "https:\/\/goo.gl\/maps\/jdCccpdLodm1uTmo9",
+        "phone_code": "+501",
+        "demonyms": {
+            "f": "Bélizienne",
+            "m": "Bélizien"
+        },
+        "code": "BZ",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 141,
+        "name": "Bénin",
+        "official_name": "République du Bénin",
+        "flag": "https:\/\/flagcdn.com\/w320\/bj.png",
+        "maps": "https:\/\/goo.gl\/maps\/uMw1BsHEXQYgVFFu6",
+        "phone_code": "+229",
+        "demonyms": {
+            "f": "Béninoise",
+            "m": "Béninois"
+        },
+        "code": "BJ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 193,
+        "name": "Bermudes",
+        "official_name": "Bermudes",
+        "flag": "https:\/\/flagcdn.com\/w320\/bm.png",
+        "maps": "https:\/\/goo.gl\/maps\/NLsRGNjTzDghTtAJA",
+        "phone_code": "+1441",
+        "demonyms": {
+            "f": "Bermudienne",
+            "m": "Bermudien"
+        },
+        "code": "BM",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 99,
+        "name": "Bhoutan",
+        "official_name": "Royaume du Bhoutan",
+        "flag": "https:\/\/flagcdn.com\/w320\/bt.png",
+        "maps": "https:\/\/goo.gl\/maps\/VEfXXBftTFLUpNgp8",
+        "phone_code": "+975",
+        "demonyms": {
+            "f": "Bhoutanaise",
+            "m": "Bhoutanais"
+        },
+        "code": "BT",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 189,
+        "name": "Biélorussie",
+        "official_name": "République de Biélorussie",
+        "flag": "https:\/\/flagcdn.com\/w320\/by.png",
+        "maps": "https:\/\/goo.gl\/maps\/PJUDU3EBPSszCQcu6",
+        "phone_code": "+375",
+        "demonyms": {
+            "f": "Biélorusse",
+            "m": "Biélorusse"
+        },
+        "code": "BY",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 166,
+        "name": "Birmanie",
+        "official_name": "République de l'Union du Myanmar",
+        "flag": "https:\/\/flagcdn.com\/w320\/mm.png",
+        "maps": "https:\/\/goo.gl\/maps\/4jrZyJkDERUfHyp26",
+        "phone_code": "+95",
+        "demonyms": {
+            "f": "Birmane",
+            "m": "Birman"
+        },
+        "code": "MM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 144,
+        "name": "Bolivie",
+        "official_name": "État plurinational de Bolivie",
+        "flag": "https:\/\/flagcdn.com\/w320\/bo.png",
+        "maps": "https:\/\/goo.gl\/maps\/9DfnyfbxNM2g5U9b9",
+        "phone_code": "+591",
+        "demonyms": {
+            "f": "Bolivienne",
+            "m": "Bolivien"
+        },
+        "code": "BO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 139,
+        "name": "Bosnie-Herzégovine",
+        "official_name": "Bosnie-et-Herzégovine",
+        "flag": "https:\/\/flagcdn.com\/w320\/ba.png",
+        "maps": "https:\/\/www.google.com\/maps\/place\/Bosnia+and+Herzegovina",
+        "phone_code": "+387",
+        "demonyms": {
+            "f": "Bosnienne",
+            "m": "Bosnien"
+        },
+        "code": "BA",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 117,
+        "name": "Botswana",
+        "official_name": "République du Botswana",
+        "flag": "https:\/\/flagcdn.com\/w320\/bw.png",
+        "maps": "https:\/\/goo.gl\/maps\/E364KeLy6N4JwxwQ8",
+        "phone_code": "+267",
+        "demonyms": {
+            "f": "Botswanaise",
+            "m": "Botswanais"
+        },
+        "code": "BW",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 15,
+        "name": "Brésil",
+        "official_name": "République fédérative du Brésil",
+        "flag": "https:\/\/flagcdn.com\/w320\/br.png",
+        "maps": "https:\/\/goo.gl\/maps\/waCKk21HeeqFzkNC9",
+        "phone_code": "+55",
+        "demonyms": {
+            "f": "Brésilienne",
+            "m": "Brésilien"
+        },
+        "code": "BR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 238,
+        "name": "Brunei",
+        "official_name": "État de Brunei Darussalam",
+        "flag": "https:\/\/flagcdn.com\/w320\/bn.png",
+        "maps": "https:\/\/goo.gl\/maps\/4jb4CqBXhr8vNh579",
+        "phone_code": "+673",
+        "demonyms": {
+            "f": "Brunéienne",
+            "m": "Brunéien"
+        },
+        "code": "BN",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 218,
+        "name": "Bulgarie",
+        "official_name": "République de Bulgarie",
+        "flag": "https:\/\/flagcdn.com\/w320\/bg.png",
+        "maps": "https:\/\/goo.gl\/maps\/F5uAhDGWzc3BrHfm9",
+        "phone_code": "+359",
+        "demonyms": {
+            "f": "Bulgare",
+            "m": "Bulgare"
+        },
+        "code": "BG",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 200,
+        "name": "Burkina Faso",
+        "official_name": "République du Burkina",
+        "flag": "https:\/\/flagcdn.com\/w320\/bf.png",
+        "maps": "https:\/\/goo.gl\/maps\/rKRmpcMbFher2ozb7",
+        "phone_code": "+226",
+        "demonyms": {
+            "f": "Burkinabée",
+            "m": "Burkinabé"
+        },
+        "code": "BF",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 76,
+        "name": "Burundi",
+        "official_name": "République du Burundi",
+        "flag": "https:\/\/flagcdn.com\/w320\/bi.png",
+        "maps": "https:\/\/goo.gl\/maps\/RXPWoRrB9tfrJpUG7",
+        "phone_code": "+257",
+        "demonyms": {
+            "f": "Burundaise",
+            "m": "Burundais"
+        },
+        "code": "BI",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 70,
+        "name": "Cambodge",
+        "official_name": "Royaume du Cambodge",
+        "flag": "https:\/\/flagcdn.com\/w320\/kh.png",
+        "maps": "https:\/\/goo.gl\/maps\/nztQtFSrUXZymJaW8",
+        "phone_code": "+855",
+        "demonyms": {
+            "f": "Cambodgienne",
+            "m": "Cambodgien"
+        },
+        "code": "KH",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 203,
+        "name": "Cameroun",
+        "official_name": "République du Cameroun",
+        "flag": "https:\/\/flagcdn.com\/w320\/cm.png",
+        "maps": "https:\/\/goo.gl\/maps\/JqiipHgFboG3rBJh9",
+        "phone_code": "+237",
+        "demonyms": {
+            "f": "Camerounaise",
+            "m": "Camerounais"
+        },
+        "code": "CM",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 112,
+        "name": "Canada",
+        "official_name": "Canada",
+        "flag": "https:\/\/flagcdn.com\/w320\/ca.png",
+        "maps": "https:\/\/goo.gl\/maps\/jmEVLugreeqiZXxbA",
+        "phone_code": "+1",
+        "demonyms": {
+            "f": "Canadienne",
+            "m": "Canadien"
+        },
+        "code": "CA",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 20,
+        "name": "Chili",
+        "official_name": "République du Chili",
+        "flag": "https:\/\/flagcdn.com\/w320\/cl.png",
+        "maps": "https:\/\/goo.gl\/maps\/XboxyNHh2fAjCPNn9",
+        "phone_code": "+56",
+        "demonyms": {
+            "f": "Chilienne",
+            "m": "Chilien"
+        },
+        "code": "CL",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 39,
+        "name": "Chine",
+        "official_name": "République populaire de Chine",
+        "flag": "https:\/\/flagcdn.com\/w320\/cn.png",
+        "maps": "https:\/\/goo.gl\/maps\/p9qC6vgiFRRXzvGi7",
+        "phone_code": "+86",
+        "demonyms": {
+            "f": "Chinoise",
+            "m": "Chinois"
+        },
+        "code": "CN",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 41,
+        "name": "Chypre",
+        "official_name": "République de Chypre",
+        "flag": "https:\/\/flagcdn.com\/w320\/cy.png",
+        "maps": "https:\/\/goo.gl\/maps\/77hPBRdLid8yD5Bm7",
+        "phone_code": "+357",
+        "demonyms": {
+            "f": "Chypriote",
+            "m": "Chypriote"
+        },
+        "code": "CY",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 140,
+        "name": "Cité du Vatican",
+        "official_name": "Cité du Vatican",
+        "flag": "https:\/\/flagcdn.com\/w320\/va.png",
+        "maps": "https:\/\/goo.gl\/maps\/DTKvw5Bd1QZaDZmE8",
+        "phone_code": "+3",
+        "demonyms": {
+            "f": "Vaticane",
+            "m": "Vatican"
+        },
+        "code": "VA",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 244,
+        "name": "Colombie",
+        "official_name": "République de Colombie",
+        "flag": "https:\/\/flagcdn.com\/w320\/co.png",
+        "maps": "https:\/\/goo.gl\/maps\/RdwTG8e7gPwS62oR6",
+        "phone_code": "+57",
+        "demonyms": {
+            "f": "Colombienne",
+            "m": "Colombien"
+        },
+        "code": "CO",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 78,
+        "name": "Comores",
+        "official_name": "Union des Comores",
+        "flag": "https:\/\/flagcdn.com\/w320\/km.png",
+        "maps": "https:\/\/goo.gl\/maps\/eas4GP28C1GyStnu6",
+        "phone_code": "+269",
+        "demonyms": {
+            "f": "Comorienne",
+            "m": "Comorien"
+        },
+        "code": "KM",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 220,
+        "name": "Congo",
+        "official_name": "République du Congo",
+        "flag": "https:\/\/flagcdn.com\/w320\/cg.png",
+        "maps": "https:\/\/goo.gl\/maps\/Phf5dDDKdfCtuBTb6",
+        "phone_code": "+242",
+        "demonyms": {
+            "f": "Congolaise",
+            "m": "Congolais"
+        },
+        "code": "CG",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 42,
+        "name": "Congo (Rép. dém.)",
+        "official_name": "République démocratique du Congo",
+        "flag": "https:\/\/flagcdn.com\/w320\/cd.png",
+        "maps": "https:\/\/goo.gl\/maps\/KfhNVn6VqdZXWu8n9",
+        "phone_code": "+243",
+        "demonyms": {
+            "f": "Congolaise",
+            "m": "Congolais"
+        },
+        "code": "CD",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 155,
+        "name": "Corée du Nord",
+        "official_name": "République populaire démocratique de Corée",
+        "flag": "https:\/\/flagcdn.com\/w320\/kp.png",
+        "maps": "https:\/\/goo.gl\/maps\/9q5T2DMeH5JL7Tky6",
+        "phone_code": "+850",
+        "demonyms": {
+            "f": "Nord-coréenne",
+            "m": "Nord-coréen"
+        },
+        "code": "KP",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 223,
+        "name": "Corée du Sud",
+        "official_name": "République de Corée",
+        "flag": "https:\/\/flagcdn.com\/w320\/kr.png",
+        "maps": "https:\/\/goo.gl\/maps\/7ecjaJXefjAQhxjGA",
+        "phone_code": "+82",
+        "demonyms": {
+            "f": "Sud-coréenne",
+            "m": "Sud-coréen"
+        },
+        "code": "KR",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 201,
+        "name": "Costa Rica",
+        "official_name": "République du Costa Rica",
+        "flag": "https:\/\/flagcdn.com\/w320\/cr.png",
+        "maps": "https:\/\/goo.gl\/maps\/RFiwytjvNrpfKN7k6",
+        "phone_code": "+506",
+        "demonyms": {
+            "f": "Costaricaine",
+            "m": "Costaricain"
+        },
+        "code": "CR",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 156,
+        "name": "Côte d'Ivoire",
+        "official_name": "République de Côte d' Ivoire",
+        "flag": "https:\/\/flagcdn.com\/w320\/ci.png",
+        "maps": "https:\/\/goo.gl\/maps\/wKsmN7f5qAeNtGjP6",
+        "phone_code": "+225",
+        "demonyms": {
+            "f": "Ivoirienne",
+            "m": "Ivoirien"
+        },
+        "code": "CI",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 53,
+        "name": "Croatie",
+        "official_name": "République de Croatie",
+        "flag": "https:\/\/flagcdn.com\/w320\/hr.png",
+        "maps": "https:\/\/goo.gl\/maps\/qSG6xTKUmrYpwmGQ6",
+        "phone_code": "+385",
+        "demonyms": {
+            "f": "Croate",
+            "m": "Croate"
+        },
+        "code": "HR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 98,
+        "name": "Cuba",
+        "official_name": "République de Cuba",
+        "flag": "https:\/\/flagcdn.com\/w320\/cu.png",
+        "maps": "https:\/\/goo.gl\/maps\/1dDw1QfZspfMUTm99",
+        "phone_code": "+53",
+        "demonyms": {
+            "f": "Cubaine",
+            "m": "Cubain"
+        },
+        "code": "CU",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 46,
+        "name": "Curaçao",
+        "official_name": "Pays de Curaçao",
+        "flag": "https:\/\/flagcdn.com\/w320\/cw.png",
+        "maps": "https:\/\/goo.gl\/maps\/9D3hTeA3qKaRT7S16",
+        "phone_code": "+599",
+        "demonyms": {
+            "f": "Curacienne",
+            "m": "Curacien"
+        },
+        "code": "CW",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 213,
+        "name": "Danemark",
+        "official_name": "Royaume du Danemark",
+        "flag": "https:\/\/flagcdn.com\/w320\/dk.png",
+        "maps": "https:\/\/goo.gl\/maps\/UddGPN7hAyrtpFiT6",
+        "phone_code": "+45",
+        "demonyms": {
+            "f": "Danoise",
+            "m": "Danois"
+        },
+        "code": "DK",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 4,
+        "name": "Djibouti",
+        "official_name": "République de Djibouti",
+        "flag": "https:\/\/flagcdn.com\/w320\/dj.png",
+        "maps": "https:\/\/goo.gl\/maps\/V1HWfzN3bS1kwf4C6",
+        "phone_code": "+253",
+        "demonyms": {
+            "f": "Djiboutienne",
+            "m": "Djiboutien"
+        },
+        "code": "DJ",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 58,
+        "name": "Dominique",
+        "official_name": "Commonwealth de la Dominique",
+        "flag": "https:\/\/flagcdn.com\/w320\/dm.png",
+        "maps": "https:\/\/goo.gl\/maps\/HSKdHYpFC8oHHuyV7",
+        "phone_code": "+1767",
+        "demonyms": {
+            "f": "Dominiquaise",
+            "m": "Dominiquais"
+        },
+        "code": "DM",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 174,
+        "name": "Égypte",
+        "official_name": "République arabe d'Égypte",
+        "flag": "https:\/\/flagcdn.com\/w320\/eg.png",
+        "maps": "https:\/\/goo.gl\/maps\/uoDRhXbsqjG6L7VG7",
+        "phone_code": "+20",
+        "demonyms": {
+            "f": "Égyptienne",
+            "m": "Égyptien"
+        },
+        "code": "EG",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 180,
+        "name": "Émirats arabes unis",
+        "official_name": "Émirats arabes unis",
+        "flag": "https:\/\/flagcdn.com\/w320\/ae.png",
+        "maps": "https:\/\/goo.gl\/maps\/AZZTDA6GzVAnKMVd8",
+        "phone_code": "+971",
+        "demonyms": {
+            "f": "Emirienne",
+            "m": "Emirien"
+        },
+        "code": "AE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 13,
+        "name": "Équateur",
+        "official_name": "République de l'Équateur",
+        "flag": "https:\/\/flagcdn.com\/w320\/ec.png",
+        "maps": "https:\/\/goo.gl\/maps\/TbX8hUW4gcbRPZiK7",
+        "phone_code": "+593",
+        "demonyms": {
+            "f": "Équatorienne",
+            "m": "Équatorien"
+        },
+        "code": "EC",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 135,
+        "name": "Érythrée",
+        "official_name": "État d'Érythrée",
+        "flag": "https:\/\/flagcdn.com\/w320\/er.png",
+        "maps": "https:\/\/goo.gl\/maps\/HRyqUpnPwwG6jY5j6",
+        "phone_code": "+291",
+        "demonyms": {
+            "f": "Érythréenne",
+            "m": "Érythréen"
+        },
+        "code": "ER",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 235,
+        "name": "Espagne",
+        "official_name": "Royaume d'Espagne",
+        "flag": "https:\/\/flagcdn.com\/w320\/es.png",
+        "maps": "https:\/\/goo.gl\/maps\/138JaXW8EZzRVitY9",
+        "phone_code": "+34",
+        "demonyms": {
+            "f": "Espagnole",
+            "m": "Espagnol"
+        },
+        "code": "ES",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 186,
+        "name": "Estonie",
+        "official_name": "République d'Estonie",
+        "flag": "https:\/\/flagcdn.com\/w320\/ee.png",
+        "maps": "https:\/\/goo.gl\/maps\/6SsynwGUodL1sDvq8",
+        "phone_code": "+372",
+        "demonyms": {
+            "f": "Estonienne",
+            "m": "Estonien"
+        },
+        "code": "EE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 8,
+        "name": "États-Unis",
+        "official_name": "Les états-unis d'Amérique",
+        "flag": "https:\/\/flagcdn.com\/w320\/us.png",
+        "maps": "https:\/\/goo.gl\/maps\/e8M246zY4BSjkjAv6",
+        "phone_code": "+1",
+        "demonyms": {
+            "f": "Américaine",
+            "m": "Américain"
+        },
+        "code": "US",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 85,
+        "name": "Éthiopie",
+        "official_name": "République fédérale démocratique d'Éthiopie",
+        "flag": "https:\/\/flagcdn.com\/w320\/et.png",
+        "maps": "https:\/\/goo.gl\/maps\/2Q4hQWCbhuZLj3fG6",
+        "phone_code": "+251",
+        "demonyms": {
+            "f": "Éthiopienne",
+            "m": "Éthiopien"
+        },
+        "code": "ET",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 183,
+        "name": "Fidji",
+        "official_name": "République des Fidji",
+        "flag": "https:\/\/flagcdn.com\/w320\/fj.png",
+        "maps": "https:\/\/goo.gl\/maps\/r9fhDqoLZdg1zmE99",
+        "phone_code": "+679",
+        "demonyms": {
+            "f": "Fidjienne",
+            "m": "Fidjien"
+        },
+        "code": "FJ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 225,
+        "name": "Finlande",
+        "official_name": "République de Finlande",
+        "flag": "https:\/\/flagcdn.com\/w320\/fi.png",
+        "maps": "https:\/\/goo.gl\/maps\/HjgWDCNKRAYHrkMn8",
+        "phone_code": "+358",
+        "demonyms": {
+            "f": "Finlandaise",
+            "m": "Finlandais"
+        },
+        "code": "FI",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 89,
+        "name": "France",
+        "official_name": "République française",
+        "flag": "https:\/\/flagcdn.com\/w320\/fr.png",
+        "maps": "https:\/\/goo.gl\/maps\/g7QxxSFsWyTPKuzd7",
+        "phone_code": "+33",
+        "demonyms": {
+            "f": "Française",
+            "m": "Français"
+        },
+        "code": "FR",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 107,
+        "name": "Gabon",
+        "official_name": "République gabonaise",
+        "flag": "https:\/\/flagcdn.com\/w320\/ga.png",
+        "maps": "https:\/\/www.openstreetmap.org\/relation\/192793",
+        "phone_code": "+241",
+        "demonyms": {
+            "f": "Gabonaise",
+            "m": "Gabonais"
+        },
+        "code": "GA",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 3,
+        "name": "Gambie",
+        "official_name": "République de Gambie",
+        "flag": "https:\/\/flagcdn.com\/w320\/gm.png",
+        "maps": "https:\/\/goo.gl\/maps\/bbGBCxxtfD2A9Z4m6",
+        "phone_code": "+220",
+        "demonyms": {
+            "f": "Gambienne",
+            "m": "Gambien"
+        },
+        "code": "GM",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 7,
+        "name": "Géorgie",
+        "official_name": "République de Géorgie",
+        "flag": "https:\/\/flagcdn.com\/w320\/ge.png",
+        "maps": "https:\/\/goo.gl\/maps\/bvCaGBePR1ZEDK5cA",
+        "phone_code": "+995",
+        "demonyms": {
+            "f": "Géorgienne",
+            "m": "Géorgien"
+        },
+        "code": "GE",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 69,
+        "name": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+        "official_name": "Géorgie du Sud et les îles Sandwich du Sud",
+        "flag": "https:\/\/flagcdn.com\/w320\/gs.png",
+        "maps": "https:\/\/goo.gl\/maps\/mJzdaBwKBbm2B81q9",
+        "phone_code": "+500",
+        "demonyms": [],
+        "code": "GS",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 171,
+        "name": "Ghana",
+        "official_name": "République du Ghana",
+        "flag": "https:\/\/flagcdn.com\/w320\/gh.png",
+        "maps": "https:\/\/goo.gl\/maps\/Avy5RSmdsXFBaiXq8",
+        "phone_code": "+233",
+        "demonyms": {
+            "f": "Ghanéenne",
+            "m": "Ghanéen"
+        },
+        "code": "GH",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 59,
+        "name": "Gibraltar",
+        "official_name": "Gibraltar",
+        "flag": "https:\/\/flagcdn.com\/w320\/gi.png",
+        "maps": "https:\/\/goo.gl\/maps\/CEoHAs1t6byCBhHFA",
+        "phone_code": "+350",
+        "demonyms": {
+            "f": "Gibraltarienne",
+            "m": "Gibraltarien"
+        },
+        "code": "GI",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 148,
+        "name": "Grèce",
+        "official_name": "République hellénique",
+        "flag": "https:\/\/flagcdn.com\/w320\/gr.png",
+        "maps": "https:\/\/goo.gl\/maps\/LHGcAvuRyD2iKECC6",
+        "phone_code": "+30",
+        "demonyms": {
+            "f": "Grecque",
+            "m": "Grec"
+        },
+        "code": "GR",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 31,
+        "name": "Grenade",
+        "official_name": "Grenade",
+        "flag": "https:\/\/flagcdn.com\/w320\/gd.png",
+        "maps": "https:\/\/goo.gl\/maps\/rqWyfUAt4xhvk1Zy9",
+        "phone_code": "+1473",
+        "demonyms": {
+            "f": "Grenadienne",
+            "m": "Grenadien"
+        },
+        "code": "GD",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 243,
+        "name": "Groenland",
+        "official_name": "Groenland",
+        "flag": "https:\/\/flagcdn.com\/w320\/gl.png",
+        "maps": "https:\/\/goo.gl\/maps\/j3289UPEQXt1ceSy8",
+        "phone_code": "+299",
+        "demonyms": {
+            "f": "Groenlandaise",
+            "m": "Groenlandais"
+        },
+        "code": "GL",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 106,
+        "name": "Guadeloupe",
+        "official_name": "Guadeloupe",
+        "flag": "https:\/\/flagcdn.com\/w320\/gp.png",
+        "maps": "https:\/\/goo.gl\/maps\/Dy9R2EufJtoWm8UN9",
+        "phone_code": "+590",
+        "demonyms": {
+            "f": "Guadeloupéenne",
+            "m": "Guadeloupéen"
+        },
+        "code": "GP",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 6,
+        "name": "Guam",
+        "official_name": "Guam",
+        "flag": "https:\/\/flagcdn.com\/w320\/gu.png",
+        "maps": "https:\/\/goo.gl\/maps\/Xfnq2i279b18cH3C9",
+        "phone_code": "+1671",
+        "demonyms": [],
+        "code": "GU",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 47,
+        "name": "Guatemala",
+        "official_name": "République du Guatemala",
+        "flag": "https:\/\/flagcdn.com\/w320\/gt.png",
+        "maps": "https:\/\/goo.gl\/maps\/JoRAbem4Hxb9FYbVA",
+        "phone_code": "+502",
+        "demonyms": {
+            "f": "Guatémaltèque",
+            "m": "Guatémaltèque"
+        },
+        "code": "GT",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 109,
+        "name": "Guernesey",
+        "official_name": "Bailliage de Guernesey",
+        "flag": "https:\/\/flagcdn.com\/w320\/gg.png",
+        "maps": "https:\/\/goo.gl\/maps\/6kXnQU5QvEZMD9VB7",
+        "phone_code": "+44",
+        "demonyms": {
+            "f": "Guernesiaise",
+            "m": "Guernesiais"
+        },
+        "code": "GG",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 233,
+        "name": "Guinée",
+        "official_name": "République de Guinée",
+        "flag": "https:\/\/flagcdn.com\/w320\/gn.png",
+        "maps": "https:\/\/goo.gl\/maps\/8J5oM5sA4Ayr1ZYGA",
+        "phone_code": "+224",
+        "demonyms": {
+            "f": "Guinéenne",
+            "m": "Guinéen"
+        },
+        "code": "GN",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 170,
+        "name": "Guinée équatoriale",
+        "official_name": "République de Guinée équatoriale",
+        "flag": "https:\/\/flagcdn.com\/w320\/gq.png",
+        "maps": "https:\/\/goo.gl\/maps\/ucWfFd8aW1FbGMva9",
+        "phone_code": "+240",
+        "demonyms": {
+            "f": "Équato-guinéenne",
+            "m": "Équato-guinéen"
+        },
+        "code": "GQ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 248,
+        "name": "Guinée-Bissau",
+        "official_name": "République de Guinée-Bissau",
+        "flag": "https:\/\/flagcdn.com\/w320\/gw.png",
+        "maps": "https:\/\/goo.gl\/maps\/5Wyaz17miUc1zLc67",
+        "phone_code": "+245",
+        "demonyms": {
+            "f": "Bissau-Guinéenne",
+            "m": "Bissau-Guinéen"
+        },
+        "code": "GW",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 51,
+        "name": "Guyana",
+        "official_name": "République coopérative de Guyana",
+        "flag": "https:\/\/flagcdn.com\/w320\/gy.png",
+        "maps": "https:\/\/goo.gl\/maps\/DFsme2xEeugUAsCx5",
+        "phone_code": "+592",
+        "demonyms": {
+            "f": "Guyanienne",
+            "m": "Guyanien"
+        },
+        "code": "GY",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 204,
+        "name": "Guyane",
+        "official_name": "Guyane",
+        "flag": "https:\/\/flagcdn.com\/w320\/gf.png",
+        "maps": "https:\/\/goo.gl\/maps\/NJawFwMzG7YtCrVP7",
+        "phone_code": "+594",
+        "demonyms": {
+            "f": "Guyanaise",
+            "m": "Guyanais"
+        },
+        "code": "GF",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 137,
+        "name": "Haïti",
+        "official_name": "République d'Haïti",
+        "flag": "https:\/\/flagcdn.com\/w320\/ht.png",
+        "maps": "https:\/\/goo.gl\/maps\/9o13xtjuUdqFnHbn9",
+        "phone_code": "+509",
+        "demonyms": {
+            "f": "Haïtienne",
+            "m": "Haïtien"
+        },
+        "code": "HT",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 68,
+        "name": "Honduras",
+        "official_name": "République du Honduras",
+        "flag": "https:\/\/flagcdn.com\/w320\/hn.png",
+        "maps": "https:\/\/goo.gl\/maps\/BbeJK8Sk2VkMHbdF8",
+        "phone_code": "+504",
+        "demonyms": {
+            "f": "Hondurienne",
+            "m": "Hondurien"
+        },
+        "code": "HN",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 217,
+        "name": "Hong Kong",
+        "official_name": "Région administrative spéciale de Hong Kong de la République populaire de Chine",
+        "flag": "https:\/\/flagcdn.com\/w320\/hk.png",
+        "maps": "https:\/\/goo.gl\/maps\/1sEnNmT47ffrC8MU8",
+        "phone_code": "+852",
+        "demonyms": {
+            "f": "Hongkongaise",
+            "m": "Hongkongais"
+        },
+        "code": "HK",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 179,
+        "name": "Hongrie",
+        "official_name": "Hongrie",
+        "flag": "https:\/\/flagcdn.com\/w320\/hu.png",
+        "maps": "https:\/\/goo.gl\/maps\/9gfPupm5bffixiFJ6",
+        "phone_code": "+36",
+        "demonyms": {
+            "f": "Hongroise",
+            "m": "Hongrois"
+        },
+        "code": "HU",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 66,
+        "name": "Île Bouvet",
+        "official_name": "Île Bouvet",
+        "flag": "https:\/\/flagcdn.com\/w320\/bv.png",
+        "maps": "https:\/\/goo.gl\/maps\/7WRQAEKZb4uK36yi9",
+        "phone_code": "+47",
+        "demonyms": [],
+        "code": "BV",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 125,
+        "name": "Île Christmas",
+        "official_name": "Territoire de l'île Christmas",
+        "flag": "https:\/\/flagcdn.com\/w320\/cx.png",
+        "maps": "https:\/\/goo.gl\/maps\/ZC17hHsQZpShN5wk9",
+        "phone_code": "+61",
+        "demonyms": [],
+        "code": "CX",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 116,
+        "name": "Île de Man",
+        "official_name": "Isle of Man",
+        "flag": "https:\/\/flagcdn.com\/w320\/im.png",
+        "maps": "https:\/\/goo.gl\/maps\/4DqVHDgVaFgnh8ZV8",
+        "phone_code": "+44",
+        "demonyms": [],
+        "code": "IM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 10,
+        "name": "Île Maurice",
+        "official_name": "République de Maurice",
+        "flag": "https:\/\/flagcdn.com\/w320\/mu.png",
+        "maps": "https:\/\/goo.gl\/maps\/PpKtZ4W3tir5iGrz7",
+        "phone_code": "+230",
+        "demonyms": {
+            "f": "Mauricienne",
+            "m": "Mauricien"
+        },
+        "code": "MU",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 222,
+        "name": "Île Norfolk",
+        "official_name": "Territoire de l'île Norfolk",
+        "flag": "https:\/\/flagcdn.com\/w320\/nf.png",
+        "maps": "https:\/\/goo.gl\/maps\/pbvtm6XYd1iZbjky5",
+        "phone_code": "+672",
+        "demonyms": {
+            "f": "Norfolkaise",
+            "m": "Norfolkais"
+        },
+        "code": "NF",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 52,
+        "name": "Îles Caïmans",
+        "official_name": "Îles Caïmans",
+        "flag": "https:\/\/flagcdn.com\/w320\/ky.png",
+        "maps": "https:\/\/goo.gl\/maps\/P3ZVXX3LH63t91hL8",
+        "phone_code": "+1345",
+        "demonyms": {
+            "f": "Caïmanienne",
+            "m": "Caïmanien"
+        },
+        "code": "KY",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 167,
+        "name": "Îles Cocos",
+        "official_name": "Territoire des îles Cocos (Keeling)",
+        "flag": "https:\/\/flagcdn.com\/w320\/cc.png",
+        "maps": "https:\/\/goo.gl\/maps\/3eCdKVpVfMcZyKcK6",
+        "phone_code": "+61",
+        "demonyms": [],
+        "code": "CC",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 74,
+        "name": "Îles Cook",
+        "official_name": "Îles Cook",
+        "flag": "https:\/\/flagcdn.com\/w320\/ck.png",
+        "maps": "https:\/\/goo.gl\/maps\/nrGZrvWRGB4WHgDC9",
+        "phone_code": "+682",
+        "demonyms": {
+            "f": "Cookienne",
+            "m": "Cookien"
+        },
+        "code": "CK",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 215,
+        "name": "Îles du Cap-Vert",
+        "official_name": "République du Cap-Vert",
+        "flag": "https:\/\/flagcdn.com\/w320\/cv.png",
+        "maps": "https:\/\/goo.gl\/maps\/Kc9vy5ChjuiAgMfXA",
+        "phone_code": "+238",
+        "demonyms": {
+            "f": "Cap-verdienne",
+            "m": "Cap-verdien"
+        },
+        "code": "CV",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 32,
+        "name": "Îles Féroé",
+        "official_name": "Îles Féroé",
+        "flag": "https:\/\/flagcdn.com\/w320\/fo.png",
+        "maps": "https:\/\/goo.gl\/maps\/6sTru4SmHdEVcNkM6",
+        "phone_code": "+298",
+        "demonyms": {
+            "f": "Féroïenne",
+            "m": "Féroïen"
+        },
+        "code": "FO",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 182,
+        "name": "Îles Heard-et-MacDonald",
+        "official_name": "Des îles Heard et McDonald",
+        "flag": "https:\/\/flagcdn.com\/w320\/hm.png",
+        "maps": "https:\/\/goo.gl\/maps\/k5FBAiVaVyozuYeA7",
+        "phone_code": null,
+        "demonyms": [],
+        "code": "HM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 246,
+        "name": "Îles Malouines",
+        "official_name": "Îles Malouines",
+        "flag": "https:\/\/flagcdn.com\/w320\/fk.png",
+        "maps": "https:\/\/goo.gl\/maps\/TZH1x7AGanQKifNk7",
+        "phone_code": "+500",
+        "demonyms": {
+            "f": "Malouinne",
+            "m": "Malouin"
+        },
+        "code": "FK",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 36,
+        "name": "Îles Mariannes du Nord",
+        "official_name": "Commonwealth des îles Mariannes du Nord",
+        "flag": "https:\/\/flagcdn.com\/w320\/mp.png",
+        "maps": "https:\/\/goo.gl\/maps\/cpZ67knoRAcfu1417",
+        "phone_code": "+1670",
+        "demonyms": {
+            "f": "Américaine",
+            "m": "Américan"
+        },
+        "code": "MP",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 14,
+        "name": "Îles Marshall",
+        "official_name": "République des Îles Marshall",
+        "flag": "https:\/\/flagcdn.com\/w320\/mh.png",
+        "maps": "https:\/\/goo.gl\/maps\/A4xLi1XvcX88gi3W8",
+        "phone_code": "+692",
+        "demonyms": {
+            "f": "Marshallaise",
+            "m": "Marshallais"
+        },
+        "code": "MH",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 188,
+        "name": "Îles mineures éloignées des États-Unis",
+        "official_name": "Îles mineures éloignées des États-Unis",
+        "flag": "https:\/\/flagcdn.com\/w320\/um.png",
+        "maps": "https:\/\/goo.gl\/maps\/hZKnrzgeK69dDyPF8",
+        "phone_code": "+268",
+        "demonyms": [],
+        "code": "UM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 104,
+        "name": "Îles Pitcairn",
+        "official_name": "Groupe d'îles Pitcairn",
+        "flag": "https:\/\/flagcdn.com\/w320\/pn.png",
+        "maps": "https:\/\/goo.gl\/maps\/XGJMnMAigXjXcxSa7",
+        "phone_code": "+64",
+        "demonyms": {
+            "f": "Pitcairnaise",
+            "m": "Pitcairnais"
+        },
+        "code": "PN",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 126,
+        "name": "Îles Salomon",
+        "official_name": "Îles Salomon",
+        "flag": "https:\/\/flagcdn.com\/w320\/sb.png",
+        "maps": "https:\/\/goo.gl\/maps\/JbPkx86Ywjv8C1n8A",
+        "phone_code": "+677",
+        "demonyms": {
+            "f": "Salomonienne",
+            "m": "Salomonien"
+        },
+        "code": "SB",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 196,
+        "name": "Îles Turques-et-Caïques",
+        "official_name": "Îles Turques et Caïques",
+        "flag": "https:\/\/flagcdn.com\/w320\/tc.png",
+        "maps": "https:\/\/goo.gl\/maps\/R8VUDQfwZiFtvmyn8",
+        "phone_code": "+1649",
+        "demonyms": [],
+        "code": "TC",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 128,
+        "name": "Îles Vierges britanniques",
+        "official_name": "îles Vierges",
+        "flag": "https:\/\/flagcdn.com\/w320\/vg.png",
+        "maps": "https:\/\/goo.gl\/maps\/49C9cSesNVAR9DQk8",
+        "phone_code": "+1284",
+        "demonyms": [],
+        "code": "VG",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 65,
+        "name": "Îles Vierges des États-Unis",
+        "official_name": "Îles Vierges des États-Unis",
+        "flag": "https:\/\/flagcdn.com\/w320\/vi.png",
+        "maps": "https:\/\/goo.gl\/maps\/mBfreywj8dor6q4m9",
+        "phone_code": "+1340",
+        "demonyms": [],
+        "code": "VI",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 93,
+        "name": "Inde",
+        "official_name": "République de l'Inde",
+        "flag": "https:\/\/flagcdn.com\/w320\/in.png",
+        "maps": "https:\/\/goo.gl\/maps\/WSk3fLwG4vtPQetp7",
+        "phone_code": "+91",
+        "demonyms": {
+            "f": "Indienne",
+            "m": "Indien"
+        },
+        "code": "IN",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 236,
+        "name": "Indonésie",
+        "official_name": "République d'Indonésie",
+        "flag": "https:\/\/flagcdn.com\/w320\/id.png",
+        "maps": "https:\/\/goo.gl\/maps\/9gfPupm5bffixiFJ6",
+        "phone_code": "+62",
+        "demonyms": {
+            "f": "Indonésienne",
+            "m": "Indonésien"
+        },
+        "code": "ID",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 96,
+        "name": "Irak",
+        "official_name": "République d'Irak",
+        "flag": "https:\/\/flagcdn.com\/w320\/iq.png",
+        "maps": "https:\/\/goo.gl\/maps\/iL8Bmy1sUCW9fUk18",
+        "phone_code": "+964",
+        "demonyms": {
+            "f": "Irakienne",
+            "m": "Irakien"
+        },
+        "code": "IQ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 72,
+        "name": "Iran",
+        "official_name": "République islamique d'Iran",
+        "flag": "https:\/\/flagcdn.com\/w320\/ir.png",
+        "maps": "https:\/\/goo.gl\/maps\/dMgEGuacBPGYQnjY7",
+        "phone_code": "+98",
+        "demonyms": {
+            "f": "Iranienne",
+            "m": "Iranien"
+        },
+        "code": "IR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 163,
+        "name": "Irlande",
+        "official_name": "République d'Irlande",
+        "flag": "https:\/\/flagcdn.com\/w320\/ie.png",
+        "maps": "https:\/\/goo.gl\/maps\/hxd1BKxgpchStzQC6",
+        "phone_code": "+353",
+        "demonyms": {
+            "f": "Irlandaise",
+            "m": "Irlandais"
+        },
+        "code": "IE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 54,
+        "name": "Islande",
+        "official_name": "République d'Islande",
+        "flag": "https:\/\/flagcdn.com\/w320\/is.png",
+        "maps": "https:\/\/goo.gl\/maps\/WxFWSQuc3oamNxoE6",
+        "phone_code": "+354",
+        "demonyms": {
+            "f": "Islandaise",
+            "m": "Islandais"
+        },
+        "code": "IS",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 50,
+        "name": "Israël",
+        "official_name": "État d'Israël",
+        "flag": "https:\/\/flagcdn.com\/w320\/il.png",
+        "maps": "https:\/\/goo.gl\/maps\/6UY1AH8XeafVwdC97",
+        "phone_code": "+972",
+        "demonyms": {
+            "f": "Israélienne",
+            "m": "Israélien"
+        },
+        "code": "IL",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 97,
+        "name": "Italie",
+        "official_name": "République italienne",
+        "flag": "https:\/\/flagcdn.com\/w320\/it.png",
+        "maps": "https:\/\/goo.gl\/maps\/8M1K27TDj7StTRTq8",
+        "phone_code": "+39",
+        "demonyms": {
+            "f": "Italienne",
+            "m": "Italien"
+        },
+        "code": "IT",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 129,
+        "name": "Jamaïque",
+        "official_name": "Jamaïque",
+        "flag": "https:\/\/flagcdn.com\/w320\/jm.png",
+        "maps": "https:\/\/goo.gl\/maps\/Z8mQ6jxnRQKFwJy9A",
+        "phone_code": "+1876",
+        "demonyms": {
+            "f": "Jamaïcaine",
+            "m": "Jamaïcain"
+        },
+        "code": "JM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 214,
+        "name": "Japon",
+        "official_name": "Japon",
+        "flag": "https:\/\/flagcdn.com\/w320\/jp.png",
+        "maps": "https:\/\/goo.gl\/maps\/NGTLSCSrA8bMrvnX9",
+        "phone_code": "+81",
+        "demonyms": {
+            "f": "Japonaise",
+            "m": "Japonais"
+        },
+        "code": "JP",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 92,
+        "name": "Jersey",
+        "official_name": "Bailliage de Jersey",
+        "flag": "https:\/\/flagcdn.com\/w320\/je.png",
+        "maps": "https:\/\/goo.gl\/maps\/rXG8GZZtsqK92kTCA",
+        "phone_code": "+44",
+        "demonyms": {
+            "f": "Jersiaise",
+            "m": "Jersiais"
+        },
+        "code": "JE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 219,
+        "name": "Jordanie",
+        "official_name": "Royaume hachémite de Jordanie",
+        "flag": "https:\/\/flagcdn.com\/w320\/jo.png",
+        "maps": "https:\/\/goo.gl\/maps\/ko1dzSDKg8Gsi9A98",
+        "phone_code": "+962",
+        "demonyms": {
+            "f": "Jordanienne",
+            "m": "Jordanien"
+        },
+        "code": "JO",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 118,
+        "name": "Kazakhstan",
+        "official_name": "République du Kazakhstan",
+        "flag": "https:\/\/flagcdn.com\/w320\/kz.png",
+        "maps": "https:\/\/goo.gl\/maps\/8VohJGu7ShuzZYyeA",
+        "phone_code": "+7",
+        "demonyms": {
+            "f": "Kazakhstanaise",
+            "m": "Kazakhstanais"
+        },
+        "code": "KZ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 103,
+        "name": "Kenya",
+        "official_name": "République du Kenya",
+        "flag": "https:\/\/flagcdn.com\/w320\/ke.png",
+        "maps": "https:\/\/goo.gl\/maps\/Ni9M7wcCxf8bJHLX8",
+        "phone_code": "+254",
+        "demonyms": {
+            "f": "Kényane",
+            "m": "Kényan"
+        },
+        "code": "KE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 94,
+        "name": "Kirghizistan",
+        "official_name": "République kirghize",
+        "flag": "https:\/\/flagcdn.com\/w320\/kg.png",
+        "maps": "https:\/\/goo.gl\/maps\/SKG8BSMMQVvxkRkB7",
+        "phone_code": "+996",
+        "demonyms": {
+            "f": "Kirghize",
+            "m": "Kirghize"
+        },
+        "code": "KG",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 134,
+        "name": "Kiribati",
+        "official_name": "République de Kiribati",
+        "flag": "https:\/\/flagcdn.com\/w320\/ki.png",
+        "maps": "https:\/\/goo.gl\/maps\/NBfYvrndW4skAimw9",
+        "phone_code": "+686",
+        "demonyms": {
+            "f": "Kiribatienne",
+            "m": "Kiribatien"
+        },
+        "code": "KI",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 80,
+        "name": "Kosovo",
+        "official_name": "République du Kosovo",
+        "flag": "https:\/\/flagcdn.com\/w320\/xk.png",
+        "maps": "https:\/\/goo.gl\/maps\/CSC4Yc8SWPgburuD9",
+        "phone_code": "+383",
+        "demonyms": {
+            "f": "Kosovare",
+            "m": "Kosovar"
+        },
+        "code": "XK",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 63,
+        "name": "Koweït",
+        "official_name": "État du Koweït",
+        "flag": "https:\/\/flagcdn.com\/w320\/kw.png",
+        "maps": "https:\/\/goo.gl\/maps\/aqr3aNQjS1BAvksJ7",
+        "phone_code": "+965",
+        "demonyms": {
+            "f": "Koweïtienne",
+            "m": "Koweïtien"
+        },
+        "code": "KW",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 221,
+        "name": "Laos",
+        "official_name": "République démocratique populaire lao",
+        "flag": "https:\/\/flagcdn.com\/w320\/la.png",
+        "maps": "https:\/\/goo.gl\/maps\/F3asVB7sRKgSnwbE7",
+        "phone_code": "+856",
+        "demonyms": {
+            "f": "Laotienne",
+            "m": "Laotien"
+        },
+        "code": "LA",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 40,
+        "name": "Lesotho",
+        "official_name": "Royaume du Lesotho",
+        "flag": "https:\/\/flagcdn.com\/w320\/ls.png",
+        "maps": "https:\/\/goo.gl\/maps\/H8gJi5mL4Cmd1SF28",
+        "phone_code": "+266",
+        "demonyms": {
+            "f": "Lésothienne",
+            "m": "Lésothien"
+        },
+        "code": "LS",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 127,
+        "name": "Lettonie",
+        "official_name": "République de Lettonie",
+        "flag": "https:\/\/flagcdn.com\/w320\/lv.png",
+        "maps": "https:\/\/goo.gl\/maps\/iQpUkH7ghq31ZtXe9",
+        "phone_code": "+371",
+        "demonyms": {
+            "f": "Lettone",
+            "m": "Letton"
+        },
+        "code": "LV",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 11,
+        "name": "Liban",
+        "official_name": "République libanaise",
+        "flag": "https:\/\/flagcdn.com\/w320\/lb.png",
+        "maps": "https:\/\/goo.gl\/maps\/Sz5VCU8UFBqMyTdc9",
+        "phone_code": "+961",
+        "demonyms": {
+            "f": "Libanaise",
+            "m": "Libanais"
+        },
+        "code": "LB",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 21,
+        "name": "Liberia",
+        "official_name": "République du Libéria",
+        "flag": "https:\/\/flagcdn.com\/w320\/lr.png",
+        "maps": "https:\/\/goo.gl\/maps\/4VsHsc2oeGeRL3wg6",
+        "phone_code": "+231",
+        "demonyms": {
+            "f": "Libérienne",
+            "m": "Libérien"
+        },
+        "code": "LR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 234,
+        "name": "Libye",
+        "official_name": "Grande République arabe libyenne populaire et socialiste",
+        "flag": "https:\/\/flagcdn.com\/w320\/ly.png",
+        "maps": "https:\/\/goo.gl\/maps\/eLgGnaQWcJEdYRMy5",
+        "phone_code": "+218",
+        "demonyms": {
+            "f": "Libyenne",
+            "m": "Libyen"
+        },
+        "code": "LY",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 207,
+        "name": "Liechtenstein",
+        "official_name": "Principauté du Liechtenstein",
+        "flag": "https:\/\/flagcdn.com\/w320\/li.png",
+        "maps": "https:\/\/goo.gl\/maps\/KNuHeiJzAPodwM7y6",
+        "phone_code": "+423",
+        "demonyms": {
+            "f": "Liechtensteinoise",
+            "m": "Liechtensteinois"
+        },
+        "code": "LI",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 102,
+        "name": "Lituanie",
+        "official_name": "République de Lituanie",
+        "flag": "https:\/\/flagcdn.com\/w320\/lt.png",
+        "maps": "https:\/\/goo.gl\/maps\/dd1s9rrLjrK2G8yY6",
+        "phone_code": "+370",
+        "demonyms": {
+            "f": "Lituanienne",
+            "m": "Lituanien"
+        },
+        "code": "LT",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 232,
+        "name": "Luxembourg",
+        "official_name": "Grand-Duché de Luxembourg",
+        "flag": "https:\/\/flagcdn.com\/w320\/lu.png",
+        "maps": "https:\/\/goo.gl\/maps\/L6b2AgndgHprt2Ko9",
+        "phone_code": "+352",
+        "demonyms": {
+            "f": "Luxembourgeoise",
+            "m": "Luxembourgeois"
+        },
+        "code": "LU",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 108,
+        "name": "Macao",
+        "official_name": "Région administrative spéciale de Macao de la République populaire de Chine",
+        "flag": "https:\/\/flagcdn.com\/w320\/mo.png",
+        "maps": "https:\/\/goo.gl\/maps\/whymRdk3dZFfAAs4A",
+        "phone_code": "+853",
+        "demonyms": {
+            "f": "Macanaise",
+            "m": "Macanais"
+        },
+        "code": "MO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 71,
+        "name": "Macédoine du Nord",
+        "official_name": "République de Macédoine du Nord",
+        "flag": "https:\/\/flagcdn.com\/w320\/mk.png",
+        "maps": "https:\/\/goo.gl\/maps\/55Q8MEnF6ACdu3q79",
+        "phone_code": "+389",
+        "demonyms": {
+            "f": "Macédonienne",
+            "m": "Macédonien"
+        },
+        "code": "MK",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 145,
+        "name": "Madagascar",
+        "official_name": "République de Madagascar",
+        "flag": "https:\/\/flagcdn.com\/w320\/mg.png",
+        "maps": "https:\/\/goo.gl\/maps\/AHQh2ABBaFW6Ngj26",
+        "phone_code": "+261",
+        "demonyms": {
+            "f": "Malgache",
+            "m": "Malgache"
+        },
+        "code": "MG",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 231,
+        "name": "Malaisie",
+        "official_name": "Fédération de Malaisie",
+        "flag": "https:\/\/flagcdn.com\/w320\/my.png",
+        "maps": "https:\/\/goo.gl\/maps\/qrY1PNeUXGyXDcPy6",
+        "phone_code": "+60",
+        "demonyms": {
+            "f": "Malaisienne",
+            "m": "Malaisien"
+        },
+        "code": "MY",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 162,
+        "name": "Malawi",
+        "official_name": "République du Malawi",
+        "flag": "https:\/\/flagcdn.com\/w320\/mw.png",
+        "maps": "https:\/\/goo.gl\/maps\/mc6z83pW9m98X2Ef6",
+        "phone_code": "+265",
+        "demonyms": {
+            "f": "Malawienne",
+            "m": "Malawien"
+        },
+        "code": "MW",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 227,
+        "name": "Maldives",
+        "official_name": "République des Maldives",
+        "flag": "https:\/\/flagcdn.com\/w320\/mv.png",
+        "maps": "https:\/\/goo.gl\/maps\/MNAWGq9vEdbZ9vUV7",
+        "phone_code": "+960",
+        "demonyms": {
+            "f": "Maldivienne",
+            "m": "Maldivien"
+        },
+        "code": "MV",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 136,
+        "name": "Mali",
+        "official_name": "République du Mali",
+        "flag": "https:\/\/flagcdn.com\/w320\/ml.png",
+        "maps": "https:\/\/goo.gl\/maps\/u9mYJkCB19wyuzh27",
+        "phone_code": "+223",
+        "demonyms": {
+            "f": "Malienne",
+            "m": "Malien"
+        },
+        "code": "ML",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 172,
+        "name": "Malte",
+        "official_name": "République de Malte",
+        "flag": "https:\/\/flagcdn.com\/w320\/mt.png",
+        "maps": "https:\/\/goo.gl\/maps\/skXCqguxDxxEKVk47",
+        "phone_code": "+356",
+        "demonyms": {
+            "f": "Maltaise",
+            "m": "Maltais"
+        },
+        "code": "MT",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 33,
+        "name": "Maroc",
+        "official_name": "Royaume du Maroc",
+        "flag": "https:\/\/flagcdn.com\/w320\/ma.png",
+        "maps": "https:\/\/goo.gl\/maps\/6oMv3dyBZg3iaXQ5A",
+        "phone_code": "+212",
+        "demonyms": {
+            "f": "Marocaine",
+            "m": "Marocain"
+        },
+        "code": "MA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 5,
+        "name": "Martinique",
+        "official_name": "Martinique",
+        "flag": "https:\/\/flagcdn.com\/w320\/mq.png",
+        "maps": "https:\/\/goo.gl\/maps\/87ER7sDAFU7JjcvR6",
+        "phone_code": "+596",
+        "demonyms": {
+            "f": "Martiniquaise",
+            "m": "Martiniquais"
+        },
+        "code": "MQ",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 37,
+        "name": "Mauritanie",
+        "official_name": "République islamique de Mauritanie",
+        "flag": "https:\/\/flagcdn.com\/w320\/mr.png",
+        "maps": "https:\/\/goo.gl\/maps\/im2MmQ5jFjzxWBks5",
+        "phone_code": "+222",
+        "demonyms": {
+            "f": "Mauritanienne",
+            "m": "Mauritanien"
+        },
+        "code": "MR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 176,
+        "name": "Mayotte",
+        "official_name": "Département de Mayotte",
+        "flag": "https:\/\/flagcdn.com\/w320\/yt.png",
+        "maps": "https:\/\/goo.gl\/maps\/1e7MXmfBwQv3TQGF7",
+        "phone_code": "+262",
+        "demonyms": {
+            "f": "Mahoraise",
+            "m": "Mahorais"
+        },
+        "code": "YT",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 239,
+        "name": "Mexique",
+        "official_name": "États-Unis du Mexique",
+        "flag": "https:\/\/flagcdn.com\/w320\/mx.png",
+        "maps": "https:\/\/goo.gl\/maps\/s5g7imNPMDEePxzbA",
+        "phone_code": "+52",
+        "demonyms": {
+            "f": "Mexicaine",
+            "m": "Mexicain"
+        },
+        "code": "MX",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 197,
+        "name": "Micronésie",
+        "official_name": "États fédérés de Micronésie",
+        "flag": "https:\/\/flagcdn.com\/w320\/fm.png",
+        "maps": "https:\/\/goo.gl\/maps\/LLcnofC5LxZsJXTo8",
+        "phone_code": "+691",
+        "demonyms": {
+            "f": "Micronésienne",
+            "m": "Micronésien"
+        },
+        "code": "FM",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 185,
+        "name": "Moldavie",
+        "official_name": "République de Moldavie",
+        "flag": "https:\/\/flagcdn.com\/w320\/md.png",
+        "maps": "https:\/\/goo.gl\/maps\/JjmyUuULujnDeFPf7",
+        "phone_code": "+373",
+        "demonyms": {
+            "f": "Moldave",
+            "m": "Moldave"
+        },
+        "code": "MD",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 229,
+        "name": "Monaco",
+        "official_name": "Principauté de Monaco",
+        "flag": "https:\/\/flagcdn.com\/w320\/mc.png",
+        "maps": "https:\/\/goo.gl\/maps\/DGpndDot28bYdXYn7",
+        "phone_code": "+377",
+        "demonyms": {
+            "f": "Monégasque",
+            "m": "Monégasque"
+        },
+        "code": "MC",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 19,
+        "name": "Mongolie",
+        "official_name": "Mongolie",
+        "flag": "https:\/\/flagcdn.com\/w320\/mn.png",
+        "maps": "https:\/\/goo.gl\/maps\/A1X7bMCKThBDNjzH6",
+        "phone_code": "+976",
+        "demonyms": {
+            "f": "Mongole",
+            "m": "Mongol"
+        },
+        "code": "MN",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 208,
+        "name": "Monténégro",
+        "official_name": "Monténégro",
+        "flag": "https:\/\/flagcdn.com\/w320\/me.png",
+        "maps": "https:\/\/goo.gl\/maps\/4THX1fM7WqANuPbB8",
+        "phone_code": "+382",
+        "demonyms": {
+            "f": "Monténégrine",
+            "m": "Monténégrin"
+        },
+        "code": "ME",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 24,
+        "name": "Montserrat",
+        "official_name": "Montserrat",
+        "flag": "https:\/\/flagcdn.com\/w320\/ms.png",
+        "maps": "https:\/\/goo.gl\/maps\/CSbe7UmxPmiwQB7GA",
+        "phone_code": "+1664",
+        "demonyms": {
+            "f": "Montserratienne",
+            "m": "Montserratien"
+        },
+        "code": "MS",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 175,
+        "name": "Mozambique",
+        "official_name": "République du Mozambique",
+        "flag": "https:\/\/flagcdn.com\/w320\/mz.png",
+        "maps": "https:\/\/goo.gl\/maps\/xCLcY9fzU6x4Pueu5",
+        "phone_code": "+258",
+        "demonyms": {
+            "f": "Mozambicaine",
+            "m": "Mozambicain"
+        },
+        "code": "MZ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 57,
+        "name": "Namibie",
+        "official_name": "République de Namibie",
+        "flag": "https:\/\/flagcdn.com\/w320\/na.png",
+        "maps": "https:\/\/goo.gl\/maps\/oR1i8BFEYX3EY83WA",
+        "phone_code": "+264",
+        "demonyms": {
+            "f": "Namibienne",
+            "m": "Namibien"
+        },
+        "code": "NA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 22,
+        "name": "Nauru",
+        "official_name": "République de Nauru",
+        "flag": "https:\/\/flagcdn.com\/w320\/nr.png",
+        "maps": "https:\/\/goo.gl\/maps\/kyAGw6XEJgjSMsTK7",
+        "phone_code": "+674",
+        "demonyms": {
+            "f": "Nauruane",
+            "m": "Nauruan"
+        },
+        "code": "NR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 90,
+        "name": "Népal",
+        "official_name": "République du Népal",
+        "flag": "https:\/\/flagcdn.com\/w320\/np.png",
+        "maps": "https:\/\/goo.gl\/maps\/UMj2zpbQp7B5c3yT7",
+        "phone_code": "+977",
+        "demonyms": {
+            "f": "Népalaise",
+            "m": "Népalais"
+        },
+        "code": "NP",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 194,
+        "name": "Nicaragua",
+        "official_name": "République du Nicaragua",
+        "flag": "https:\/\/flagcdn.com\/w320\/ni.png",
+        "maps": "https:\/\/goo.gl\/maps\/P77LaEVkKJKXneRC6",
+        "phone_code": "+505",
+        "demonyms": {
+            "f": "Nicaraguayenne",
+            "m": "Nicaraguayen"
+        },
+        "code": "NI",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 152,
+        "name": "Niger",
+        "official_name": "République du Niger",
+        "flag": "https:\/\/flagcdn.com\/w320\/ne.png",
+        "maps": "https:\/\/goo.gl\/maps\/VKNU2TLsZcgxM49c8",
+        "phone_code": "+227",
+        "demonyms": {
+            "f": "Nigérienne",
+            "m": "Nigérien"
+        },
+        "code": "NE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 81,
+        "name": "Nigéria",
+        "official_name": "République fédérale du Nigeria",
+        "flag": "https:\/\/flagcdn.com\/w320\/ng.png",
+        "maps": "https:\/\/goo.gl\/maps\/LTn417qWwBPFszuV9",
+        "phone_code": "+234",
+        "demonyms": {
+            "f": "Nigériane",
+            "m": "Nigérian"
+        },
+        "code": "NG",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 83,
+        "name": "Niue",
+        "official_name": "Niue",
+        "flag": "https:\/\/flagcdn.com\/w320\/nu.png",
+        "maps": "https:\/\/goo.gl\/maps\/xFgdzs3E55Rk1y8P9",
+        "phone_code": "+683",
+        "demonyms": {
+            "f": "Niuéenne",
+            "m": "Niuéen"
+        },
+        "code": "NU",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 101,
+        "name": "Norvège",
+        "official_name": "Royaume de Norvège",
+        "flag": "https:\/\/flagcdn.com\/w320\/no.png",
+        "maps": "https:\/\/goo.gl\/maps\/htWRrphA7vNgQNdSA",
+        "phone_code": "+47",
+        "demonyms": {
+            "f": "Norvégienne",
+            "m": "Norvégien"
+        },
+        "code": "NO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 84,
+        "name": "Nouvelle-Calédonie",
+        "official_name": "Nouvelle-Calédonie",
+        "flag": "https:\/\/flagcdn.com\/w320\/nc.png",
+        "maps": "https:\/\/goo.gl\/maps\/cBhtCeMdob4U7FRU9",
+        "phone_code": "+687",
+        "demonyms": {
+            "f": "Néo-Calédonienne",
+            "m": "Néo-Calédonien"
+        },
+        "code": "NC",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 158,
+        "name": "Nouvelle-Zélande",
+        "official_name": "Nouvelle-Zélande",
+        "flag": "https:\/\/flagcdn.com\/w320\/nz.png",
+        "maps": "https:\/\/goo.gl\/maps\/xXiDQo65dwdpw9iu8",
+        "phone_code": "+64",
+        "demonyms": {
+            "f": "Neo-Zélandaise",
+            "m": "Neo-Zélandais"
+        },
+        "code": "NZ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 62,
+        "name": "Oman",
+        "official_name": "Sultanat d'Oman",
+        "flag": "https:\/\/flagcdn.com\/w320\/om.png",
+        "maps": "https:\/\/goo.gl\/maps\/L2BoXoAwDDwWecnw5",
+        "phone_code": "+968",
+        "demonyms": {
+            "f": "Omanaise",
+            "m": "Omanais"
+        },
+        "code": "OM",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 16,
+        "name": "Ouganda",
+        "official_name": "République de l'Ouganda",
+        "flag": "https:\/\/flagcdn.com\/w320\/ug.png",
+        "maps": "https:\/\/goo.gl\/maps\/Y7812hFiGa8LD9N68",
+        "phone_code": "+256",
+        "demonyms": {
+            "f": "Ougandaise",
+            "m": "Ougandais"
+        },
+        "code": "UG",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 210,
+        "name": "Ouzbékistan",
+        "official_name": "République d'Ouzbékistan",
+        "flag": "https:\/\/flagcdn.com\/w320\/uz.png",
+        "maps": "https:\/\/goo.gl\/maps\/AJpo6MjMx23qSWCz8",
+        "phone_code": "+998",
+        "demonyms": {
+            "f": "Ouzbèke",
+            "m": "Ouzbèke"
+        },
+        "code": "UZ",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 160,
+        "name": "Pakistan",
+        "official_name": "République islamique du Pakistan",
+        "flag": "https:\/\/flagcdn.com\/w320\/pk.png",
+        "maps": "https:\/\/goo.gl\/maps\/5LYujdfR5yLUXoERA",
+        "phone_code": "+92",
+        "demonyms": {
+            "f": "Pakistanaise",
+            "m": "Pakistanais"
+        },
+        "code": "PK",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 35,
+        "name": "Palaos (Palau)",
+        "official_name": "République des Palaos (Palau)",
+        "flag": "https:\/\/flagcdn.com\/w320\/pw.png",
+        "maps": "https:\/\/goo.gl\/maps\/MVasQBbUkQP7qQDR9",
+        "phone_code": "+680",
+        "demonyms": {
+            "f": "Paluane",
+            "m": "Paluan"
+        },
+        "code": "PW",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 198,
+        "name": "Palestine",
+        "official_name": "État de Palestine",
+        "flag": "https:\/\/flagcdn.com\/w320\/ps.png",
+        "maps": "https:\/\/goo.gl\/maps\/QvTbkRdmdWEoYAmt5",
+        "phone_code": "+970",
+        "demonyms": {
+            "f": "Palestinienne",
+            "m": "Palestinien"
+        },
+        "code": "PS",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 73,
+        "name": "Panama",
+        "official_name": "République du Panama",
+        "flag": "https:\/\/flagcdn.com\/w320\/pa.png",
+        "maps": "https:\/\/goo.gl\/maps\/sEN7sKqeawa5oPNLA",
+        "phone_code": "+507",
+        "demonyms": {
+            "f": "Panaméenne",
+            "m": "Panaméen"
+        },
+        "code": "PA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 245,
+        "name": "Papouasie-Nouvelle-Guinée",
+        "official_name": "État indépendant de Papouasie-Nouvelle-Guinée",
+        "flag": "https:\/\/flagcdn.com\/w320\/pg.png",
+        "maps": "https:\/\/goo.gl\/maps\/ChGmzZBjZ3vnBwR2A",
+        "phone_code": "+675",
+        "demonyms": {
+            "f": "Papouasienne",
+            "m": "Papouasien"
+        },
+        "code": "PG",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 2,
+        "name": "Paraguay",
+        "official_name": "République du Paraguay",
+        "flag": "https:\/\/flagcdn.com\/w320\/py.png",
+        "maps": "https:\/\/goo.gl\/maps\/JtnqG73WJn1Gx6mz6",
+        "phone_code": "+595",
+        "demonyms": {
+            "f": "Paraguayenne",
+            "m": "Paraguayen"
+        },
+        "code": "PY",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 88,
+        "name": "Pays-Bas",
+        "official_name": "Pays-Bas",
+        "flag": "https:\/\/flagcdn.com\/w320\/nl.png",
+        "maps": "https:\/\/goo.gl\/maps\/Hv6zQswGhFxoVVBm6",
+        "phone_code": "+31",
+        "demonyms": {
+            "f": "Néerlandaise",
+            "m": "Néerlandais"
+        },
+        "code": "NL",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 55,
+        "name": "Pays-Bas caribéens",
+        "official_name": "Bonaire, Saint-Eustache et Saba",
+        "flag": "https:\/\/flagcdn.com\/w320\/bq.png",
+        "maps": "https:\/\/goo.gl\/maps\/4XVes1P6uEDTz77WA",
+        "phone_code": "+599",
+        "demonyms": {
+            "f": "Néerlandaise",
+            "m": "Néerlandais"
+        },
+        "code": "BQ",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 149,
+        "name": "Pérou",
+        "official_name": "République du Pérou",
+        "flag": "https:\/\/flagcdn.com\/w320\/pe.png",
+        "maps": "https:\/\/goo.gl\/maps\/uDWEUaXNcZTng1fP6",
+        "phone_code": "+51",
+        "demonyms": {
+            "f": "Péruvienne",
+            "m": "Péruvien"
+        },
+        "code": "PE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 164,
+        "name": "Philippines",
+        "official_name": "République des Philippines",
+        "flag": "https:\/\/flagcdn.com\/w320\/ph.png",
+        "maps": "https:\/\/goo.gl\/maps\/k8T2fb5VMUfsWFX6A",
+        "phone_code": "+63",
+        "demonyms": {
+            "f": "Philippine",
+            "m": "Philippin"
+        },
+        "code": "PH",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 82,
+        "name": "Pologne",
+        "official_name": "République de Pologne",
+        "flag": "https:\/\/flagcdn.com\/w320\/pl.png",
+        "maps": "https:\/\/goo.gl\/maps\/gY9Xw4Sf4415P4949",
+        "phone_code": "+48",
+        "demonyms": {
+            "f": "Polonaise",
+            "m": "Polonais"
+        },
+        "code": "PL",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 120,
+        "name": "Polynésie française",
+        "official_name": "Polynésie française",
+        "flag": "https:\/\/flagcdn.com\/w320\/pf.png",
+        "maps": "https:\/\/goo.gl\/maps\/xgg6BQTRyeQg4e1m6",
+        "phone_code": "+689",
+        "demonyms": {
+            "f": "Polynésienne",
+            "m": "Polynésien"
+        },
+        "code": "PF",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 48,
+        "name": "Porto Rico",
+        "official_name": "Porto Rico",
+        "flag": "https:\/\/flagcdn.com\/w320\/pr.png",
+        "maps": "https:\/\/goo.gl\/maps\/sygfDbtwn389wu8x5",
+        "phone_code": "+1",
+        "demonyms": {
+            "f": "Portoricaine",
+            "m": "Portoricain"
+        },
+        "code": "PR",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 247,
+        "name": "Portugal",
+        "official_name": "République portugaise",
+        "flag": "https:\/\/flagcdn.com\/w320\/pt.png",
+        "maps": "https:\/\/goo.gl\/maps\/BaTBSyc4GWMmbAKB8",
+        "phone_code": "+351",
+        "demonyms": {
+            "f": "Portugaise",
+            "m": "Portugais"
+        },
+        "code": "PT",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 17,
+        "name": "Qatar",
+        "official_name": "État du Qatar",
+        "flag": "https:\/\/flagcdn.com\/w320\/qa.png",
+        "maps": "https:\/\/goo.gl\/maps\/ZV76Y49z7LLUZ2KQ6",
+        "phone_code": "+974",
+        "demonyms": {
+            "f": "Qatarienne",
+            "m": "Qatarien"
+        },
+        "code": "QA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 242,
+        "name": "République centrafricaine",
+        "official_name": "République centrafricaine",
+        "flag": "https:\/\/flagcdn.com\/w320\/cf.png",
+        "maps": "https:\/\/goo.gl\/maps\/51V8dsi2rGYC9n3c9",
+        "phone_code": "+236",
+        "demonyms": {
+            "f": "Centrafricaine",
+            "m": "Centrafricain"
+        },
+        "code": "CF",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 169,
+        "name": "République dominicaine",
+        "official_name": "République Dominicaine",
+        "flag": "https:\/\/flagcdn.com\/w320\/do.png",
+        "maps": "https:\/\/goo.gl\/maps\/soxooTHxEeiAbn3UA",
+        "phone_code": "+1",
+        "demonyms": {
+            "f": "Dominicaine",
+            "m": "Dominicain"
+        },
+        "code": "DO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 23,
+        "name": "Réunion",
+        "official_name": "Ile de la Réunion",
+        "flag": "https:\/\/flagcdn.com\/w320\/re.png",
+        "maps": "https:\/\/goo.gl\/maps\/wWpBrXsp8UHVbah29",
+        "phone_code": "+262",
+        "demonyms": {
+            "f": "Réunionnaise",
+            "m": "Réunionnais"
+        },
+        "code": "RE",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 168,
+        "name": "Roumanie",
+        "official_name": "Roumanie",
+        "flag": "https:\/\/flagcdn.com\/w320\/ro.png",
+        "maps": "https:\/\/goo.gl\/maps\/845hAgCf1mDkN3vr7",
+        "phone_code": "+40",
+        "demonyms": {
+            "f": "Roumaine",
+            "m": "Roumain"
+        },
+        "code": "RO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 67,
+        "name": "Royaume-Uni",
+        "official_name": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
+        "flag": "https:\/\/flagcdn.com\/w320\/gb.png",
+        "maps": "https:\/\/goo.gl\/maps\/FoDtc3UKMkFsXAjHA",
+        "phone_code": "+44",
+        "demonyms": {
+            "f": "Britannique",
+            "m": "Britannique"
+        },
+        "code": "GB",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 43,
+        "name": "Russie",
+        "official_name": "Fédération de Russie",
+        "flag": "https:\/\/flagcdn.com\/w320\/ru.png",
+        "maps": "https:\/\/goo.gl\/maps\/4F4PpDhGJgVvLby57",
+        "phone_code": "+7",
+        "demonyms": {
+            "f": "Russe",
+            "m": "Russe"
+        },
+        "code": "RU",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 110,
+        "name": "Rwanda",
+        "official_name": "République rwandaise",
+        "flag": "https:\/\/flagcdn.com\/w320\/rw.png",
+        "maps": "https:\/\/goo.gl\/maps\/j5xb5r7CLqjYbyP86",
+        "phone_code": "+250",
+        "demonyms": {
+            "f": "Rwandaise",
+            "m": "Rwandais"
+        },
+        "code": "RW",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 115,
+        "name": "Sahara Occidental",
+        "official_name": "République arabe sahraouie démocratique",
+        "flag": "https:\/\/flagcdn.com\/w320\/eh.png",
+        "maps": "https:\/\/goo.gl\/maps\/7nU3mB69vP6zQp7A8",
+        "phone_code": "+2",
+        "demonyms": [],
+        "code": "EH",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 124,
+        "name": "Saint-Barthélemy",
+        "official_name": "Collectivité de Saint-Barthélemy",
+        "flag": "https:\/\/flagcdn.com\/w320\/bl.png",
+        "maps": "https:\/\/goo.gl\/maps\/Mc7GqH466S7AAk297",
+        "phone_code": "+590",
+        "demonyms": {
+            "f": "Barthéloméenne",
+            "m": "Barthéloméen"
+        },
+        "code": "BL",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 61,
+        "name": "Saint-Christophe-et-Niévès",
+        "official_name": "Fédération de Saint-Christophe-et-Niévès",
+        "flag": "https:\/\/flagcdn.com\/w320\/kn.png",
+        "maps": "https:\/\/goo.gl\/maps\/qiaVwcLVTXX3eoTNA",
+        "phone_code": "+1869",
+        "demonyms": {
+            "f": "Kittitienne-et-nevicienne",
+            "m": "Kittitien-et-nevicien"
+        },
+        "code": "KN",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 184,
+        "name": "Saint-Marin",
+        "official_name": "République de Saint-Marin",
+        "flag": "https:\/\/flagcdn.com\/w320\/sm.png",
+        "maps": "https:\/\/goo.gl\/maps\/rxCVJjm8dVY93RPY8",
+        "phone_code": "+378",
+        "demonyms": {
+            "f": "Saint-Marinaise",
+            "m": "Saint-Marinais"
+        },
+        "code": "SM",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 56,
+        "name": "Saint-Martin",
+        "official_name": "Sint Maarten",
+        "flag": "https:\/\/flagcdn.com\/w320\/sx.png",
+        "maps": "https:\/\/goo.gl\/maps\/DjvcESy1a1oGEZuNA",
+        "phone_code": "+1721",
+        "demonyms": {
+            "f": "Saint-Martinoise",
+            "m": "Saint-Martinois"
+        },
+        "code": "SX",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 249,
+        "name": "Saint-Martin",
+        "official_name": "Saint-Martin",
+        "flag": "https:\/\/flagcdn.com\/w320\/mf.png",
+        "maps": "https:\/\/goo.gl\/maps\/P9ho9QuJ9EAR28JEA",
+        "phone_code": "+590",
+        "demonyms": {
+            "f": "Saint-Martinoise",
+            "m": "Saint-Martinois"
+        },
+        "code": "MF",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 27,
+        "name": "Saint-Pierre-et-Miquelon",
+        "official_name": "Saint-Pierre-et-Miquelon",
+        "flag": "https:\/\/flagcdn.com\/w320\/pm.png",
+        "maps": "https:\/\/goo.gl\/maps\/bUM8Yc8pA8ghyhmt6",
+        "phone_code": "+508",
+        "demonyms": {
+            "f": "Saint-Pierraise, Miquelonaise",
+            "m": "Saint-Pierrais, Miquelonais"
+        },
+        "code": "PM",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 187,
+        "name": "Saint-Vincent-et-les-Grenadines",
+        "official_name": "Saint-Vincent-et-les Grenadines",
+        "flag": "https:\/\/flagcdn.com\/w320\/vc.png",
+        "maps": "https:\/\/goo.gl\/maps\/wMbnMqjG37FMnrwf7",
+        "phone_code": "+1784",
+        "demonyms": {
+            "f": "Vincentaise",
+            "m": "Vincentais"
+        },
+        "code": "VC",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 240,
+        "name": "Sainte-Hélène, Ascension et Tristan da Cunha",
+        "official_name": "Sainte-Hélène, Ascension et Tristan da Cunha",
+        "flag": "https:\/\/flagcdn.com\/w320\/sh.png",
+        "maps": "https:\/\/goo.gl\/maps\/iv4VxnPzHkjLCJuc6",
+        "phone_code": "+2",
+        "demonyms": {
+            "f": "Sainte-Hélénoise",
+            "m": "Sainte-Hélènois"
+        },
+        "code": "SH",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 209,
+        "name": "Sainte-Lucie",
+        "official_name": "Sainte-Lucie",
+        "flag": "https:\/\/flagcdn.com\/w320\/lc.png",
+        "maps": "https:\/\/goo.gl\/maps\/4HhJ2jkPdSL9BPRcA",
+        "phone_code": "+1758",
+        "demonyms": {
+            "f": "Saint-Lucienne",
+            "m": "Saint-Lucien"
+        },
+        "code": "LC",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 191,
+        "name": "Salvador",
+        "official_name": "République du Salvador",
+        "flag": "https:\/\/flagcdn.com\/w320\/sv.png",
+        "maps": "https:\/\/goo.gl\/maps\/cZnCEi5sEMQtKKcB7",
+        "phone_code": "+503",
+        "demonyms": {
+            "f": "Salvadorienne",
+            "m": "Salvadorien"
+        },
+        "code": "SV",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 143,
+        "name": "Samoa",
+        "official_name": "Samoa",
+        "flag": "https:\/\/flagcdn.com\/w320\/ws.png",
+        "maps": "https:\/\/goo.gl\/maps\/CFC9fEFP9cfkYUBF9",
+        "phone_code": "+685",
+        "demonyms": {
+            "f": "Samoane",
+            "m": "Samoan"
+        },
+        "code": "WS",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 151,
+        "name": "Samoa américaines",
+        "official_name": "Samoa américaines",
+        "flag": "https:\/\/flagcdn.com\/w320\/as.png",
+        "maps": "https:\/\/goo.gl\/maps\/Re9ePMjwP1sFCBFA6",
+        "phone_code": "+1684",
+        "demonyms": {
+            "f": "Samoane",
+            "m": "Samoan"
+        },
+        "code": "AS",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 146,
+        "name": "São Tomé et Príncipe",
+        "official_name": "République démocratique de São Tomé et Príncipe",
+        "flag": "https:\/\/flagcdn.com\/w320\/st.png",
+        "maps": "https:\/\/goo.gl\/maps\/9EUppm13RtPX9oF46",
+        "phone_code": "+239",
+        "demonyms": {
+            "f": "Santoméenne",
+            "m": "Santoméen"
+        },
+        "code": "ST",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 60,
+        "name": "Sénégal",
+        "official_name": "République du Sénégal",
+        "flag": "https:\/\/flagcdn.com\/w320\/sn.png",
+        "maps": "https:\/\/goo.gl\/maps\/o5f1uD5nyihCL3HCA",
+        "phone_code": "+221",
+        "demonyms": {
+            "f": "Sénégalaise",
+            "m": "Sénégalais"
+        },
+        "code": "SN",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 131,
+        "name": "Serbie",
+        "official_name": "République de Serbie",
+        "flag": "https:\/\/flagcdn.com\/w320\/rs.png",
+        "maps": "https:\/\/goo.gl\/maps\/2Aqof7aV2Naq8YEK8",
+        "phone_code": "+381",
+        "demonyms": {
+            "f": "Serbe",
+            "m": "Serbe"
+        },
+        "code": "RS",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 237,
+        "name": "Seychelles",
+        "official_name": "République des Seychelles",
+        "flag": "https:\/\/flagcdn.com\/w320\/sc.png",
+        "maps": "https:\/\/goo.gl\/maps\/aqCcy2TKh5TV5MAX8",
+        "phone_code": "+248",
+        "demonyms": {
+            "f": "Seychelloise",
+            "m": "Seychellois"
+        },
+        "code": "SC",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 241,
+        "name": "Sierra Leone",
+        "official_name": "République de Sierra Leone",
+        "flag": "https:\/\/flagcdn.com\/w320\/sl.png",
+        "maps": "https:\/\/goo.gl\/maps\/jhacar85oq9QaeKB7",
+        "phone_code": "+232",
+        "demonyms": {
+            "f": "Sierra-leonaise",
+            "m": "Sierra-leonais"
+        },
+        "code": "SL",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 228,
+        "name": "Singapour",
+        "official_name": "République de Singapour",
+        "flag": "https:\/\/flagcdn.com\/w320\/sg.png",
+        "maps": "https:\/\/goo.gl\/maps\/QbQt9Y9b5KFzsahV6",
+        "phone_code": "+65",
+        "demonyms": {
+            "f": "Singapourienne",
+            "m": "Singapourien"
+        },
+        "code": "SG",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 123,
+        "name": "Slovaquie",
+        "official_name": "République slovaque",
+        "flag": "https:\/\/flagcdn.com\/w320\/sk.png",
+        "maps": "https:\/\/goo.gl\/maps\/uNSH2wW4bLoZVYJj7",
+        "phone_code": "+421",
+        "demonyms": {
+            "f": "Slovaque",
+            "m": "Slovaque"
+        },
+        "code": "SK",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 178,
+        "name": "Slovénie",
+        "official_name": "République de Slovénie",
+        "flag": "https:\/\/flagcdn.com\/w320\/si.png",
+        "maps": "https:\/\/goo.gl\/maps\/7zgFmswcCJh5L5D49",
+        "phone_code": "+386",
+        "demonyms": {
+            "f": "Slovène",
+            "m": "Slovène"
+        },
+        "code": "SI",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 195,
+        "name": "Somalie",
+        "official_name": "République fédérale de Somalie",
+        "flag": "https:\/\/flagcdn.com\/w320\/so.png",
+        "maps": "https:\/\/goo.gl\/maps\/8of8q7D1a8p7R6Fc9",
+        "phone_code": "+252",
+        "demonyms": {
+            "f": "Somalienne",
+            "m": "Somalien"
+        },
+        "code": "SO",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 121,
+        "name": "Soudan",
+        "official_name": "République du Soudan",
+        "flag": "https:\/\/flagcdn.com\/w320\/sd.png",
+        "maps": "https:\/\/goo.gl\/maps\/bNW7YUJCaqR8zcXn7",
+        "phone_code": "+249",
+        "demonyms": {
+            "f": "Soudanaise",
+            "m": "Soudanais"
+        },
+        "code": "SD",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 95,
+        "name": "Soudan du Sud",
+        "official_name": "République du Soudan du Sud",
+        "flag": "https:\/\/flagcdn.com\/w320\/ss.png",
+        "maps": "https:\/\/goo.gl\/maps\/Zm1AYCXb9HSNF1P27",
+        "phone_code": "+211",
+        "demonyms": {
+            "f": "Sud-Soudanaise",
+            "m": "Sud-Soudanais"
+        },
+        "code": "SS",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 190,
+        "name": "Sri Lanka",
+        "official_name": "République démocratique socialiste du Sri Lanka",
+        "flag": "https:\/\/flagcdn.com\/w320\/lk.png",
+        "maps": "https:\/\/goo.gl\/maps\/VkPHoeFSfgzRQCDv8",
+        "phone_code": "+94",
+        "demonyms": {
+            "f": "Sri-lankaise",
+            "m": "Sri-lankais"
+        },
+        "code": "LK",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 105,
+        "name": "Suède",
+        "official_name": "Royaume de Suède",
+        "flag": "https:\/\/flagcdn.com\/w320\/se.png",
+        "maps": "https:\/\/goo.gl\/maps\/iqygE491ADVgnBW39",
+        "phone_code": "+46",
+        "demonyms": {
+            "f": "Suédoise",
+            "m": "Suédois"
+        },
+        "code": "SE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 216,
+        "name": "Suisse",
+        "official_name": "Confédération suisse",
+        "flag": "https:\/\/flagcdn.com\/w320\/ch.png",
+        "maps": "https:\/\/goo.gl\/maps\/uVuZcXaxSx5jLyEC9",
+        "phone_code": "+41",
+        "demonyms": {
+            "f": "Suisse",
+            "m": "Suisse"
+        },
+        "code": "CH",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 150,
+        "name": "Surinam",
+        "official_name": "République du Suriname",
+        "flag": "https:\/\/flagcdn.com\/w320\/sr.png",
+        "maps": "https:\/\/goo.gl\/maps\/iy7TuQLSi4qgoBoG7",
+        "phone_code": "+597",
+        "demonyms": {
+            "f": "Surinamaise",
+            "m": "Surinamais"
+        },
+        "code": "SR",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 142,
+        "name": "Svalbard et Jan Mayen",
+        "official_name": "Jan Mayen Svalbard",
+        "flag": "https:\/\/flagcdn.com\/w320\/sj.png",
+        "maps": "https:\/\/goo.gl\/maps\/L2wyyn3cQ16PzQ5J8",
+        "phone_code": "+4779",
+        "demonyms": [],
+        "code": "SJ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 205,
+        "name": "Swaziland",
+        "official_name": "Royaume d’Eswatini",
+        "flag": "https:\/\/flagcdn.com\/w320\/sz.png",
+        "maps": "https:\/\/goo.gl\/maps\/cUY79eqQihFSE8hV6",
+        "phone_code": "+268",
+        "demonyms": {
+            "f": "Swazie",
+            "m": "Swazie"
+        },
+        "code": "SZ",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 111,
+        "name": "Syrie",
+        "official_name": "République arabe syrienne",
+        "flag": "https:\/\/flagcdn.com\/w320\/sy.png",
+        "maps": "https:\/\/goo.gl\/maps\/Xe3VnFbwdb4nv2SM9",
+        "phone_code": "+963",
+        "demonyms": {
+            "f": "Syrienne",
+            "m": "Syrien"
+        },
+        "code": "SY",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 132,
+        "name": "Tadjikistan",
+        "official_name": "République du Tadjikistan",
+        "flag": "https:\/\/flagcdn.com\/w320\/tj.png",
+        "maps": "https:\/\/goo.gl\/maps\/8rQgW88jEXijhVb58",
+        "phone_code": "+992",
+        "demonyms": {
+            "f": "Tadjike",
+            "m": "Tadjike"
+        },
+        "code": "TJ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 25,
+        "name": "Taïwan",
+        "official_name": "République de Chine (Taïwan)",
+        "flag": "https:\/\/flagcdn.com\/w320\/tw.png",
+        "maps": "https:\/\/goo.gl\/maps\/HgMKFQjNadF3Wa6B6",
+        "phone_code": "+886",
+        "demonyms": {
+            "f": "Taïwanaise",
+            "m": "Taïwanais"
+        },
+        "code": "TW",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 250,
+        "name": "Tanzanie",
+        "official_name": "République -Unie de Tanzanie",
+        "flag": "https:\/\/flagcdn.com\/w320\/tz.png",
+        "maps": "https:\/\/goo.gl\/maps\/NWYMqZYXte4zGZ2Q8",
+        "phone_code": "+255",
+        "demonyms": {
+            "f": "Tanzanienne",
+            "m": "Tanzanien"
+        },
+        "code": "TZ",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 211,
+        "name": "Tchad",
+        "official_name": "République du Tchad",
+        "flag": "https:\/\/flagcdn.com\/w320\/td.png",
+        "maps": "https:\/\/goo.gl\/maps\/ziUdAZ8skuNfx5Hx7",
+        "phone_code": "+235",
+        "demonyms": {
+            "f": "Tchadienne",
+            "m": "Tchadien"
+        },
+        "code": "TD",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 165,
+        "name": "Tchéquie",
+        "official_name": "République tchèque",
+        "flag": "https:\/\/flagcdn.com\/w320\/cz.png",
+        "maps": "https:\/\/goo.gl\/maps\/47dmgeXMZyhDHyQW8",
+        "phone_code": "+420",
+        "demonyms": {
+            "f": "Tchèque",
+            "m": "Tchèque"
+        },
+        "code": "CZ",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 79,
+        "name": "Terres australes et antarctiques françaises",
+        "official_name": "Territoire des Terres australes et antarctiques françaises",
+        "flag": "https:\/\/flagcdn.com\/w320\/tf.png",
+        "maps": "https:\/\/goo.gl\/maps\/6ua6CX1m4w1xF2Em7",
+        "phone_code": "+262",
+        "demonyms": {
+            "f": "Française",
+            "m": "Français"
+        },
+        "code": "TF",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 114,
+        "name": "Territoire britannique de l'océan Indien",
+        "official_name": "Territoire britannique de l' océan Indien",
+        "flag": "https:\/\/flagcdn.com\/w320\/io.png",
+        "maps": "https:\/\/goo.gl\/maps\/bheNucgekVEYozoi6",
+        "phone_code": "+246",
+        "demonyms": [],
+        "code": "IO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 153,
+        "name": "Thaïlande",
+        "official_name": "Royaume de Thaïlande",
+        "flag": "https:\/\/flagcdn.com\/w320\/th.png",
+        "maps": "https:\/\/goo.gl\/maps\/qeU6uqsfW4nCCwzw9",
+        "phone_code": "+66",
+        "demonyms": {
+            "f": "Thaïlandaise",
+            "m": "Thaïlandais"
+        },
+        "code": "TH",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 18,
+        "name": "Timor oriental",
+        "official_name": "République démocratique du Timor oriental",
+        "flag": "https:\/\/flagcdn.com\/w320\/tl.png",
+        "maps": "https:\/\/goo.gl\/maps\/sFqBC9zjgUXPR1iTA",
+        "phone_code": "+670",
+        "demonyms": {
+            "f": "Est-timoraise",
+            "m": "Est-timorais"
+        },
+        "code": "TL",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 29,
+        "name": "Togo",
+        "official_name": "République togolaise",
+        "flag": "https:\/\/flagcdn.com\/w320\/tg.png",
+        "maps": "https:\/\/goo.gl\/maps\/jzAa9feXuXPrKVb89",
+        "phone_code": "+228",
+        "demonyms": {
+            "f": "Togolaise",
+            "m": "Togolais"
+        },
+        "code": "TG",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 161,
+        "name": "Tokelau",
+        "official_name": "Îles Tokelau",
+        "flag": "https:\/\/flagcdn.com\/w320\/tk.png",
+        "maps": "https:\/\/goo.gl\/maps\/Ap5qN8qien6pT9UN6",
+        "phone_code": "+690",
+        "demonyms": [],
+        "code": "TK",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 133,
+        "name": "Tonga",
+        "official_name": "Royaume des Tonga",
+        "flag": "https:\/\/flagcdn.com\/w320\/to.png",
+        "maps": "https:\/\/goo.gl\/maps\/p5YALBY2QdEzswRo7",
+        "phone_code": "+676",
+        "demonyms": {
+            "f": "Tonguienne",
+            "m": "Tonguien"
+        },
+        "code": "TO",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 77,
+        "name": "Trinité-et-Tobago",
+        "official_name": "République de Trinité-et-Tobago",
+        "flag": "https:\/\/flagcdn.com\/w320\/tt.png",
+        "maps": "https:\/\/goo.gl\/maps\/NrRfDEWoG8FGZqWY7",
+        "phone_code": "+1868",
+        "demonyms": {
+            "f": "Trinidadienne",
+            "m": "Trinidadien"
+        },
+        "code": "TT",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 224,
+        "name": "Tunisie",
+        "official_name": "République tunisienne",
+        "flag": "https:\/\/flagcdn.com\/w320\/tn.png",
+        "maps": "https:\/\/goo.gl\/maps\/KgUmpZdUuNRaougs8",
+        "phone_code": "+216",
+        "demonyms": {
+            "f": "Tunisienne",
+            "m": "Tunisien"
+        },
+        "code": "TN",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 199,
+        "name": "Turkménistan",
+        "official_name": "Turkménistan",
+        "flag": "https:\/\/flagcdn.com\/w320\/tm.png",
+        "maps": "https:\/\/goo.gl\/maps\/cgfUcaQHSWKuqeKk9",
+        "phone_code": "+993",
+        "demonyms": {
+            "f": "Turkmène",
+            "m": "Turkmène"
+        },
+        "code": "TM",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 173,
+        "name": "Turquie",
+        "official_name": "République de Turquie",
+        "flag": "https:\/\/flagcdn.com\/w320\/tr.png",
+        "maps": "https:\/\/goo.gl\/maps\/dXFFraiUDfcB6Quk6",
+        "phone_code": "+90",
+        "demonyms": {
+            "f": "Turque",
+            "m": "Turc"
+        },
+        "code": "TR",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 154,
+        "name": "Tuvalu",
+        "official_name": "Tuvalu",
+        "flag": "https:\/\/flagcdn.com\/w320\/tv.png",
+        "maps": "https:\/\/goo.gl\/maps\/LbuUxtkgm1dfN1Pn6",
+        "phone_code": "+688",
+        "demonyms": {
+            "f": "Tuvaluane",
+            "m": "Tuvaluan"
+        },
+        "code": "TV",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 38,
+        "name": "Ukraine",
+        "official_name": "Ukraine",
+        "flag": "https:\/\/flagcdn.com\/w320\/ua.png",
+        "maps": "https:\/\/goo.gl\/maps\/DvgJMiPJ7aozKFZv7",
+        "phone_code": "+380",
+        "demonyms": {
+            "f": "Ukrainienne",
+            "m": "Ukrainien"
+        },
+        "code": "UA",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 1,
+        "name": "Uruguay",
+        "official_name": "République orientale de l'Uruguay",
+        "flag": "https:\/\/flagcdn.com\/w320\/uy.png",
+        "maps": "https:\/\/goo.gl\/maps\/tiQ9Baekb1jQtDSD9",
+        "phone_code": "+598",
+        "demonyms": {
+            "f": "Uruguayenne",
+            "m": "Uruguayen"
+        },
+        "code": "UY",
+        "created_at": "2022-05-12T17:35:21.000000Z",
+        "updated_at": "2022-05-12T17:35:21.000000Z"
+    },
+    {
+        "id": 138,
+        "name": "Vanuatu",
+        "official_name": "République de Vanuatu",
+        "flag": "https:\/\/flagcdn.com\/w320\/vu.png",
+        "maps": "https:\/\/goo.gl\/maps\/hwAjehcT7VfvP5zJ8",
+        "phone_code": "+678",
+        "demonyms": {
+            "f": "Vanuatuane",
+            "m": "Vanuatuan"
+        },
+        "code": "VU",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 119,
+        "name": "Venezuela",
+        "official_name": "République bolivarienne du Venezuela",
+        "flag": "https:\/\/flagcdn.com\/w320\/ve.png",
+        "maps": "https:\/\/goo.gl\/maps\/KLCwDN8sec7z2kse9",
+        "phone_code": "+58",
+        "demonyms": {
+            "f": "Vénézuélienne",
+            "m": "Vénézuélien"
+        },
+        "code": "VE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 202,
+        "name": "Viêt Nam",
+        "official_name": "République socialiste du Viêt Nam",
+        "flag": "https:\/\/flagcdn.com\/w320\/vn.png",
+        "maps": "https:\/\/goo.gl\/maps\/PCpVt9WzdJ9A9nEZ9",
+        "phone_code": "+84",
+        "demonyms": {
+            "f": "Vietnamienne",
+            "m": "Vietnamien"
+        },
+        "code": "VN",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 122,
+        "name": "Wallis-et-Futuna",
+        "official_name": "Territoire des îles Wallis et Futuna",
+        "flag": "https:\/\/flagcdn.com\/w320\/wf.png",
+        "maps": "https:\/\/goo.gl\/maps\/CzVqK74QYtbHv65r5",
+        "phone_code": "+681",
+        "demonyms": [],
+        "code": "WF",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 157,
+        "name": "Yémen",
+        "official_name": "République du Yémen",
+        "flag": "https:\/\/flagcdn.com\/w320\/ye.png",
+        "maps": "https:\/\/goo.gl\/maps\/WCmE76HKcLideQQw7",
+        "phone_code": "+967",
+        "demonyms": {
+            "f": "Yéménite",
+            "m": "Yéménite"
+        },
+        "code": "YE",
+        "created_at": "2022-05-12T17:35:22.000000Z",
+        "updated_at": "2022-05-12T17:35:22.000000Z"
+    },
+    {
+        "id": 206,
+        "name": "Zambie",
+        "official_name": "République de Zambie",
+        "flag": "https:\/\/flagcdn.com\/w320\/zm.png",
+        "maps": "https:\/\/goo.gl\/maps\/mweBcqvW8TppZW6q9",
+        "phone_code": "+260",
+        "demonyms": {
+            "f": "Zambienne",
+            "m": "Zambien"
+        },
+        "code": "ZM",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    },
+    {
+        "id": 226,
+        "name": "Zimbabwe",
+        "official_name": "République du Zimbabwe",
+        "flag": "https:\/\/flagcdn.com\/w320\/zw.png",
+        "maps": "https:\/\/goo.gl\/maps\/M26BqdwQctqxXS65A",
+        "phone_code": "+263",
+        "demonyms": {
+            "f": "Zimbabwéenne",
+            "m": "Zimbabwéen"
+        },
+        "code": "ZW",
+        "created_at": "2022-05-12T17:35:23.000000Z",
+        "updated_at": "2022-05-12T17:35:23.000000Z"
+    }
+]

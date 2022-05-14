@@ -24,4 +24,3 @@ docker-compose.yml
 *.http
 .DS_Store
 *.rdb
-*.sql

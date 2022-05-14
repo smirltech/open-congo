@@ -4,8 +4,6 @@
 /public/docs
 /storage/*.key
 /vendor
-/database
-/data
 .env
 .env.backup
 .phpunit.result.cache
@@ -26,4 +24,3 @@ docker-compose.yml
 *.http
 .DS_Store
 *.rdb
-*.sql

@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "nom": "kinshasa"
+    },
+    {
+        "id": 2,
+        "nom": "kongo central"
+    },
+    {
+        "id": 3,
+        "nom": "kwango"
+    },
+    {
+        "id": 4,
+        "nom": "kwilu"
+    },
+    {
+        "id": 5,
+        "nom": "mai ndombe"
+    },
+    {
+        "id": 6,
+        "nom": "equateur"
+    },
+    {
+        "id": 7,
+        "nom": "sud ubangi"
+    },
+    {
+        "id": 8,
+        "nom": "nord ubangi"
+    },
+    {
+        "id": 9,
+        "nom": "mongala"
+    },
+    {
+        "id": 10,
+        "nom": "tshuapa"
+    },
+    {
+        "id": 11,
+        "nom": "tshopo"
+    },
+    {
+        "id": 12,
+        "nom": "bas uele"
+    },
+    {
+        "id": 13,
+        "nom": "haut uele"
+    },
+    {
+        "id": 14,
+        "nom": "ituri"
+    },
+    {
+        "id": 15,
+        "nom": "nord kivu"
+    },
+    {
+        "id": 16,
+        "nom": "sud kivu"
+    },
+    {
+        "id": 17,
+        "nom": "maniema"
+    },
+    {
+        "id": 18,
+        "nom": "haut katanga"
+    },
+    {
+        "id": 19,
+        "nom": "lualaba"
+    },
+    {
+        "id": 20,
+        "nom": "haut lomami"
+    },
+    {
+        "id": 21,
+        "nom": "tanganyika"
+    },
+    {
+        "id": 22,
+        "nom": "kasai oriental"
+    },
+    {
+        "id": 23,
+        "nom": "sankuru"
+    },
+    {
+        "id": 24,
+        "nom": "lomami"
+    },
+    {
+        "id": 25,
+        "nom": "kasai central"
+    },
+    {
+        "id": 26,
+        "nom": "kasai"
+    }
+]

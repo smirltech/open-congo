@@ -1,0 +1,3 @@
+Dans le dossiers province, chaque image correspond a l'ID d'une province.
+
+label color normal = <!--"#8c4b3f"-->

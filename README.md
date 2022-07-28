@@ -23,6 +23,11 @@ Use this command in your terminal to run the application
 php artisan serve
 ``````
 
+### Contributors
+
+<a href="https://github.com/smirltech/open-congo/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=smirltech/open-congo"/>
+</a>
 
 ### Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

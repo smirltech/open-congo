@@ -23,7 +23,7 @@ class CommuneSeeder extends Seeder
         $communes = json_decode($json);
 
         foreach ($communes as $key => $value) {
-            Commune::create([
+            Commune::updateOrCreate([
                 "nom" => $value->nom,
                 "id" => $value->id,
                 "ville_id" => $value->ville_id

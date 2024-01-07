@@ -25,9 +25,10 @@ class ProvinceSeeder extends Seeder
         $provinces = json_decode($json);
   
         foreach ($provinces as $key => $value) {
-            Province::create([
+            Province::updateOrCreate([
                 "nom" => $value->nom,
-                "id" => $value->id
+                "id" => $value->id,
+                "pays_id" =>42,// Republique Democratique du Congo,
             ]);
         }
     }

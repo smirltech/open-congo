@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Resources\PageableResource;
 use App\Models\Commune;
+use App\Models\Pays;
 use App\Models\Province;
 use App\Models\Ville;
 use Illuminate\Http\JsonResponse;
@@ -28,6 +29,11 @@ class SearchController extends Controller
 
         $data = [];
         $limit = $request->limit ?? 10;
+
+        $pays = Pays::where('nom', 'like', '%' . $request->q . '%')
+        ->orderBy('nom', 'asc')
+        ->limit($limit)->get();
+
         $provinces = Province::where('nom', 'like', '%' . $request->q . '%')
             ->orderBy('nom', 'asc')
             ->limit($limit)->get();
@@ -45,7 +51,13 @@ class SearchController extends Controller
             ->limit($limit)->get();
 
 
-
+            foreach ($pays as $pay) {
+                $data[] = [
+                    'id' => $pay->id,
+                    'nom' => $pay->nom,
+                    'type' => 'pays',
+                ];
+            }
 
         foreach ($provinces as $province) {
             $data[] = [

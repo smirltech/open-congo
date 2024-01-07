@@ -23,7 +23,7 @@ class VilleSeeder extends Seeder
         $villes = json_decode($json);
 
         foreach ($villes as $key => $value) {
-            Ville::create([
+            Ville::updateOrCreate([
                 "nom" => $value->nom,
                 "id" => $value->id,
                 "province_id" => $value->province_id

@@ -22,6 +22,9 @@ class DatabaseSeeder extends Seeder
         // ]);
 
         $this->call([
+            PaysSeeder::class,
+
+                // These seeds are for the Democratic Republic of Congo with pays_id = 42
             ProvinceSeeder::class,
             VilleSeeder::class,
             CommuneSeeder::class,

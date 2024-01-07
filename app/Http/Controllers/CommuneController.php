@@ -63,7 +63,7 @@ class CommuneController extends Controller
      * @param Commune $commune
      * @return CommuneResource
      */
-    #[Pure] public function show(Commune $commune)
+    public function show(Commune $commune)
     {
         return new CommuneResource($commune);
     }

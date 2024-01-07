@@ -17,7 +17,8 @@ class VilleFactory extends Factory
     public function definition()
     {
         return [
-            //
+            'nom' => $this->faker->city,
+            'province_id' => ProvinceFactory::new(),
         ];
     }
 }

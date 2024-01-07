@@ -27,7 +27,7 @@ class PaysController extends Controller
      */
     public function index(Request $request)
     {
-        dd($request->all());
+
         $pays = Pays::query();
 
         foreach ($request->all() as $key => $value) {

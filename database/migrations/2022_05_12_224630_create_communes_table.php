@@ -15,6 +15,8 @@ return new class extends Migration
     {
         Schema::create('communes', function (Blueprint $table) {
             $table->id();
+            $table->string('nom');
+            $table->unsignedBigInteger('ville_id');
             $table->timestamps();
         });
     }

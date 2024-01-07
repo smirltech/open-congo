@@ -15,6 +15,8 @@ return new class extends Migration
     {
         Schema::create('rues', function (Blueprint $table) {
             $table->id();
+            $table->string('nom');
+            $table->unsignedBigInteger('quartier_id');
             $table->timestamps();
         });
     }

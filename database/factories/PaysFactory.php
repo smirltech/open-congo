@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Factories\Factory;
 /**
  * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Province>
  */
-class ProvinceFactory extends Factory
+class PaysFactory extends Factory
 {
     /**
      * Define the model's default state.
@@ -18,7 +18,7 @@ class ProvinceFactory extends Factory
     {
         return [
             //
-            "nom" => $this->faker->state,
+            "nom" => $this->faker->country,
         ];
     }
 }

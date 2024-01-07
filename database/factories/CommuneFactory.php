@@ -18,6 +18,8 @@ class CommuneFactory extends Factory
     {
         return [
             //
+            "nom" => $this->faker->word,
+            "ville_id" => VilleFactory::new(),
         ];
     }
 }
